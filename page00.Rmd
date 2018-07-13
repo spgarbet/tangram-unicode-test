@@ -86,6 +86,7 @@ Working on u003C
 ```{r, results="asis"}
 l("<")
 ```
+
 Working on u003E
 
 ```{r, results="asis"}
@@ -692,3 +693,5 @@ Working on u00FF
 ```{r, results="asis"}
 l("\u00FF")
 ```
+
+And that completes page 00

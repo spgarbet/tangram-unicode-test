@@ -1,0 +1,13635 @@
+
+
+
+Working on u0100
+
+```{r, results="asis"}
+l("\u0100")
+```
+
+Working on u0101
+
+```{r, results="asis"}
+l("\u0101")
+```
+
+Working on u0102
+
+```{r, results="asis"}
+l("\u0102")
+```
+
+Working on u0103
+
+```{r, results="asis"}
+l("\u0103")
+```
+
+Working on u0104
+
+```{r, results="asis"}
+l("\u0104")
+```
+
+Working on u0105
+
+```{r, results="asis"}
+l("\u0105")
+```
+
+Working on u0106
+
+```{r, results="asis"}
+l("\u0106")
+```
+
+Working on u0107
+
+```{r, results="asis"}
+l("\u0107")
+```
+
+Working on u0108
+
+```{r, results="asis"}
+l("\u0108")
+```
+
+Working on u0109
+
+```{r, results="asis"}
+l("\u0109")
+```
+
+Working on u010A
+
+```{r, results="asis"}
+l("\u010A")
+```
+
+Working on u010B
+
+```{r, results="asis"}
+l("\u010B")
+```
+
+Working on u010C
+
+```{r, results="asis"}
+l("\u010C")
+```
+
+Working on u010D
+
+```{r, results="asis"}
+l("\u010D")
+```
+
+Working on u010E
+
+```{r, results="asis"}
+l("\u010E")
+```
+
+Working on u010F
+
+```{r, results="asis"}
+l("\u010F")
+```
+
+Working on u0110
+
+```{r, results="asis"}
+l("\u0110")
+```
+
+Working on u0111
+
+```{r, results="asis"}
+l("\u0111")
+```
+
+Working on u0112
+
+```{r, results="asis"}
+l("\u0112")
+```
+
+Working on u0113
+
+```{r, results="asis"}
+l("\u0113")
+```
+
+Working on u0114
+
+```{r, results="asis"}
+l("\u0114")
+```
+
+Working on u0115
+
+```{r, results="asis"}
+l("\u0115")
+```
+
+Working on u0116
+
+```{r, results="asis"}
+l("\u0116")
+```
+
+Working on u0117
+
+```{r, results="asis"}
+l("\u0117")
+```
+
+Working on u0118
+
+```{r, results="asis"}
+l("\u0118")
+```
+
+Working on u0119
+
+```{r, results="asis"}
+l("\u0119")
+```
+
+Working on u011A
+
+```{r, results="asis"}
+l("\u011A")
+```
+
+Working on u011B
+
+```{r, results="asis"}
+l("\u011B")
+```
+
+Working on u011C
+
+```{r, results="asis"}
+l("\u011C")
+```
+
+Working on u011D
+
+```{r, results="asis"}
+l("\u011D")
+```
+
+Working on u011E
+
+```{r, results="asis"}
+l("\u011E")
+```
+
+Working on u011F
+
+```{r, results="asis"}
+l("\u011F")
+```
+
+Working on u0120
+
+```{r, results="asis"}
+l("\u0120")
+```
+
+Working on u0121
+
+```{r, results="asis"}
+l("\u0121")
+```
+
+Working on u0122
+
+```{r, results="asis"}
+l("\u0122")
+```
+
+Working on u0123
+
+```{r, results="asis"}
+l("\u0123")
+```
+
+Working on u0124
+
+```{r, results="asis"}
+l("\u0124")
+```
+
+Working on u0125
+
+```{r, results="asis"}
+l("\u0125")
+```
+
+Working on u0126
+
+```{r, results="asis"}
+l("\u0126")
+```
+
+Working on u0127
+
+```{r, results="asis"}
+l("\u0127")
+```
+
+Working on u0128
+
+```{r, results="asis"}
+l("\u0128")
+```
+
+Working on u0129
+
+```{r, results="asis"}
+l("\u0129")
+```
+
+Working on u012A
+
+```{r, results="asis"}
+l("\u012A")
+```
+
+Working on u012B
+
+```{r, results="asis"}
+l("\u012B")
+```
+
+Working on u012C
+
+```{r, results="asis"}
+l("\u012C")
+```
+
+Working on u012D
+
+```{r, results="asis"}
+l("\u012D")
+```
+
+Working on u012E
+
+```{r, results="asis"}
+l("\u012E")
+```
+
+Working on u012F
+
+```{r, results="asis"}
+l("\u012F")
+```
+
+Working on u0130
+
+```{r, results="asis"}
+l("\u0130")
+```
+
+Working on u0131
+
+```{r, results="asis"}
+l("\u0131")
+```
+
+Working on u0132
+
+```{r, results="asis"}
+l("\u0132")
+```
+
+Working on u0133
+
+```{r, results="asis"}
+l("\u0133")
+```
+
+Working on u0134
+
+```{r, results="asis"}
+l("\u0134")
+```
+
+Working on u0135
+
+```{r, results="asis"}
+l("\u0135")
+```
+
+Working on u0136
+
+```{r, results="asis"}
+l("\u0136")
+```
+
+Working on u0137
+
+```{r, results="asis"}
+l("\u0137")
+```
+
+Working on u0138
+
+```{r, results="asis"}
+l("\u0138")
+```
+
+Working on u0139
+
+```{r, results="asis"}
+l("\u0139")
+```
+
+Working on u013A
+
+```{r, results="asis"}
+l("\u013A")
+```
+
+Working on u013B
+
+```{r, results="asis"}
+l("\u013B")
+```
+
+Working on u013C
+
+```{r, results="asis"}
+l("\u013C")
+```
+
+Working on u013D
+
+```{r, results="asis"}
+l("\u013D")
+```
+
+Working on u013E
+
+```{r, results="asis"}
+l("\u013E")
+```
+
+Working on u013F
+
+```{r, results="asis"}
+l("\u013F")
+```
+
+Working on u0140
+
+```{r, results="asis"}
+l("\u0140")
+```
+
+Working on u0141
+
+```{r, results="asis"}
+l("\u0141")
+```
+
+Working on u0142
+
+```{r, results="asis"}
+l("\u0142")
+```
+
+Working on u0143
+
+```{r, results="asis"}
+l("\u0143")
+```
+
+Working on u0144
+
+```{r, results="asis"}
+l("\u0144")
+```
+
+Working on u0145
+
+```{r, results="asis"}
+l("\u0145")
+```
+
+Working on u0146
+
+```{r, results="asis"}
+l("\u0146")
+```
+
+Working on u0147
+
+```{r, results="asis"}
+l("\u0147")
+```
+
+Working on u0148
+
+```{r, results="asis"}
+l("\u0148")
+```
+
+Working on u0149
+
+```{r, results="asis"}
+l("\u0149")
+```
+
+Working on u014A
+
+```{r, results="asis"}
+l("\u014A")
+```
+
+Working on u014B
+
+```{r, results="asis"}
+l("\u014B")
+```
+
+Working on u014C
+
+```{r, results="asis"}
+l("\u014C")
+```
+
+Working on u014D
+
+```{r, results="asis"}
+l("\u014D")
+```
+
+Working on u014E
+
+```{r, results="asis"}
+l("\u014E")
+```
+
+Working on u014F
+
+```{r, results="asis"}
+l("\u014F")
+```
+
+Working on u0150
+
+```{r, results="asis"}
+l("\u0150")
+```
+
+Working on u0151
+
+```{r, results="asis"}
+l("\u0151")
+```
+
+Working on u0152
+
+```{r, results="asis"}
+l("\u0152")
+```
+
+Working on u0153
+
+```{r, results="asis"}
+l("\u0153")
+```
+
+Working on u0154
+
+```{r, results="asis"}
+l("\u0154")
+```
+
+Working on u0155
+
+```{r, results="asis"}
+l("\u0155")
+```
+
+Working on u0156
+
+```{r, results="asis"}
+l("\u0156")
+```
+
+Working on u0157
+
+```{r, results="asis"}
+l("\u0157")
+```
+
+Working on u0158
+
+```{r, results="asis"}
+l("\u0158")
+```
+
+Working on u0159
+
+```{r, results="asis"}
+l("\u0159")
+```
+
+Working on u015A
+
+```{r, results="asis"}
+l("\u015A")
+```
+
+Working on u015B
+
+```{r, results="asis"}
+l("\u015B")
+```
+
+Working on u015C
+
+```{r, results="asis"}
+l("\u015C")
+```
+
+Working on u015D
+
+```{r, results="asis"}
+l("\u015D")
+```
+
+Working on u015E
+
+```{r, results="asis"}
+l("\u015E")
+```
+
+Working on u015F
+
+```{r, results="asis"}
+l("\u015F")
+```
+
+Working on u0160
+
+```{r, results="asis"}
+l("\u0160")
+```
+
+Working on u0161
+
+```{r, results="asis"}
+l("\u0161")
+```
+
+Working on u0162
+
+```{r, results="asis"}
+l("\u0162")
+```
+
+Working on u0163
+
+```{r, results="asis"}
+l("\u0163")
+```
+
+Working on u0164
+
+```{r, results="asis"}
+l("\u0164")
+```
+
+Working on u0165
+
+```{r, results="asis"}
+l("\u0165")
+```
+
+Working on u0166
+
+```{r, results="asis"}
+l("\u0166")
+```
+
+Working on u0167
+
+```{r, results="asis"}
+l("\u0167")
+```
+
+Working on u0168
+
+```{r, results="asis"}
+l("\u0168")
+```
+
+Working on u0169
+
+```{r, results="asis"}
+l("\u0169")
+```
+
+Working on u016A
+
+```{r, results="asis"}
+l("\u016A")
+```
+
+Working on u016B
+
+```{r, results="asis"}
+l("\u016B")
+```
+
+Working on u016C
+
+```{r, results="asis"}
+l("\u016C")
+```
+
+Working on u016D
+
+```{r, results="asis"}
+l("\u016D")
+```
+
+Working on u016E
+
+```{r, results="asis"}
+l("\u016E")
+```
+
+Working on u016F
+
+```{r, results="asis"}
+l("\u016F")
+```
+
+Working on u0170
+
+```{r, results="asis"}
+l("\u0170")
+```
+
+Working on u0171
+
+```{r, results="asis"}
+l("\u0171")
+```
+
+Working on u0172
+
+```{r, results="asis"}
+l("\u0172")
+```
+
+Working on u0173
+
+```{r, results="asis"}
+l("\u0173")
+```
+
+Working on u0174
+
+```{r, results="asis"}
+l("\u0174")
+```
+
+Working on u0175
+
+```{r, results="asis"}
+l("\u0175")
+```
+
+Working on u0176
+
+```{r, results="asis"}
+l("\u0176")
+```
+
+Working on u0177
+
+```{r, results="asis"}
+l("\u0177")
+```
+
+Working on u0178
+
+```{r, results="asis"}
+l("\u0178")
+```
+
+Working on u0179
+
+```{r, results="asis"}
+l("\u0179")
+```
+
+Working on u017A
+
+```{r, results="asis"}
+l("\u017A")
+```
+
+Working on u017B
+
+```{r, results="asis"}
+l("\u017B")
+```
+
+Working on u017C
+
+```{r, results="asis"}
+l("\u017C")
+```
+
+Working on u017D
+
+```{r, results="asis"}
+l("\u017D")
+```
+
+Working on u017E
+
+```{r, results="asis"}
+l("\u017E")
+```
+
+Working on u017F
+
+```{r, results="asis"}
+l("\u017F")
+```
+
+Working on u0195
+
+```{r, results="asis"}
+l("\u0195")
+```
+
+Working on u019E
+
+```{r, results="asis"}
+l("\u019E")
+```
+
+Working on u01AA
+
+```{r, results="asis"}
+l("\u01AA")
+```
+
+Working on u01BA
+
+```{r, results="asis"}
+l("\u01BA")
+```
+
+Working on u01C2
+
+```{r, results="asis"}
+l("\u01C2")
+```
+
+Working on u01c4
+
+```{r, results="asis"}
+l("\u01c4")
+```
+
+Working on u030c
+
+```{r, results="asis"}
+l("\u030c")
+```
+
+Working on u01c5
+
+```{r, results="asis"}
+l("\u01c5")
+```
+
+Working on u030c
+
+```{r, results="asis"}
+l("\u030c")
+```
+
+Working on u01c6
+
+```{r, results="asis"}
+l("\u01c6")
+```
+
+Working on u030c
+
+```{r, results="asis"}
+l("\u030c")
+```
+
+Working on u01c7
+
+```{r, results="asis"}
+l("\u01c7")
+```
+
+Working on u01c8
+
+```{r, results="asis"}
+l("\u01c8")
+```
+
+Working on u01c9
+
+```{r, results="asis"}
+l("\u01c9")
+```
+
+Working on u01ca
+
+```{r, results="asis"}
+l("\u01ca")
+```
+
+Working on u01cb
+
+```{r, results="asis"}
+l("\u01cb")
+```
+
+Working on u01cc
+
+```{r, results="asis"}
+l("\u01cc")
+```
+
+Working on u01F1
+
+```{r, results="asis"}
+l("\u01F1")
+```
+
+Working on u01F2
+
+```{r, results="asis"}
+l("\u01F2")
+```
+
+Working on u01F3
+
+```{r, results="asis"}
+l("\u01F3")
+```
+
+Working on u01F5
+
+```{r, results="asis"}
+l("\u01F5")
+```
+
+Working on u0250
+
+```{r, results="asis"}
+l("\u0250")
+```
+
+Working on u0252
+
+```{r, results="asis"}
+l("\u0252")
+```
+
+Working on u0254
+
+```{r, results="asis"}
+l("\u0254")
+```
+
+Working on u0256
+
+```{r, results="asis"}
+l("\u0256")
+```
+
+Working on u0258
+
+```{r, results="asis"}
+l("\u0258")
+```
+
+Working on u0259
+
+```{r, results="asis"}
+l("\u0259")
+```
+
+Working on u025B
+
+```{r, results="asis"}
+l("\u025B")
+```
+
+Working on u0263
+
+```{r, results="asis"}
+l("\u0263")
+```
+
+Working on u0264
+
+```{r, results="asis"}
+l("\u0264")
+```
+
+Working on u0265
+
+```{r, results="asis"}
+l("\u0265")
+```
+
+Working on u026C
+
+```{r, results="asis"}
+l("\u026C")
+```
+
+Working on u026D
+
+```{r, results="asis"}
+l("\u026D")
+```
+
+Working on u026F
+
+```{r, results="asis"}
+l("\u026F")
+```
+
+Working on u0270
+
+```{r, results="asis"}
+l("\u0270")
+```
+
+Working on u0271
+
+```{r, results="asis"}
+l("\u0271")
+```
+
+Working on u0272
+
+```{r, results="asis"}
+l("\u0272")
+```
+
+Working on u0273
+
+```{r, results="asis"}
+l("\u0273")
+```
+
+Working on u0277
+
+```{r, results="asis"}
+l("\u0277")
+```
+
+Working on u0278
+
+```{r, results="asis"}
+l("\u0278")
+```
+
+Working on u0279
+
+```{r, results="asis"}
+l("\u0279")
+```
+
+Working on u027A
+
+```{r, results="asis"}
+l("\u027A")
+```
+
+Working on u027B
+
+```{r, results="asis"}
+l("\u027B")
+```
+
+Working on u027C
+
+```{r, results="asis"}
+l("\u027C")
+```
+
+Working on u027D
+
+```{r, results="asis"}
+l("\u027D")
+```
+
+Working on u027E
+
+```{r, results="asis"}
+l("\u027E")
+```
+
+Working on u027F
+
+```{r, results="asis"}
+l("\u027F")
+```
+
+Working on u0282
+
+```{r, results="asis"}
+l("\u0282")
+```
+
+Working on u0283
+
+```{r, results="asis"}
+l("\u0283")
+```
+
+Working on u0287
+
+```{r, results="asis"}
+l("\u0287")
+```
+
+Working on u0288
+
+```{r, results="asis"}
+l("\u0288")
+```
+
+Working on u028A
+
+```{r, results="asis"}
+l("\u028A")
+```
+
+Working on u028B
+
+```{r, results="asis"}
+l("\u028B")
+```
+
+Working on u028C
+
+```{r, results="asis"}
+l("\u028C")
+```
+
+Working on u028D
+
+```{r, results="asis"}
+l("\u028D")
+```
+
+Working on u028E
+
+```{r, results="asis"}
+l("\u028E")
+```
+
+Working on u0290
+
+```{r, results="asis"}
+l("\u0290")
+```
+
+Working on u0292
+
+```{r, results="asis"}
+l("\u0292")
+```
+
+Working on u0294
+
+```{r, results="asis"}
+l("\u0294")
+```
+
+Working on u0295
+
+```{r, results="asis"}
+l("\u0295")
+```
+
+Working on u0296
+
+```{r, results="asis"}
+l("\u0296")
+```
+
+Working on u029E
+
+```{r, results="asis"}
+l("\u029E")
+```
+
+Working on u02A4
+
+```{r, results="asis"}
+l("\u02A4")
+```
+
+Working on u02A7
+
+```{r, results="asis"}
+l("\u02A7")
+```
+
+Working on u02C7
+
+```{r, results="asis"}
+l("\u02C7")
+```
+
+Working on u02C8
+
+```{r, results="asis"}
+l("\u02C8")
+```
+
+Working on u02CC
+
+```{r, results="asis"}
+l("\u02CC")
+```
+
+Working on u02D0
+
+```{r, results="asis"}
+l("\u02D0")
+```
+
+Working on u02D1
+
+```{r, results="asis"}
+l("\u02D1")
+```
+
+Working on u02D2
+
+```{r, results="asis"}
+l("\u02D2")
+```
+
+Working on u02D3
+
+```{r, results="asis"}
+l("\u02D3")
+```
+
+Working on u02D4
+
+```{r, results="asis"}
+l("\u02D4")
+```
+
+Working on u02D5
+
+```{r, results="asis"}
+l("\u02D5")
+```
+
+Working on u02D8
+
+```{r, results="asis"}
+l("\u02D8")
+```
+
+Working on u02D9
+
+```{r, results="asis"}
+l("\u02D9")
+```
+
+Working on u02DA
+
+```{r, results="asis"}
+l("\u02DA")
+```
+
+Working on u02DB
+
+```{r, results="asis"}
+l("\u02DB")
+```
+
+Working on u02DC
+
+```{r, results="asis"}
+l("\u02DC")
+```
+
+Working on u02DD
+
+```{r, results="asis"}
+l("\u02DD")
+```
+
+Working on u02E5
+
+```{r, results="asis"}
+l("\u02E5")
+```
+
+Working on u02E6
+
+```{r, results="asis"}
+l("\u02E6")
+```
+
+Working on u02E7
+
+```{r, results="asis"}
+l("\u02E7")
+```
+
+Working on u02E8
+
+```{r, results="asis"}
+l("\u02E8")
+```
+
+Working on u02E9
+
+```{r, results="asis"}
+l("\u02E9")
+```
+
+Working on u02F7
+
+```{r, results="asis"}
+l("\u02F7")
+```
+
+Working on u0300
+
+```{r, results="asis"}
+l("\u0300")
+```
+
+Working on u0301
+
+```{r, results="asis"}
+l("\u0301")
+```
+
+Working on u0302
+
+```{r, results="asis"}
+l("\u0302")
+```
+
+Working on u0303
+
+```{r, results="asis"}
+l("\u0303")
+```
+
+Working on u0304
+
+```{r, results="asis"}
+l("\u0304")
+```
+
+Working on u0306
+
+```{r, results="asis"}
+l("\u0306")
+```
+
+Working on u0307
+
+```{r, results="asis"}
+l("\u0307")
+```
+
+Working on u0308
+
+```{r, results="asis"}
+l("\u0308")
+```
+
+Working on u030A
+
+```{r, results="asis"}
+l("\u030A")
+```
+
+Working on u030B
+
+```{r, results="asis"}
+l("\u030B")
+```
+
+Working on u030C
+
+```{r, results="asis"}
+l("\u030C")
+```
+
+Working on u030F
+
+```{r, results="asis"}
+l("\u030F")
+```
+
+Working on u0311
+
+```{r, results="asis"}
+l("\u0311")
+```
+
+Working on u0318
+
+```{r, results="asis"}
+l("\u0318")
+```
+
+Working on u0319
+
+```{r, results="asis"}
+l("\u0319")
+```
+
+Working on u0321
+
+```{r, results="asis"}
+l("\u0321")
+```
+
+Working on u0322
+
+```{r, results="asis"}
+l("\u0322")
+```
+
+Working on u0327
+
+```{r, results="asis"}
+l("\u0327")
+```
+
+Working on u0328
+
+```{r, results="asis"}
+l("\u0328")
+```
+
+Working on u032A
+
+```{r, results="asis"}
+l("\u032A")
+```
+
+Working on u032B
+
+```{r, results="asis"}
+l("\u032B")
+```
+
+Working on u032F
+
+```{r, results="asis"}
+l("\u032F")
+```
+
+Working on u0335
+
+```{r, results="asis"}
+l("\u0335")
+```
+
+Working on u0336
+
+```{r, results="asis"}
+l("\u0336")
+```
+
+Working on u0337
+
+```{r, results="asis"}
+l("\u0337")
+```
+
+Working on u0338
+
+```{r, results="asis"}
+l("\u0338")
+```
+
+Working on u033A
+
+```{r, results="asis"}
+l("\u033A")
+```
+
+Working on u033B
+
+```{r, results="asis"}
+l("\u033B")
+```
+
+Working on u033C
+
+```{r, results="asis"}
+l("\u033C")
+```
+
+Working on u033D
+
+```{r, results="asis"}
+l("\u033D")
+```
+
+Working on u0361
+
+```{r, results="asis"}
+l("\u0361")
+```
+
+Working on u0386
+
+```{r, results="asis"}
+l("\u0386")
+```
+
+Working on u0388
+
+```{r, results="asis"}
+l("\u0388")
+```
+
+Working on u0389
+
+```{r, results="asis"}
+l("\u0389")
+```
+
+Working on u038A
+
+```{r, results="asis"}
+l("\u038A")
+```
+
+Working on u038C
+
+```{r, results="asis"}
+l("\u038C")
+```
+
+Working on u038E
+
+```{r, results="asis"}
+l("\u038E")
+```
+
+Working on u038F
+
+```{r, results="asis"}
+l("\u038F")
+```
+
+Working on u0390
+
+```{r, results="asis"}
+l("\u0390")
+```
+
+Working on u0391
+
+```{r, results="asis"}
+l("\u0391")
+```
+
+Working on u0392
+
+```{r, results="asis"}
+l("\u0392")
+```
+
+Working on u0393
+
+```{r, results="asis"}
+l("\u0393")
+```
+
+Working on u0394
+
+```{r, results="asis"}
+l("\u0394")
+```
+
+Working on u0395
+
+```{r, results="asis"}
+l("\u0395")
+```
+
+Working on u0396
+
+```{r, results="asis"}
+l("\u0396")
+```
+
+Working on u0397
+
+```{r, results="asis"}
+l("\u0397")
+```
+
+Working on u0398
+
+```{r, results="asis"}
+l("\u0398")
+```
+
+Working on u0399
+
+```{r, results="asis"}
+l("\u0399")
+```
+
+Working on u039A
+
+```{r, results="asis"}
+l("\u039A")
+```
+
+Working on u039B
+
+```{r, results="asis"}
+l("\u039B")
+```
+
+Working on u039E
+
+```{r, results="asis"}
+l("\u039E")
+```
+
+Working on u03A0
+
+```{r, results="asis"}
+l("\u03A0")
+```
+
+Working on u03A1
+
+```{r, results="asis"}
+l("\u03A1")
+```
+
+Working on u03A3
+
+```{r, results="asis"}
+l("\u03A3")
+```
+
+Working on u03A4
+
+```{r, results="asis"}
+l("\u03A4")
+```
+
+Working on u03A5
+
+```{r, results="asis"}
+l("\u03A5")
+```
+
+Working on u03A6
+
+```{r, results="asis"}
+l("\u03A6")
+```
+
+Working on u03A7
+
+```{r, results="asis"}
+l("\u03A7")
+```
+
+Working on u03A8
+
+```{r, results="asis"}
+l("\u03A8")
+```
+
+Working on u03A9
+
+```{r, results="asis"}
+l("\u03A9")
+```
+
+Working on u03AA
+
+```{r, results="asis"}
+l("\u03AA")
+```
+
+Working on u03AB
+
+```{r, results="asis"}
+l("\u03AB")
+```
+
+Working on u03AC
+
+```{r, results="asis"}
+l("\u03AC")
+```
+
+Working on u03AD
+
+```{r, results="asis"}
+l("\u03AD")
+```
+
+Working on u03AE
+
+```{r, results="asis"}
+l("\u03AE")
+```
+
+Working on u03AF
+
+```{r, results="asis"}
+l("\u03AF")
+```
+
+Working on u03B0
+
+```{r, results="asis"}
+l("\u03B0")
+```
+
+Working on u03B1
+
+```{r, results="asis"}
+l("\u03B1")
+```
+
+Working on u03B2
+
+```{r, results="asis"}
+l("\u03B2")
+```
+
+Working on u03B3
+
+```{r, results="asis"}
+l("\u03B3")
+```
+
+Working on u03B4
+
+```{r, results="asis"}
+l("\u03B4")
+```
+
+Working on u03B5
+
+```{r, results="asis"}
+l("\u03B5")
+```
+
+Working on u03B6
+
+```{r, results="asis"}
+l("\u03B6")
+```
+
+Working on u03B7
+
+```{r, results="asis"}
+l("\u03B7")
+```
+
+Working on u03B8
+
+```{r, results="asis"}
+l("\u03B8")
+```
+
+Working on u03B9
+
+```{r, results="asis"}
+l("\u03B9")
+```
+
+Working on u03BA
+
+```{r, results="asis"}
+l("\u03BA")
+```
+
+Working on u03BB
+
+```{r, results="asis"}
+l("\u03BB")
+```
+
+Working on u03BC
+
+```{r, results="asis"}
+l("\u03BC")
+```
+
+Working on u03BD
+
+```{r, results="asis"}
+l("\u03BD")
+```
+
+Working on u03BE
+
+```{r, results="asis"}
+l("\u03BE")
+```
+
+Working on u03C0
+
+```{r, results="asis"}
+l("\u03C0")
+```
+
+Working on u03C1
+
+```{r, results="asis"}
+l("\u03C1")
+```
+
+Working on u03C2
+
+```{r, results="asis"}
+l("\u03C2")
+```
+
+Working on u03C3
+
+```{r, results="asis"}
+l("\u03C3")
+```
+
+Working on u03C4
+
+```{r, results="asis"}
+l("\u03C4")
+```
+
+Working on u03C5
+
+```{r, results="asis"}
+l("\u03C5")
+```
+
+Working on u03C6
+
+```{r, results="asis"}
+l("\u03C6")
+```
+
+Working on u03C7
+
+```{r, results="asis"}
+l("\u03C7")
+```
+
+Working on u03C8
+
+```{r, results="asis"}
+l("\u03C8")
+```
+
+Working on u03C9
+
+```{r, results="asis"}
+l("\u03C9")
+```
+
+Working on u03CA
+
+```{r, results="asis"}
+l("\u03CA")
+```
+
+Working on u03CB
+
+```{r, results="asis"}
+l("\u03CB")
+```
+
+Working on u03CC
+
+```{r, results="asis"}
+l("\u03CC")
+```
+
+Working on u03CD
+
+```{r, results="asis"}
+l("\u03CD")
+```
+
+Working on u03CE
+
+```{r, results="asis"}
+l("\u03CE")
+```
+
+Working on u03D0
+
+```{r, results="asis"}
+l("\u03D0")
+```
+
+Working on u03D1
+
+```{r, results="asis"}
+l("\u03D1")
+```
+
+Working on u03D2
+
+```{r, results="asis"}
+l("\u03D2")
+```
+
+Working on u03D5
+
+```{r, results="asis"}
+l("\u03D5")
+```
+
+Working on u03D6
+
+```{r, results="asis"}
+l("\u03D6")
+```
+
+Working on u03DA
+
+```{r, results="asis"}
+l("\u03DA")
+```
+
+Working on u03DC
+
+```{r, results="asis"}
+l("\u03DC")
+```
+
+Working on u03DD
+
+```{r, results="asis"}
+l("\u03DD")
+```
+
+Working on u03DE
+
+```{r, results="asis"}
+l("\u03DE")
+```
+
+Working on u03E0
+
+```{r, results="asis"}
+l("\u03E0")
+```
+
+Working on u03F0
+
+```{r, results="asis"}
+l("\u03F0")
+```
+
+Working on u03F1
+
+```{r, results="asis"}
+l("\u03F1")
+```
+
+Working on u03F4
+
+```{r, results="asis"}
+l("\u03F4")
+```
+
+Working on u03F6
+
+```{r, results="asis"}
+l("\u03F6")
+```
+
+Working on u0401
+
+```{r, results="asis"}
+l("\u0401")
+```
+
+Working on u0402
+
+```{r, results="asis"}
+l("\u0402")
+```
+
+Working on u0403
+
+```{r, results="asis"}
+l("\u0403")
+```
+
+Working on u0404
+
+```{r, results="asis"}
+l("\u0404")
+```
+
+Working on u0405
+
+```{r, results="asis"}
+l("\u0405")
+```
+
+Working on u0406
+
+```{r, results="asis"}
+l("\u0406")
+```
+
+Working on u0407
+
+```{r, results="asis"}
+l("\u0407")
+```
+
+Working on u0408
+
+```{r, results="asis"}
+l("\u0408")
+```
+
+Working on u0409
+
+```{r, results="asis"}
+l("\u0409")
+```
+
+Working on u040A
+
+```{r, results="asis"}
+l("\u040A")
+```
+
+Working on u040B
+
+```{r, results="asis"}
+l("\u040B")
+```
+
+Working on u040C
+
+```{r, results="asis"}
+l("\u040C")
+```
+
+Working on u040E
+
+```{r, results="asis"}
+l("\u040E")
+```
+
+Working on u040F
+
+```{r, results="asis"}
+l("\u040F")
+```
+
+Working on u0410
+
+```{r, results="asis"}
+l("\u0410")
+```
+
+Working on u0411
+
+```{r, results="asis"}
+l("\u0411")
+```
+
+Working on u0412
+
+```{r, results="asis"}
+l("\u0412")
+```
+
+Working on u0413
+
+```{r, results="asis"}
+l("\u0413")
+```
+
+Working on u0414
+
+```{r, results="asis"}
+l("\u0414")
+```
+
+Working on u0415
+
+```{r, results="asis"}
+l("\u0415")
+```
+
+Working on u0416
+
+```{r, results="asis"}
+l("\u0416")
+```
+
+Working on u0417
+
+```{r, results="asis"}
+l("\u0417")
+```
+
+Working on u0418
+
+```{r, results="asis"}
+l("\u0418")
+```
+
+Working on u0419
+
+```{r, results="asis"}
+l("\u0419")
+```
+
+Working on u041A
+
+```{r, results="asis"}
+l("\u041A")
+```
+
+Working on u041B
+
+```{r, results="asis"}
+l("\u041B")
+```
+
+Working on u041C
+
+```{r, results="asis"}
+l("\u041C")
+```
+
+Working on u041D
+
+```{r, results="asis"}
+l("\u041D")
+```
+
+Working on u041E
+
+```{r, results="asis"}
+l("\u041E")
+```
+
+Working on u041F
+
+```{r, results="asis"}
+l("\u041F")
+```
+
+Working on u0420
+
+```{r, results="asis"}
+l("\u0420")
+```
+
+Working on u0421
+
+```{r, results="asis"}
+l("\u0421")
+```
+
+Working on u0422
+
+```{r, results="asis"}
+l("\u0422")
+```
+
+Working on u0423
+
+```{r, results="asis"}
+l("\u0423")
+```
+
+Working on u0424
+
+```{r, results="asis"}
+l("\u0424")
+```
+
+Working on u0425
+
+```{r, results="asis"}
+l("\u0425")
+```
+
+Working on u0426
+
+```{r, results="asis"}
+l("\u0426")
+```
+
+Working on u0427
+
+```{r, results="asis"}
+l("\u0427")
+```
+
+Working on u0428
+
+```{r, results="asis"}
+l("\u0428")
+```
+
+Working on u0429
+
+```{r, results="asis"}
+l("\u0429")
+```
+
+Working on u042A
+
+```{r, results="asis"}
+l("\u042A")
+```
+
+Working on u042B
+
+```{r, results="asis"}
+l("\u042B")
+```
+
+Working on u042C
+
+```{r, results="asis"}
+l("\u042C")
+```
+
+Working on u042D
+
+```{r, results="asis"}
+l("\u042D")
+```
+
+Working on u042E
+
+```{r, results="asis"}
+l("\u042E")
+```
+
+Working on u042F
+
+```{r, results="asis"}
+l("\u042F")
+```
+
+Working on u0430
+
+```{r, results="asis"}
+l("\u0430")
+```
+
+Working on u0431
+
+```{r, results="asis"}
+l("\u0431")
+```
+
+Working on u0432
+
+```{r, results="asis"}
+l("\u0432")
+```
+
+Working on u0433
+
+```{r, results="asis"}
+l("\u0433")
+```
+
+Working on u0434
+
+```{r, results="asis"}
+l("\u0434")
+```
+
+Working on u0435
+
+```{r, results="asis"}
+l("\u0435")
+```
+
+Working on u0436
+
+```{r, results="asis"}
+l("\u0436")
+```
+
+Working on u0437
+
+```{r, results="asis"}
+l("\u0437")
+```
+
+Working on u0438
+
+```{r, results="asis"}
+l("\u0438")
+```
+
+Working on u0439
+
+```{r, results="asis"}
+l("\u0439")
+```
+
+Working on u043A
+
+```{r, results="asis"}
+l("\u043A")
+```
+
+Working on u043B
+
+```{r, results="asis"}
+l("\u043B")
+```
+
+Working on u043C
+
+```{r, results="asis"}
+l("\u043C")
+```
+
+Working on u043D
+
+```{r, results="asis"}
+l("\u043D")
+```
+
+Working on u043E
+
+```{r, results="asis"}
+l("\u043E")
+```
+
+Working on u043F
+
+```{r, results="asis"}
+l("\u043F")
+```
+
+Working on u0440
+
+```{r, results="asis"}
+l("\u0440")
+```
+
+Working on u0441
+
+```{r, results="asis"}
+l("\u0441")
+```
+
+Working on u0442
+
+```{r, results="asis"}
+l("\u0442")
+```
+
+Working on u0443
+
+```{r, results="asis"}
+l("\u0443")
+```
+
+Working on u0444
+
+```{r, results="asis"}
+l("\u0444")
+```
+
+Working on u0445
+
+```{r, results="asis"}
+l("\u0445")
+```
+
+Working on u0446
+
+```{r, results="asis"}
+l("\u0446")
+```
+
+Working on u0447
+
+```{r, results="asis"}
+l("\u0447")
+```
+
+Working on u0448
+
+```{r, results="asis"}
+l("\u0448")
+```
+
+Working on u0449
+
+```{r, results="asis"}
+l("\u0449")
+```
+
+Working on u044A
+
+```{r, results="asis"}
+l("\u044A")
+```
+
+Working on u044B
+
+```{r, results="asis"}
+l("\u044B")
+```
+
+Working on u044C
+
+```{r, results="asis"}
+l("\u044C")
+```
+
+Working on u044D
+
+```{r, results="asis"}
+l("\u044D")
+```
+
+Working on u044E
+
+```{r, results="asis"}
+l("\u044E")
+```
+
+Working on u044F
+
+```{r, results="asis"}
+l("\u044F")
+```
+
+Working on u0451
+
+```{r, results="asis"}
+l("\u0451")
+```
+
+Working on u0452
+
+```{r, results="asis"}
+l("\u0452")
+```
+
+Working on u0453
+
+```{r, results="asis"}
+l("\u0453")
+```
+
+Working on u0454
+
+```{r, results="asis"}
+l("\u0454")
+```
+
+Working on u0455
+
+```{r, results="asis"}
+l("\u0455")
+```
+
+Working on u0456
+
+```{r, results="asis"}
+l("\u0456")
+```
+
+Working on u0457
+
+```{r, results="asis"}
+l("\u0457")
+```
+
+Working on u0458
+
+```{r, results="asis"}
+l("\u0458")
+```
+
+Working on u0459
+
+```{r, results="asis"}
+l("\u0459")
+```
+
+Working on u045A
+
+```{r, results="asis"}
+l("\u045A")
+```
+
+Working on u045B
+
+```{r, results="asis"}
+l("\u045B")
+```
+
+Working on u045C
+
+```{r, results="asis"}
+l("\u045C")
+```
+
+Working on u045E
+
+```{r, results="asis"}
+l("\u045E")
+```
+
+Working on u045F
+
+```{r, results="asis"}
+l("\u045F")
+```
+
+Working on u0460
+
+```{r, results="asis"}
+l("\u0460")
+```
+
+Working on u0461
+
+```{r, results="asis"}
+l("\u0461")
+```
+
+Working on u0462
+
+```{r, results="asis"}
+l("\u0462")
+```
+
+Working on u0464
+
+```{r, results="asis"}
+l("\u0464")
+```
+
+Working on u0465
+
+```{r, results="asis"}
+l("\u0465")
+```
+
+Working on u0466
+
+```{r, results="asis"}
+l("\u0466")
+```
+
+Working on u0467
+
+```{r, results="asis"}
+l("\u0467")
+```
+
+Working on u0468
+
+```{r, results="asis"}
+l("\u0468")
+```
+
+Working on u0469
+
+```{r, results="asis"}
+l("\u0469")
+```
+
+Working on u046A
+
+```{r, results="asis"}
+l("\u046A")
+```
+
+Working on u046C
+
+```{r, results="asis"}
+l("\u046C")
+```
+
+Working on u046D
+
+```{r, results="asis"}
+l("\u046D")
+```
+
+Working on u046E
+
+```{r, results="asis"}
+l("\u046E")
+```
+
+Working on u046F
+
+```{r, results="asis"}
+l("\u046F")
+```
+
+Working on u0470
+
+```{r, results="asis"}
+l("\u0470")
+```
+
+Working on u0471
+
+```{r, results="asis"}
+l("\u0471")
+```
+
+Working on u0472
+
+```{r, results="asis"}
+l("\u0472")
+```
+
+Working on u0474
+
+```{r, results="asis"}
+l("\u0474")
+```
+
+Working on u0478
+
+```{r, results="asis"}
+l("\u0478")
+```
+
+Working on u0479
+
+```{r, results="asis"}
+l("\u0479")
+```
+
+Working on u047A
+
+```{r, results="asis"}
+l("\u047A")
+```
+
+Working on u047B
+
+```{r, results="asis"}
+l("\u047B")
+```
+
+Working on u047C
+
+```{r, results="asis"}
+l("\u047C")
+```
+
+Working on u047D
+
+```{r, results="asis"}
+l("\u047D")
+```
+
+Working on u047E
+
+```{r, results="asis"}
+l("\u047E")
+```
+
+Working on u047F
+
+```{r, results="asis"}
+l("\u047F")
+```
+
+Working on u0480
+
+```{r, results="asis"}
+l("\u0480")
+```
+
+Working on u0481
+
+```{r, results="asis"}
+l("\u0481")
+```
+
+Working on u0482
+
+```{r, results="asis"}
+l("\u0482")
+```
+
+Working on u0488
+
+```{r, results="asis"}
+l("\u0488")
+```
+
+Working on u0489
+
+```{r, results="asis"}
+l("\u0489")
+```
+
+Working on u048C
+
+```{r, results="asis"}
+l("\u048C")
+```
+
+Working on u048D
+
+```{r, results="asis"}
+l("\u048D")
+```
+
+Working on u048E
+
+```{r, results="asis"}
+l("\u048E")
+```
+
+Working on u048F
+
+```{r, results="asis"}
+l("\u048F")
+```
+
+Working on u0490
+
+```{r, results="asis"}
+l("\u0490")
+```
+
+Working on u0491
+
+```{r, results="asis"}
+l("\u0491")
+```
+
+Working on u0492
+
+```{r, results="asis"}
+l("\u0492")
+```
+
+Working on u0493
+
+```{r, results="asis"}
+l("\u0493")
+```
+
+Working on u0494
+
+```{r, results="asis"}
+l("\u0494")
+```
+
+Working on u0495
+
+```{r, results="asis"}
+l("\u0495")
+```
+
+Working on u0496
+
+```{r, results="asis"}
+l("\u0496")
+```
+
+Working on u0497
+
+```{r, results="asis"}
+l("\u0497")
+```
+
+Working on u0498
+
+```{r, results="asis"}
+l("\u0498")
+```
+
+Working on u0499
+
+```{r, results="asis"}
+l("\u0499")
+```
+
+Working on u049A
+
+```{r, results="asis"}
+l("\u049A")
+```
+
+Working on u049B
+
+```{r, results="asis"}
+l("\u049B")
+```
+
+Working on u049C
+
+```{r, results="asis"}
+l("\u049C")
+```
+
+Working on u049D
+
+```{r, results="asis"}
+l("\u049D")
+```
+
+Working on u049E
+
+```{r, results="asis"}
+l("\u049E")
+```
+
+Working on u049F
+
+```{r, results="asis"}
+l("\u049F")
+```
+
+Working on u04A0
+
+```{r, results="asis"}
+l("\u04A0")
+```
+
+Working on u04A1
+
+```{r, results="asis"}
+l("\u04A1")
+```
+
+Working on u04A2
+
+```{r, results="asis"}
+l("\u04A2")
+```
+
+Working on u04A3
+
+```{r, results="asis"}
+l("\u04A3")
+```
+
+Working on u04A4
+
+```{r, results="asis"}
+l("\u04A4")
+```
+
+Working on u04A5
+
+```{r, results="asis"}
+l("\u04A5")
+```
+
+Working on u04A6
+
+```{r, results="asis"}
+l("\u04A6")
+```
+
+Working on u04A7
+
+```{r, results="asis"}
+l("\u04A7")
+```
+
+Working on u04A8
+
+```{r, results="asis"}
+l("\u04A8")
+```
+
+Working on u04A9
+
+```{r, results="asis"}
+l("\u04A9")
+```
+
+Working on u04AA
+
+```{r, results="asis"}
+l("\u04AA")
+```
+
+Working on u04AB
+
+```{r, results="asis"}
+l("\u04AB")
+```
+
+Working on u04AC
+
+```{r, results="asis"}
+l("\u04AC")
+```
+
+Working on u04AD
+
+```{r, results="asis"}
+l("\u04AD")
+```
+
+Working on u04AE
+
+```{r, results="asis"}
+l("\u04AE")
+```
+
+Working on u04AF
+
+```{r, results="asis"}
+l("\u04AF")
+```
+
+Working on u04B0
+
+```{r, results="asis"}
+l("\u04B0")
+```
+
+Working on u04B1
+
+```{r, results="asis"}
+l("\u04B1")
+```
+
+Working on u04B2
+
+```{r, results="asis"}
+l("\u04B2")
+```
+
+Working on u04B3
+
+```{r, results="asis"}
+l("\u04B3")
+```
+
+Working on u04B4
+
+```{r, results="asis"}
+l("\u04B4")
+```
+
+Working on u04B5
+
+```{r, results="asis"}
+l("\u04B5")
+```
+
+Working on u04B6
+
+```{r, results="asis"}
+l("\u04B6")
+```
+
+Working on u04B7
+
+```{r, results="asis"}
+l("\u04B7")
+```
+
+Working on u04B8
+
+```{r, results="asis"}
+l("\u04B8")
+```
+
+Working on u04B9
+
+```{r, results="asis"}
+l("\u04B9")
+```
+
+Working on u04BA
+
+```{r, results="asis"}
+l("\u04BA")
+```
+
+Working on u04BB
+
+```{r, results="asis"}
+l("\u04BB")
+```
+
+Working on u04BC
+
+```{r, results="asis"}
+l("\u04BC")
+```
+
+Working on u04BD
+
+```{r, results="asis"}
+l("\u04BD")
+```
+
+Working on u04BE
+
+```{r, results="asis"}
+l("\u04BE")
+```
+
+Working on u04BF
+
+```{r, results="asis"}
+l("\u04BF")
+```
+
+Working on u04C0
+
+```{r, results="asis"}
+l("\u04C0")
+```
+
+Working on u04C3
+
+```{r, results="asis"}
+l("\u04C3")
+```
+
+Working on u04C4
+
+```{r, results="asis"}
+l("\u04C4")
+```
+
+Working on u04C7
+
+```{r, results="asis"}
+l("\u04C7")
+```
+
+Working on u04C8
+
+```{r, results="asis"}
+l("\u04C8")
+```
+
+Working on u04CB
+
+```{r, results="asis"}
+l("\u04CB")
+```
+
+Working on u04CC
+
+```{r, results="asis"}
+l("\u04CC")
+```
+
+Working on u04D4
+
+```{r, results="asis"}
+l("\u04D4")
+```
+
+Working on u04D5
+
+```{r, results="asis"}
+l("\u04D5")
+```
+
+Working on u04D8
+
+```{r, results="asis"}
+l("\u04D8")
+```
+
+Working on u04D9
+
+```{r, results="asis"}
+l("\u04D9")
+```
+
+Working on u04E0
+
+```{r, results="asis"}
+l("\u04E0")
+```
+
+Working on u04E1
+
+```{r, results="asis"}
+l("\u04E1")
+```
+
+Working on u04E8
+
+```{r, results="asis"}
+l("\u04E8")
+```
+
+Working on u04E9
+
+```{r, results="asis"}
+l("\u04E9")
+```
+
+Working on u0E3F
+
+```{r, results="asis"}
+l("\u0E3F")
+```
+
+Working on u1e9e
+
+```{r, results="asis"}
+l("\u1e9e")
+```
+
+Working on u2002
+
+```{r, results="asis"}
+l("\u2002")
+```
+
+Working on u2003
+
+```{r, results="asis"}
+l("\u2003")
+```
+
+Working on u2004
+
+```{r, results="asis"}
+l("\u2004")
+```
+
+Working on u2005
+
+```{r, results="asis"}
+l("\u2005")
+```
+
+Working on u2006
+
+```{r, results="asis"}
+l("\u2006")
+```
+
+Working on u2007
+
+```{r, results="asis"}
+l("\u2007")
+```
+
+Working on u2008
+
+```{r, results="asis"}
+l("\u2008")
+```
+
+Working on u2009
+
+```{r, results="asis"}
+l("\u2009")
+```
+
+Working on u2009
+
+```{r, results="asis"}
+l("\u2009")
+```
+
+Working on u200A
+
+```{r, results="asis"}
+l("\u200A")
+```
+
+Working on u200B
+
+```{r, results="asis"}
+l("\u200B")
+```
+
+Working on u2013
+
+```{r, results="asis"}
+l("\u2013")
+```
+
+Working on u2014
+
+```{r, results="asis"}
+l("\u2014")
+```
+
+Working on u2015
+
+```{r, results="asis"}
+l("\u2015")
+```
+
+Working on u2016
+
+```{r, results="asis"}
+l("\u2016")
+```
+
+Working on u2018
+
+```{r, results="asis"}
+l("\u2018")
+```
+
+Working on u2019
+
+```{r, results="asis"}
+l("\u2019")
+```
+
+Working on u201A
+
+```{r, results="asis"}
+l("\u201A")
+```
+
+Working on u201B
+
+```{r, results="asis"}
+l("\u201B")
+```
+
+Working on u201C
+
+```{r, results="asis"}
+l("\u201C")
+```
+
+Working on u201D
+
+```{r, results="asis"}
+l("\u201D")
+```
+
+Working on u201E
+
+```{r, results="asis"}
+l("\u201E")
+```
+
+Working on u2020
+
+```{r, results="asis"}
+l("\u2020")
+```
+
+Working on u2021
+
+```{r, results="asis"}
+l("\u2021")
+```
+
+Working on u2022
+
+```{r, results="asis"}
+l("\u2022")
+```
+
+Working on u2025
+
+```{r, results="asis"}
+l("\u2025")
+```
+
+Working on u2026
+
+```{r, results="asis"}
+l("\u2026")
+```
+
+Working on u2030
+
+```{r, results="asis"}
+l("\u2030")
+```
+
+Working on u2031
+
+```{r, results="asis"}
+l("\u2031")
+```
+
+Working on u2032
+
+```{r, results="asis"}
+l("\u2032")
+```
+
+Working on u2033
+
+```{r, results="asis"}
+l("\u2033")
+```
+
+Working on u2034
+
+```{r, results="asis"}
+l("\u2034")
+```
+
+Working on u2035
+
+```{r, results="asis"}
+l("\u2035")
+```
+
+Working on u2039
+
+```{r, results="asis"}
+l("\u2039")
+```
+
+Working on u203A
+
+```{r, results="asis"}
+l("\u203A")
+```
+
+Working on u203B
+
+```{r, results="asis"}
+l("\u203B")
+```
+
+Working on u203D
+
+```{r, results="asis"}
+l("\u203D")
+```
+
+Working on u2044
+
+```{r, results="asis"}
+l("\u2044")
+```
+
+Working on u2045
+
+```{r, results="asis"}
+l("\u2045")
+```
+
+Working on u2046
+
+```{r, results="asis"}
+l("\u2046")
+```
+
+Working on u2052
+
+```{r, results="asis"}
+l("\u2052")
+```
+
+Working on u2057
+
+```{r, results="asis"}
+l("\u2057")
+```
+
+Working on u205F
+
+```{r, results="asis"}
+l("\u205F")
+```
+
+Working on u2060
+
+```{r, results="asis"}
+l("\u2060")
+```
+
+Working on u20A4
+
+```{r, results="asis"}
+l("\u20A4")
+```
+
+Working on u00a5
+
+```{r, results="asis"}
+l("\u00a5")
+```
+
+Working on u20A6
+
+```{r, results="asis"}
+l("\u20A6")
+```
+
+Working on u20A7
+
+```{r, results="asis"}
+l("\u20A7")
+```
+
+Working on u20A9
+
+```{r, results="asis"}
+l("\u20A9")
+```
+
+Working on u20AB
+
+```{r, results="asis"}
+l("\u20AB")
+```
+
+Working on u20AC
+
+```{r, results="asis"}
+l("\u20AC")
+```
+
+Working on u20B1
+
+```{r, results="asis"}
+l("\u20B1")
+```
+
+Working on u20B2
+
+```{r, results="asis"}
+l("\u20B2")
+```
+
+Working on u20DB
+
+```{r, results="asis"}
+l("\u20DB")
+```
+
+Working on u20DC
+
+```{r, results="asis"}
+l("\u20DC")
+```
+
+Working on u2102
+
+```{r, results="asis"}
+l("\u2102")
+```
+
+Working on u2103
+
+```{r, results="asis"}
+l("\u2103")
+```
+
+Working on u210A
+
+```{r, results="asis"}
+l("\u210A")
+```
+
+Working on u210B
+
+```{r, results="asis"}
+l("\u210B")
+```
+
+Working on u210C
+
+```{r, results="asis"}
+l("\u210C")
+```
+
+Working on u210D
+
+```{r, results="asis"}
+l("\u210D")
+```
+
+Working on u210F
+
+```{r, results="asis"}
+l("\u210F")
+```
+
+Working on u2110
+
+```{r, results="asis"}
+l("\u2110")
+```
+
+Working on u2111
+
+```{r, results="asis"}
+l("\u2111")
+```
+
+Working on u2112
+
+```{r, results="asis"}
+l("\u2112")
+```
+
+Working on u2113
+
+```{r, results="asis"}
+l("\u2113")
+```
+
+Working on u2115
+
+```{r, results="asis"}
+l("\u2115")
+```
+
+Working on u2116
+
+```{r, results="asis"}
+l("\u2116")
+```
+
+Working on u2117
+
+```{r, results="asis"}
+l("\u2117")
+```
+
+Working on u2118
+
+```{r, results="asis"}
+l("\u2118")
+```
+
+Working on u2119
+
+```{r, results="asis"}
+l("\u2119")
+```
+
+Working on u211A
+
+```{r, results="asis"}
+l("\u211A")
+```
+
+Working on u211B
+
+```{r, results="asis"}
+l("\u211B")
+```
+
+Working on u211C
+
+```{r, results="asis"}
+l("\u211C")
+```
+
+Working on u211D
+
+```{r, results="asis"}
+l("\u211D")
+```
+
+Working on u211E
+
+```{r, results="asis"}
+l("\u211E")
+```
+
+Working on u2120
+
+```{r, results="asis"}
+l("\u2120")
+```
+
+Working on u2122
+
+```{r, results="asis"}
+l("\u2122")
+```
+
+Working on u2124
+
+```{r, results="asis"}
+l("\u2124")
+```
+
+Working on u2126
+
+```{r, results="asis"}
+l("\u2126")
+```
+
+Working on u2127
+
+```{r, results="asis"}
+l("\u2127")
+```
+
+Working on u2128
+
+```{r, results="asis"}
+l("\u2128")
+```
+
+Working on u2129
+
+```{r, results="asis"}
+l("\u2129")
+```
+
+Working on u212B
+
+```{r, results="asis"}
+l("\u212B")
+```
+
+Working on u212C
+
+```{r, results="asis"}
+l("\u212C")
+```
+
+Working on u212D
+
+```{r, results="asis"}
+l("\u212D")
+```
+
+Working on u212E
+
+```{r, results="asis"}
+l("\u212E")
+```
+
+Working on u212F
+
+```{r, results="asis"}
+l("\u212F")
+```
+
+Working on u2130
+
+```{r, results="asis"}
+l("\u2130")
+```
+
+Working on u2131
+
+```{r, results="asis"}
+l("\u2131")
+```
+
+Working on u2133
+
+```{r, results="asis"}
+l("\u2133")
+```
+
+Working on u2134
+
+```{r, results="asis"}
+l("\u2134")
+```
+
+Working on u2135
+
+```{r, results="asis"}
+l("\u2135")
+```
+
+Working on u2136
+
+```{r, results="asis"}
+l("\u2136")
+```
+
+Working on u2137
+
+```{r, results="asis"}
+l("\u2137")
+```
+
+Working on u2138
+
+```{r, results="asis"}
+l("\u2138")
+```
+
+Working on u2153
+
+```{r, results="asis"}
+l("\u2153")
+```
+
+Working on u2154
+
+```{r, results="asis"}
+l("\u2154")
+```
+
+Working on u2155
+
+```{r, results="asis"}
+l("\u2155")
+```
+
+Working on u2156
+
+```{r, results="asis"}
+l("\u2156")
+```
+
+Working on u2157
+
+```{r, results="asis"}
+l("\u2157")
+```
+
+Working on u2158
+
+```{r, results="asis"}
+l("\u2158")
+```
+
+Working on u2159
+
+```{r, results="asis"}
+l("\u2159")
+```
+
+Working on u215A
+
+```{r, results="asis"}
+l("\u215A")
+```
+
+Working on u215B
+
+```{r, results="asis"}
+l("\u215B")
+```
+
+Working on u215C
+
+```{r, results="asis"}
+l("\u215C")
+```
+
+Working on u215D
+
+```{r, results="asis"}
+l("\u215D")
+```
+
+Working on u215E
+
+```{r, results="asis"}
+l("\u215E")
+```
+
+Working on u2190
+
+```{r, results="asis"}
+l("\u2190")
+```
+
+Working on u2191
+
+```{r, results="asis"}
+l("\u2191")
+```
+
+Working on u2192
+
+```{r, results="asis"}
+l("\u2192")
+```
+
+Working on u2193
+
+```{r, results="asis"}
+l("\u2193")
+```
+
+Working on u2194
+
+```{r, results="asis"}
+l("\u2194")
+```
+
+Working on u2195
+
+```{r, results="asis"}
+l("\u2195")
+```
+
+Working on u2196
+
+```{r, results="asis"}
+l("\u2196")
+```
+
+Working on u2197
+
+```{r, results="asis"}
+l("\u2197")
+```
+
+Working on u2198
+
+```{r, results="asis"}
+l("\u2198")
+```
+
+Working on u2199
+
+```{r, results="asis"}
+l("\u2199")
+```
+
+Working on u219A
+
+```{r, results="asis"}
+l("\u219A")
+```
+
+Working on u219B
+
+```{r, results="asis"}
+l("\u219B")
+```
+
+Working on u219C
+
+```{r, results="asis"}
+l("\u219C")
+```
+
+Working on u219D
+
+```{r, results="asis"}
+l("\u219D")
+```
+
+Working on u219E
+
+```{r, results="asis"}
+l("\u219E")
+```
+
+Working on u21A0
+
+```{r, results="asis"}
+l("\u21A0")
+```
+
+Working on u21A2
+
+```{r, results="asis"}
+l("\u21A2")
+```
+
+Working on u21A3
+
+```{r, results="asis"}
+l("\u21A3")
+```
+
+Working on u21A6
+
+```{r, results="asis"}
+l("\u21A6")
+```
+
+Working on u21A9
+
+```{r, results="asis"}
+l("\u21A9")
+```
+
+Working on u21AA
+
+```{r, results="asis"}
+l("\u21AA")
+```
+
+Working on u21AB
+
+```{r, results="asis"}
+l("\u21AB")
+```
+
+Working on u21AC
+
+```{r, results="asis"}
+l("\u21AC")
+```
+
+Working on u21AD
+
+```{r, results="asis"}
+l("\u21AD")
+```
+
+Working on u21AE
+
+```{r, results="asis"}
+l("\u21AE")
+```
+
+Working on u21B0
+
+```{r, results="asis"}
+l("\u21B0")
+```
+
+Working on u21B1
+
+```{r, results="asis"}
+l("\u21B1")
+```
+
+Working on u21B3
+
+```{r, results="asis"}
+l("\u21B3")
+```
+
+Working on u21B6
+
+```{r, results="asis"}
+l("\u21B6")
+```
+
+Working on u21B7
+
+```{r, results="asis"}
+l("\u21B7")
+```
+
+Working on u21BA
+
+```{r, results="asis"}
+l("\u21BA")
+```
+
+Working on u21BB
+
+```{r, results="asis"}
+l("\u21BB")
+```
+
+Working on u21BC
+
+```{r, results="asis"}
+l("\u21BC")
+```
+
+Working on u21BD
+
+```{r, results="asis"}
+l("\u21BD")
+```
+
+Working on u21BE
+
+```{r, results="asis"}
+l("\u21BE")
+```
+
+Working on u21BF
+
+```{r, results="asis"}
+l("\u21BF")
+```
+
+Working on u21C0
+
+```{r, results="asis"}
+l("\u21C0")
+```
+
+Working on u21C1
+
+```{r, results="asis"}
+l("\u21C1")
+```
+
+Working on u21C2
+
+```{r, results="asis"}
+l("\u21C2")
+```
+
+Working on u21C3
+
+```{r, results="asis"}
+l("\u21C3")
+```
+
+Working on u21C4
+
+```{r, results="asis"}
+l("\u21C4")
+```
+
+Working on u21C5
+
+```{r, results="asis"}
+l("\u21C5")
+```
+
+Working on u21C6
+
+```{r, results="asis"}
+l("\u21C6")
+```
+
+Working on u21C7
+
+```{r, results="asis"}
+l("\u21C7")
+```
+
+Working on u21C8
+
+```{r, results="asis"}
+l("\u21C8")
+```
+
+Working on u21C9
+
+```{r, results="asis"}
+l("\u21C9")
+```
+
+Working on u21CA
+
+```{r, results="asis"}
+l("\u21CA")
+```
+
+Working on u21CB
+
+```{r, results="asis"}
+l("\u21CB")
+```
+
+Working on u21CC
+
+```{r, results="asis"}
+l("\u21CC")
+```
+
+Working on u21CD
+
+```{r, results="asis"}
+l("\u21CD")
+```
+
+Working on u21CE
+
+```{r, results="asis"}
+l("\u21CE")
+```
+
+Working on u21CF
+
+```{r, results="asis"}
+l("\u21CF")
+```
+
+Working on u21D0
+
+```{r, results="asis"}
+l("\u21D0")
+```
+
+Working on u21D1
+
+```{r, results="asis"}
+l("\u21D1")
+```
+
+Working on u21D2
+
+```{r, results="asis"}
+l("\u21D2")
+```
+
+Working on u21D3
+
+```{r, results="asis"}
+l("\u21D3")
+```
+
+Working on u21D4
+
+```{r, results="asis"}
+l("\u21D4")
+```
+
+Working on u21D5
+
+```{r, results="asis"}
+l("\u21D5")
+```
+
+Working on u21DA
+
+```{r, results="asis"}
+l("\u21DA")
+```
+
+Working on u21DB
+
+```{r, results="asis"}
+l("\u21DB")
+```
+
+Working on u21DD
+
+```{r, results="asis"}
+l("\u21DD")
+```
+
+Working on u21F5
+
+```{r, results="asis"}
+l("\u21F5")
+```
+
+Working on u2200
+
+```{r, results="asis"}
+l("\u2200")
+```
+
+Working on u2201
+
+```{r, results="asis"}
+l("\u2201")
+```
+
+Working on u2202
+
+```{r, results="asis"}
+l("\u2202")
+```
+
+Working on u2203
+
+```{r, results="asis"}
+l("\u2203")
+```
+
+Working on u2204
+
+```{r, results="asis"}
+l("\u2204")
+```
+
+Working on u2205
+
+```{r, results="asis"}
+l("\u2205")
+```
+
+Working on u2207
+
+```{r, results="asis"}
+l("\u2207")
+```
+
+Working on u2208
+
+```{r, results="asis"}
+l("\u2208")
+```
+
+Working on u2209
+
+```{r, results="asis"}
+l("\u2209")
+```
+
+Working on u220B
+
+```{r, results="asis"}
+l("\u220B")
+```
+
+Working on u220C
+
+```{r, results="asis"}
+l("\u220C")
+```
+
+Working on u220F
+
+```{r, results="asis"}
+l("\u220F")
+```
+
+Working on u2210
+
+```{r, results="asis"}
+l("\u2210")
+```
+
+Working on u2211
+
+```{r, results="asis"}
+l("\u2211")
+```
+
+Working on u2212
+
+```{r, results="asis"}
+l("\u2212")
+```
+
+Working on u2213
+
+```{r, results="asis"}
+l("\u2213")
+```
+
+Working on u2214
+
+```{r, results="asis"}
+l("\u2214")
+```
+
+Working on u2216
+
+```{r, results="asis"}
+l("\u2216")
+```
+
+Working on u2217
+
+```{r, results="asis"}
+l("\u2217")
+```
+
+Working on u2218
+
+```{r, results="asis"}
+l("\u2218")
+```
+
+Working on u2219
+
+```{r, results="asis"}
+l("\u2219")
+```
+
+Working on u221A
+
+```{r, results="asis"}
+l("\u221A")
+```
+
+Working on u221D
+
+```{r, results="asis"}
+l("\u221D")
+```
+
+Working on u221E
+
+```{r, results="asis"}
+l("\u221E")
+```
+
+Working on u221F
+
+```{r, results="asis"}
+l("\u221F")
+```
+
+Working on u2220
+
+```{r, results="asis"}
+l("\u2220")
+```
+
+Working on u2221
+
+```{r, results="asis"}
+l("\u2221")
+```
+
+Working on u2222
+
+```{r, results="asis"}
+l("\u2222")
+```
+
+Working on u2223
+
+```{r, results="asis"}
+l("\u2223")
+```
+
+Working on u2224
+
+```{r, results="asis"}
+l("\u2224")
+```
+
+Working on u2225
+
+```{r, results="asis"}
+l("\u2225")
+```
+
+Working on u2226
+
+```{r, results="asis"}
+l("\u2226")
+```
+
+Working on u2227
+
+```{r, results="asis"}
+l("\u2227")
+```
+
+Working on u2228
+
+```{r, results="asis"}
+l("\u2228")
+```
+
+Working on u2229
+
+```{r, results="asis"}
+l("\u2229")
+```
+
+Working on u222A
+
+```{r, results="asis"}
+l("\u222A")
+```
+
+Working on u222B
+
+```{r, results="asis"}
+l("\u222B")
+```
+
+Working on u222C
+
+```{r, results="asis"}
+l("\u222C")
+```
+
+Working on u222D
+
+```{r, results="asis"}
+l("\u222D")
+```
+
+Working on u222E
+
+```{r, results="asis"}
+l("\u222E")
+```
+
+Working on u222F
+
+```{r, results="asis"}
+l("\u222F")
+```
+
+Working on u2230
+
+```{r, results="asis"}
+l("\u2230")
+```
+
+Working on u2231
+
+```{r, results="asis"}
+l("\u2231")
+```
+
+Working on u2232
+
+```{r, results="asis"}
+l("\u2232")
+```
+
+Working on u2233
+
+```{r, results="asis"}
+l("\u2233")
+```
+
+Working on u2234
+
+```{r, results="asis"}
+l("\u2234")
+```
+
+Working on u2235
+
+```{r, results="asis"}
+l("\u2235")
+```
+
+Working on u2237
+
+```{r, results="asis"}
+l("\u2237")
+```
+
+Working on u2238
+
+```{r, results="asis"}
+l("\u2238")
+```
+
+Working on u223A
+
+```{r, results="asis"}
+l("\u223A")
+```
+
+Working on u223B
+
+```{r, results="asis"}
+l("\u223B")
+```
+
+Working on u223C
+
+```{r, results="asis"}
+l("\u223C")
+```
+
+Working on u223D
+
+```{r, results="asis"}
+l("\u223D")
+```
+
+Working on u223E
+
+```{r, results="asis"}
+l("\u223E")
+```
+
+Working on u2240
+
+```{r, results="asis"}
+l("\u2240")
+```
+
+Working on u2241
+
+```{r, results="asis"}
+l("\u2241")
+```
+
+Working on u2242
+
+```{r, results="asis"}
+l("\u2242")
+```
+
+Working on u2243
+
+```{r, results="asis"}
+l("\u2243")
+```
+
+Working on u2244
+
+```{r, results="asis"}
+l("\u2244")
+```
+
+Working on u2245
+
+```{r, results="asis"}
+l("\u2245")
+```
+
+Working on u2246
+
+```{r, results="asis"}
+l("\u2246")
+```
+
+Working on u2247
+
+```{r, results="asis"}
+l("\u2247")
+```
+
+Working on u2248
+
+```{r, results="asis"}
+l("\u2248")
+```
+
+Working on u2249
+
+```{r, results="asis"}
+l("\u2249")
+```
+
+Working on u224A
+
+```{r, results="asis"}
+l("\u224A")
+```
+
+Working on u224B
+
+```{r, results="asis"}
+l("\u224B")
+```
+
+Working on u224B
+
+```{r, results="asis"}
+l("\u224B")
+```
+
+Working on u224C
+
+```{r, results="asis"}
+l("\u224C")
+```
+
+Working on u224D
+
+```{r, results="asis"}
+l("\u224D")
+```
+
+Working on u224E
+
+```{r, results="asis"}
+l("\u224E")
+```
+
+Working on u224F
+
+```{r, results="asis"}
+l("\u224F")
+```
+
+Working on u224F
+
+```{r, results="asis"}
+l("\u224F")
+```
+
+Working on u2250
+
+```{r, results="asis"}
+l("\u2250")
+```
+
+Working on u2250
+
+```{r, results="asis"}
+l("\u2250")
+```
+
+Working on u2251
+
+```{r, results="asis"}
+l("\u2251")
+```
+
+Working on u2252
+
+```{r, results="asis"}
+l("\u2252")
+```
+
+Working on u2253
+
+```{r, results="asis"}
+l("\u2253")
+```
+
+Working on u2254
+
+```{r, results="asis"}
+l("\u2254")
+```
+
+Working on u2255
+
+```{r, results="asis"}
+l("\u2255")
+```
+
+Working on u2256
+
+```{r, results="asis"}
+l("\u2256")
+```
+
+Working on u2257
+
+```{r, results="asis"}
+l("\u2257")
+```
+
+Working on u2259
+
+```{r, results="asis"}
+l("\u2259")
+```
+
+Working on u225A
+
+```{r, results="asis"}
+l("\u225A")
+```
+
+Working on u225B
+
+```{r, results="asis"}
+l("\u225B")
+```
+
+Working on u225C
+
+```{r, results="asis"}
+l("\u225C")
+```
+
+Working on u225F
+
+```{r, results="asis"}
+l("\u225F")
+```
+
+Working on u2260
+
+```{r, results="asis"}
+l("\u2260")
+```
+
+Working on u2261
+
+```{r, results="asis"}
+l("\u2261")
+```
+
+Working on u2262
+
+```{r, results="asis"}
+l("\u2262")
+```
+
+Working on u2264
+
+```{r, results="asis"}
+l("\u2264")
+```
+
+Working on u2265
+
+```{r, results="asis"}
+l("\u2265")
+```
+
+Working on u2266
+
+```{r, results="asis"}
+l("\u2266")
+```
+
+Working on u2267
+
+```{r, results="asis"}
+l("\u2267")
+```
+
+Working on u2268
+
+```{r, results="asis"}
+l("\u2268")
+```
+
+Working on u2269
+
+```{r, results="asis"}
+l("\u2269")
+```
+
+Working on u226A
+
+```{r, results="asis"}
+l("\u226A")
+```
+
+Working on u226B
+
+```{r, results="asis"}
+l("\u226B")
+```
+
+Working on u226C
+
+```{r, results="asis"}
+l("\u226C")
+```
+
+Working on u226D
+
+```{r, results="asis"}
+l("\u226D")
+```
+
+Working on u226E
+
+```{r, results="asis"}
+l("\u226E")
+```
+
+Working on u226F
+
+```{r, results="asis"}
+l("\u226F")
+```
+
+Working on u2270
+
+```{r, results="asis"}
+l("\u2270")
+```
+
+Working on u2271
+
+```{r, results="asis"}
+l("\u2271")
+```
+
+Working on u2272
+
+```{r, results="asis"}
+l("\u2272")
+```
+
+Working on u2273
+
+```{r, results="asis"}
+l("\u2273")
+```
+
+Working on u2274
+
+```{r, results="asis"}
+l("\u2274")
+```
+
+Working on u2275
+
+```{r, results="asis"}
+l("\u2275")
+```
+
+Working on u2276
+
+```{r, results="asis"}
+l("\u2276")
+```
+
+Working on u2277
+
+```{r, results="asis"}
+l("\u2277")
+```
+
+Working on u2278
+
+```{r, results="asis"}
+l("\u2278")
+```
+
+Working on u2279
+
+```{r, results="asis"}
+l("\u2279")
+```
+
+Working on u227A
+
+```{r, results="asis"}
+l("\u227A")
+```
+
+Working on u227B
+
+```{r, results="asis"}
+l("\u227B")
+```
+
+Working on u227C
+
+```{r, results="asis"}
+l("\u227C")
+```
+
+Working on u227D
+
+```{r, results="asis"}
+l("\u227D")
+```
+
+Working on u227E
+
+```{r, results="asis"}
+l("\u227E")
+```
+
+Working on u227F
+
+```{r, results="asis"}
+l("\u227F")
+```
+
+Working on u2280
+
+```{r, results="asis"}
+l("\u2280")
+```
+
+Working on u2281
+
+```{r, results="asis"}
+l("\u2281")
+```
+
+Working on u2282
+
+```{r, results="asis"}
+l("\u2282")
+```
+
+Working on u2283
+
+```{r, results="asis"}
+l("\u2283")
+```
+
+Working on u2284
+
+```{r, results="asis"}
+l("\u2284")
+```
+
+Working on u2285
+
+```{r, results="asis"}
+l("\u2285")
+```
+
+Working on u2286
+
+```{r, results="asis"}
+l("\u2286")
+```
+
+Working on u2287
+
+```{r, results="asis"}
+l("\u2287")
+```
+
+Working on u2288
+
+```{r, results="asis"}
+l("\u2288")
+```
+
+Working on u2289
+
+```{r, results="asis"}
+l("\u2289")
+```
+
+Working on u228A
+
+```{r, results="asis"}
+l("\u228A")
+```
+
+Working on u228B
+
+```{r, results="asis"}
+l("\u228B")
+```
+
+Working on u228E
+
+```{r, results="asis"}
+l("\u228E")
+```
+
+Working on u228F
+
+```{r, results="asis"}
+l("\u228F")
+```
+
+Working on u2290
+
+```{r, results="asis"}
+l("\u2290")
+```
+
+Working on u2291
+
+```{r, results="asis"}
+l("\u2291")
+```
+
+Working on u2292
+
+```{r, results="asis"}
+l("\u2292")
+```
+
+Working on u2293
+
+```{r, results="asis"}
+l("\u2293")
+```
+
+Working on u2294
+
+```{r, results="asis"}
+l("\u2294")
+```
+
+Working on u2295
+
+```{r, results="asis"}
+l("\u2295")
+```
+
+Working on u2296
+
+```{r, results="asis"}
+l("\u2296")
+```
+
+Working on u2297
+
+```{r, results="asis"}
+l("\u2297")
+```
+
+Working on u2298
+
+```{r, results="asis"}
+l("\u2298")
+```
+
+Working on u2299
+
+```{r, results="asis"}
+l("\u2299")
+```
+
+Working on u229A
+
+```{r, results="asis"}
+l("\u229A")
+```
+
+Working on u229B
+
+```{r, results="asis"}
+l("\u229B")
+```
+
+Working on u229D
+
+```{r, results="asis"}
+l("\u229D")
+```
+
+Working on u229E
+
+```{r, results="asis"}
+l("\u229E")
+```
+
+Working on u229F
+
+```{r, results="asis"}
+l("\u229F")
+```
+
+Working on u22A0
+
+```{r, results="asis"}
+l("\u22A0")
+```
+
+Working on u22A1
+
+```{r, results="asis"}
+l("\u22A1")
+```
+
+Working on u22A2
+
+```{r, results="asis"}
+l("\u22A2")
+```
+
+Working on u22A3
+
+```{r, results="asis"}
+l("\u22A3")
+```
+
+Working on u22A4
+
+```{r, results="asis"}
+l("\u22A4")
+```
+
+Working on u22A5
+
+```{r, results="asis"}
+l("\u22A5")
+```
+
+Working on u22A7
+
+```{r, results="asis"}
+l("\u22A7")
+```
+
+Working on u22A8
+
+```{r, results="asis"}
+l("\u22A8")
+```
+
+Working on u22A9
+
+```{r, results="asis"}
+l("\u22A9")
+```
+
+Working on u22AA
+
+```{r, results="asis"}
+l("\u22AA")
+```
+
+Working on u22AB
+
+```{r, results="asis"}
+l("\u22AB")
+```
+
+Working on u22AC
+
+```{r, results="asis"}
+l("\u22AC")
+```
+
+Working on u22AD
+
+```{r, results="asis"}
+l("\u22AD")
+```
+
+Working on u22AE
+
+```{r, results="asis"}
+l("\u22AE")
+```
+
+Working on u22AF
+
+```{r, results="asis"}
+l("\u22AF")
+```
+
+Working on u22B2
+
+```{r, results="asis"}
+l("\u22B2")
+```
+
+Working on u22B3
+
+```{r, results="asis"}
+l("\u22B3")
+```
+
+Working on u22B4
+
+```{r, results="asis"}
+l("\u22B4")
+```
+
+Working on u22B5
+
+```{r, results="asis"}
+l("\u22B5")
+```
+
+Working on u22B6
+
+```{r, results="asis"}
+l("\u22B6")
+```
+
+Working on u22B7
+
+```{r, results="asis"}
+l("\u22B7")
+```
+
+Working on u22B8
+
+```{r, results="asis"}
+l("\u22B8")
+```
+
+Working on u22B9
+
+```{r, results="asis"}
+l("\u22B9")
+```
+
+Working on u22BA
+
+```{r, results="asis"}
+l("\u22BA")
+```
+
+Working on u22BB
+
+```{r, results="asis"}
+l("\u22BB")
+```
+
+Working on u22BE
+
+```{r, results="asis"}
+l("\u22BE")
+```
+
+Working on u22C0
+
+```{r, results="asis"}
+l("\u22C0")
+```
+
+Working on u22C1
+
+```{r, results="asis"}
+l("\u22C1")
+```
+
+Working on u22C2
+
+```{r, results="asis"}
+l("\u22C2")
+```
+
+Working on u22C3
+
+```{r, results="asis"}
+l("\u22C3")
+```
+
+Working on u22C4
+
+```{r, results="asis"}
+l("\u22C4")
+```
+
+Working on u22C5
+
+```{r, results="asis"}
+l("\u22C5")
+```
+
+Working on u22C6
+
+```{r, results="asis"}
+l("\u22C6")
+```
+
+Working on u22C7
+
+```{r, results="asis"}
+l("\u22C7")
+```
+
+Working on u22C8
+
+```{r, results="asis"}
+l("\u22C8")
+```
+
+Working on u22C9
+
+```{r, results="asis"}
+l("\u22C9")
+```
+
+Working on u22CA
+
+```{r, results="asis"}
+l("\u22CA")
+```
+
+Working on u22CB
+
+```{r, results="asis"}
+l("\u22CB")
+```
+
+Working on u22CC
+
+```{r, results="asis"}
+l("\u22CC")
+```
+
+Working on u22CD
+
+```{r, results="asis"}
+l("\u22CD")
+```
+
+Working on u22CE
+
+```{r, results="asis"}
+l("\u22CE")
+```
+
+Working on u22CF
+
+```{r, results="asis"}
+l("\u22CF")
+```
+
+Working on u22D0
+
+```{r, results="asis"}
+l("\u22D0")
+```
+
+Working on u22D1
+
+```{r, results="asis"}
+l("\u22D1")
+```
+
+Working on u22D2
+
+```{r, results="asis"}
+l("\u22D2")
+```
+
+Working on u22D3
+
+```{r, results="asis"}
+l("\u22D3")
+```
+
+Working on u22D4
+
+```{r, results="asis"}
+l("\u22D4")
+```
+
+Working on u22D6
+
+```{r, results="asis"}
+l("\u22D6")
+```
+
+Working on u22D7
+
+```{r, results="asis"}
+l("\u22D7")
+```
+
+Working on u22D8
+
+```{r, results="asis"}
+l("\u22D8")
+```
+
+Working on u22D9
+
+```{r, results="asis"}
+l("\u22D9")
+```
+
+Working on u22DA
+
+```{r, results="asis"}
+l("\u22DA")
+```
+
+Working on u22DB
+
+```{r, results="asis"}
+l("\u22DB")
+```
+
+Working on u22DE
+
+```{r, results="asis"}
+l("\u22DE")
+```
+
+Working on u22DF
+
+```{r, results="asis"}
+l("\u22DF")
+```
+
+Working on u22E2
+
+```{r, results="asis"}
+l("\u22E2")
+```
+
+Working on u22E3
+
+```{r, results="asis"}
+l("\u22E3")
+```
+
+Working on u22E5
+
+```{r, results="asis"}
+l("\u22E5")
+```
+
+Working on u22E6
+
+```{r, results="asis"}
+l("\u22E6")
+```
+
+Working on u22E7
+
+```{r, results="asis"}
+l("\u22E7")
+```
+
+Working on u22E8
+
+```{r, results="asis"}
+l("\u22E8")
+```
+
+Working on u22E9
+
+```{r, results="asis"}
+l("\u22E9")
+```
+
+Working on u22EA
+
+```{r, results="asis"}
+l("\u22EA")
+```
+
+Working on u22EB
+
+```{r, results="asis"}
+l("\u22EB")
+```
+
+Working on u22EC
+
+```{r, results="asis"}
+l("\u22EC")
+```
+
+Working on u22ED
+
+```{r, results="asis"}
+l("\u22ED")
+```
+
+Working on u22EE
+
+```{r, results="asis"}
+l("\u22EE")
+```
+
+Working on u22EF
+
+```{r, results="asis"}
+l("\u22EF")
+```
+
+Working on u22F0
+
+```{r, results="asis"}
+l("\u22F0")
+```
+
+Working on u22F1
+
+```{r, results="asis"}
+l("\u22F1")
+```
+
+Working on u2305
+
+```{r, results="asis"}
+l("\u2305")
+```
+
+Working on u2306
+
+```{r, results="asis"}
+l("\u2306")
+```
+
+Working on u2308
+
+```{r, results="asis"}
+l("\u2308")
+```
+
+Working on u2309
+
+```{r, results="asis"}
+l("\u2309")
+```
+
+Working on u230A
+
+```{r, results="asis"}
+l("\u230A")
+```
+
+Working on u230B
+
+```{r, results="asis"}
+l("\u230B")
+```
+
+Working on u2315
+
+```{r, results="asis"}
+l("\u2315")
+```
+
+Working on u2316
+
+```{r, results="asis"}
+l("\u2316")
+```
+
+Working on u231C
+
+```{r, results="asis"}
+l("\u231C")
+```
+
+Working on u231D
+
+```{r, results="asis"}
+l("\u231D")
+```
+
+Working on u231E
+
+```{r, results="asis"}
+l("\u231E")
+```
+
+Working on u231F
+
+```{r, results="asis"}
+l("\u231F")
+```
+
+Working on u2322
+
+```{r, results="asis"}
+l("\u2322")
+```
+
+Working on u2323
+
+```{r, results="asis"}
+l("\u2323")
+```
+
+Working on u2329
+
+```{r, results="asis"}
+l("\u2329")
+```
+
+Working on u232A
+
+```{r, results="asis"}
+l("\u232A")
+```
+
+Working on u233D
+
+```{r, results="asis"}
+l("\u233D")
+```
+
+Working on u23A3
+
+```{r, results="asis"}
+l("\u23A3")
+```
+
+Working on u23B0
+
+```{r, results="asis"}
+l("\u23B0")
+```
+
+Working on u23B1
+
+```{r, results="asis"}
+l("\u23B1")
+```
+
+Working on u2422
+
+```{r, results="asis"}
+l("\u2422")
+```
+
+Working on u2423
+
+```{r, results="asis"}
+l("\u2423")
+```
+
+Working on u2460
+
+```{r, results="asis"}
+l("\u2460")
+```
+
+Working on u2461
+
+```{r, results="asis"}
+l("\u2461")
+```
+
+Working on u2462
+
+```{r, results="asis"}
+l("\u2462")
+```
+
+Working on u2463
+
+```{r, results="asis"}
+l("\u2463")
+```
+
+Working on u2464
+
+```{r, results="asis"}
+l("\u2464")
+```
+
+Working on u2465
+
+```{r, results="asis"}
+l("\u2465")
+```
+
+Working on u2466
+
+```{r, results="asis"}
+l("\u2466")
+```
+
+Working on u2467
+
+```{r, results="asis"}
+l("\u2467")
+```
+
+Working on u2468
+
+```{r, results="asis"}
+l("\u2468")
+```
+
+Working on u2469
+
+```{r, results="asis"}
+l("\u2469")
+```
+
+Working on u24C8
+
+```{r, results="asis"}
+l("\u24C8")
+```
+
+Working on u2506
+
+```{r, results="asis"}
+l("\u2506")
+```
+
+Working on u2519
+
+```{r, results="asis"}
+l("\u2519")
+```
+
+Working on u2571
+
+```{r, results="asis"}
+l("\u2571")
+```
+
+Working on u25A0
+
+```{r, results="asis"}
+l("\u25A0")
+```
+
+Working on u25A1
+
+```{r, results="asis"}
+l("\u25A1")
+```
+
+Working on u25AA
+
+```{r, results="asis"}
+l("\u25AA")
+```
+
+Working on u25AD
+
+```{r, results="asis"}
+l("\u25AD")
+```
+
+Working on u25AF
+
+```{r, results="asis"}
+l("\u25AF")
+```
+
+Working on u25B1
+
+```{r, results="asis"}
+l("\u25B1")
+```
+
+Working on u25B2
+
+```{r, results="asis"}
+l("\u25B2")
+```
+
+Working on u25B3
+
+```{r, results="asis"}
+l("\u25B3")
+```
+
+Working on u25B4
+
+```{r, results="asis"}
+l("\u25B4")
+```
+
+Working on u25B5
+
+```{r, results="asis"}
+l("\u25B5")
+```
+
+Working on u25B8
+
+```{r, results="asis"}
+l("\u25B8")
+```
+
+Working on u25B9
+
+```{r, results="asis"}
+l("\u25B9")
+```
+
+Working on u25BC
+
+```{r, results="asis"}
+l("\u25BC")
+```
+
+Working on u25BD
+
+```{r, results="asis"}
+l("\u25BD")
+```
+
+Working on u25BE
+
+```{r, results="asis"}
+l("\u25BE")
+```
+
+Working on u25BF
+
+```{r, results="asis"}
+l("\u25BF")
+```
+
+Working on u25C2
+
+```{r, results="asis"}
+l("\u25C2")
+```
+
+Working on u25C3
+
+```{r, results="asis"}
+l("\u25C3")
+```
+
+Working on u25C6
+
+```{r, results="asis"}
+l("\u25C6")
+```
+
+Working on u25CA
+
+```{r, results="asis"}
+l("\u25CA")
+```
+
+Working on u25CB
+
+```{r, results="asis"}
+l("\u25CB")
+```
+
+Working on u25CF
+
+```{r, results="asis"}
+l("\u25CF")
+```
+
+Working on u25D0
+
+```{r, results="asis"}
+l("\u25D0")
+```
+
+Working on u25D1
+
+```{r, results="asis"}
+l("\u25D1")
+```
+
+Working on u25D2
+
+```{r, results="asis"}
+l("\u25D2")
+```
+
+Working on u25D7
+
+```{r, results="asis"}
+l("\u25D7")
+```
+
+Working on u25D8
+
+```{r, results="asis"}
+l("\u25D8")
+```
+
+Working on u25E6
+
+```{r, results="asis"}
+l("\u25E6")
+```
+
+Working on u25E7
+
+```{r, results="asis"}
+l("\u25E7")
+```
+
+Working on u25E8
+
+```{r, results="asis"}
+l("\u25E8")
+```
+
+Working on u25EA
+
+```{r, results="asis"}
+l("\u25EA")
+```
+
+Working on u25EF
+
+```{r, results="asis"}
+l("\u25EF")
+```
+
+Working on u2605
+
+```{r, results="asis"}
+l("\u2605")
+```
+
+Working on u2606
+
+```{r, results="asis"}
+l("\u2606")
+```
+
+Working on u260E
+
+```{r, results="asis"}
+l("\u260E")
+```
+
+Working on u261B
+
+```{r, results="asis"}
+l("\u261B")
+```
+
+Working on u261E
+
+```{r, results="asis"}
+l("\u261E")
+```
+
+Working on u263E
+
+```{r, results="asis"}
+l("\u263E")
+```
+
+Working on u263F
+
+```{r, results="asis"}
+l("\u263F")
+```
+
+Working on u2640
+
+```{r, results="asis"}
+l("\u2640")
+```
+
+Working on u2642
+
+```{r, results="asis"}
+l("\u2642")
+```
+
+Working on u2643
+
+```{r, results="asis"}
+l("\u2643")
+```
+
+Working on u2644
+
+```{r, results="asis"}
+l("\u2644")
+```
+
+Working on u2645
+
+```{r, results="asis"}
+l("\u2645")
+```
+
+Working on u2646
+
+```{r, results="asis"}
+l("\u2646")
+```
+
+Working on u2647
+
+```{r, results="asis"}
+l("\u2647")
+```
+
+Working on u2648
+
+```{r, results="asis"}
+l("\u2648")
+```
+
+Working on u2649
+
+```{r, results="asis"}
+l("\u2649")
+```
+
+Working on u264A
+
+```{r, results="asis"}
+l("\u264A")
+```
+
+Working on u264B
+
+```{r, results="asis"}
+l("\u264B")
+```
+
+Working on u264C
+
+```{r, results="asis"}
+l("\u264C")
+```
+
+Working on u264D
+
+```{r, results="asis"}
+l("\u264D")
+```
+
+Working on u264E
+
+```{r, results="asis"}
+l("\u264E")
+```
+
+Working on u264F
+
+```{r, results="asis"}
+l("\u264F")
+```
+
+Working on u2650
+
+```{r, results="asis"}
+l("\u2650")
+```
+
+Working on u2651
+
+```{r, results="asis"}
+l("\u2651")
+```
+
+Working on u2652
+
+```{r, results="asis"}
+l("\u2652")
+```
+
+Working on u2653
+
+```{r, results="asis"}
+l("\u2653")
+```
+
+Working on u2660
+
+```{r, results="asis"}
+l("\u2660")
+```
+
+Working on u2662
+
+```{r, results="asis"}
+l("\u2662")
+```
+
+Working on u2663
+
+```{r, results="asis"}
+l("\u2663")
+```
+
+Working on u2665
+
+```{r, results="asis"}
+l("\u2665")
+```
+
+Working on u2666
+
+```{r, results="asis"}
+l("\u2666")
+```
+
+Working on u2669
+
+```{r, results="asis"}
+l("\u2669")
+```
+
+Working on u266A
+
+```{r, results="asis"}
+l("\u266A")
+```
+
+Working on u266D
+
+```{r, results="asis"}
+l("\u266D")
+```
+
+Working on u266E
+
+```{r, results="asis"}
+l("\u266E")
+```
+
+Working on u266F
+
+```{r, results="asis"}
+l("\u266F")
+```
+
+Working on u2701
+
+```{r, results="asis"}
+l("\u2701")
+```
+
+Working on u2702
+
+```{r, results="asis"}
+l("\u2702")
+```
+
+Working on u2703
+
+```{r, results="asis"}
+l("\u2703")
+```
+
+Working on u2704
+
+```{r, results="asis"}
+l("\u2704")
+```
+
+Working on u2706
+
+```{r, results="asis"}
+l("\u2706")
+```
+
+Working on u2707
+
+```{r, results="asis"}
+l("\u2707")
+```
+
+Working on u2708
+
+```{r, results="asis"}
+l("\u2708")
+```
+
+Working on u2709
+
+```{r, results="asis"}
+l("\u2709")
+```
+
+Working on u270C
+
+```{r, results="asis"}
+l("\u270C")
+```
+
+Working on u270D
+
+```{r, results="asis"}
+l("\u270D")
+```
+
+Working on u270E
+
+```{r, results="asis"}
+l("\u270E")
+```
+
+Working on u270F
+
+```{r, results="asis"}
+l("\u270F")
+```
+
+Working on u2710
+
+```{r, results="asis"}
+l("\u2710")
+```
+
+Working on u2711
+
+```{r, results="asis"}
+l("\u2711")
+```
+
+Working on u2712
+
+```{r, results="asis"}
+l("\u2712")
+```
+
+Working on u2713
+
+```{r, results="asis"}
+l("\u2713")
+```
+
+Working on u2714
+
+```{r, results="asis"}
+l("\u2714")
+```
+
+Working on u2715
+
+```{r, results="asis"}
+l("\u2715")
+```
+
+Working on u2716
+
+```{r, results="asis"}
+l("\u2716")
+```
+
+Working on u2717
+
+```{r, results="asis"}
+l("\u2717")
+```
+
+Working on u2718
+
+```{r, results="asis"}
+l("\u2718")
+```
+
+Working on u2719
+
+```{r, results="asis"}
+l("\u2719")
+```
+
+Working on u271A
+
+```{r, results="asis"}
+l("\u271A")
+```
+
+Working on u271B
+
+```{r, results="asis"}
+l("\u271B")
+```
+
+Working on u271C
+
+```{r, results="asis"}
+l("\u271C")
+```
+
+Working on u271D
+
+```{r, results="asis"}
+l("\u271D")
+```
+
+Working on u271E
+
+```{r, results="asis"}
+l("\u271E")
+```
+
+Working on u271F
+
+```{r, results="asis"}
+l("\u271F")
+```
+
+Working on u2720
+
+```{r, results="asis"}
+l("\u2720")
+```
+
+Working on u2721
+
+```{r, results="asis"}
+l("\u2721")
+```
+
+Working on u2722
+
+```{r, results="asis"}
+l("\u2722")
+```
+
+Working on u2723
+
+```{r, results="asis"}
+l("\u2723")
+```
+
+Working on u2724
+
+```{r, results="asis"}
+l("\u2724")
+```
+
+Working on u2725
+
+```{r, results="asis"}
+l("\u2725")
+```
+
+Working on u2726
+
+```{r, results="asis"}
+l("\u2726")
+```
+
+Working on u2727
+
+```{r, results="asis"}
+l("\u2727")
+```
+
+Working on u2729
+
+```{r, results="asis"}
+l("\u2729")
+```
+
+Working on u272A
+
+```{r, results="asis"}
+l("\u272A")
+```
+
+Working on u272B
+
+```{r, results="asis"}
+l("\u272B")
+```
+
+Working on u272C
+
+```{r, results="asis"}
+l("\u272C")
+```
+
+Working on u272D
+
+```{r, results="asis"}
+l("\u272D")
+```
+
+Working on u272E
+
+```{r, results="asis"}
+l("\u272E")
+```
+
+Working on u272F
+
+```{r, results="asis"}
+l("\u272F")
+```
+
+Working on u2730
+
+```{r, results="asis"}
+l("\u2730")
+```
+
+Working on u2731
+
+```{r, results="asis"}
+l("\u2731")
+```
+
+Working on u2732
+
+```{r, results="asis"}
+l("\u2732")
+```
+
+Working on u2733
+
+```{r, results="asis"}
+l("\u2733")
+```
+
+Working on u2734
+
+```{r, results="asis"}
+l("\u2734")
+```
+
+Working on u2735
+
+```{r, results="asis"}
+l("\u2735")
+```
+
+Working on u2736
+
+```{r, results="asis"}
+l("\u2736")
+```
+
+Working on u2737
+
+```{r, results="asis"}
+l("\u2737")
+```
+
+Working on u2738
+
+```{r, results="asis"}
+l("\u2738")
+```
+
+Working on u2739
+
+```{r, results="asis"}
+l("\u2739")
+```
+
+Working on u273A
+
+```{r, results="asis"}
+l("\u273A")
+```
+
+Working on u273B
+
+```{r, results="asis"}
+l("\u273B")
+```
+
+Working on u273C
+
+```{r, results="asis"}
+l("\u273C")
+```
+
+Working on u273D
+
+```{r, results="asis"}
+l("\u273D")
+```
+
+Working on u273E
+
+```{r, results="asis"}
+l("\u273E")
+```
+
+Working on u273F
+
+```{r, results="asis"}
+l("\u273F")
+```
+
+Working on u2740
+
+```{r, results="asis"}
+l("\u2740")
+```
+
+Working on u2741
+
+```{r, results="asis"}
+l("\u2741")
+```
+
+Working on u2742
+
+```{r, results="asis"}
+l("\u2742")
+```
+
+Working on u2743
+
+```{r, results="asis"}
+l("\u2743")
+```
+
+Working on u2744
+
+```{r, results="asis"}
+l("\u2744")
+```
+
+Working on u2745
+
+```{r, results="asis"}
+l("\u2745")
+```
+
+Working on u2746
+
+```{r, results="asis"}
+l("\u2746")
+```
+
+Working on u2747
+
+```{r, results="asis"}
+l("\u2747")
+```
+
+Working on u2748
+
+```{r, results="asis"}
+l("\u2748")
+```
+
+Working on u2749
+
+```{r, results="asis"}
+l("\u2749")
+```
+
+Working on u274A
+
+```{r, results="asis"}
+l("\u274A")
+```
+
+Working on u274B
+
+```{r, results="asis"}
+l("\u274B")
+```
+
+Working on u274D
+
+```{r, results="asis"}
+l("\u274D")
+```
+
+Working on u274F
+
+```{r, results="asis"}
+l("\u274F")
+```
+
+Working on u2750
+
+```{r, results="asis"}
+l("\u2750")
+```
+
+Working on u2751
+
+```{r, results="asis"}
+l("\u2751")
+```
+
+Working on u2752
+
+```{r, results="asis"}
+l("\u2752")
+```
+
+Working on u2756
+
+```{r, results="asis"}
+l("\u2756")
+```
+
+Working on u2758
+
+```{r, results="asis"}
+l("\u2758")
+```
+
+Working on u2759
+
+```{r, results="asis"}
+l("\u2759")
+```
+
+Working on u275A
+
+```{r, results="asis"}
+l("\u275A")
+```
+
+Working on u275B
+
+```{r, results="asis"}
+l("\u275B")
+```
+
+Working on u275C
+
+```{r, results="asis"}
+l("\u275C")
+```
+
+Working on u275D
+
+```{r, results="asis"}
+l("\u275D")
+```
+
+Working on u275E
+
+```{r, results="asis"}
+l("\u275E")
+```
+
+Working on u2761
+
+```{r, results="asis"}
+l("\u2761")
+```
+
+Working on u2762
+
+```{r, results="asis"}
+l("\u2762")
+```
+
+Working on u2763
+
+```{r, results="asis"}
+l("\u2763")
+```
+
+Working on u2764
+
+```{r, results="asis"}
+l("\u2764")
+```
+
+Working on u2765
+
+```{r, results="asis"}
+l("\u2765")
+```
+
+Working on u2766
+
+```{r, results="asis"}
+l("\u2766")
+```
+
+Working on u2767
+
+```{r, results="asis"}
+l("\u2767")
+```
+
+Working on u2776
+
+```{r, results="asis"}
+l("\u2776")
+```
+
+Working on u2777
+
+```{r, results="asis"}
+l("\u2777")
+```
+
+Working on u2778
+
+```{r, results="asis"}
+l("\u2778")
+```
+
+Working on u2779
+
+```{r, results="asis"}
+l("\u2779")
+```
+
+Working on u277A
+
+```{r, results="asis"}
+l("\u277A")
+```
+
+Working on u277B
+
+```{r, results="asis"}
+l("\u277B")
+```
+
+Working on u277C
+
+```{r, results="asis"}
+l("\u277C")
+```
+
+Working on u277D
+
+```{r, results="asis"}
+l("\u277D")
+```
+
+Working on u277E
+
+```{r, results="asis"}
+l("\u277E")
+```
+
+Working on u277F
+
+```{r, results="asis"}
+l("\u277F")
+```
+
+Working on u2780
+
+```{r, results="asis"}
+l("\u2780")
+```
+
+Working on u2781
+
+```{r, results="asis"}
+l("\u2781")
+```
+
+Working on u2782
+
+```{r, results="asis"}
+l("\u2782")
+```
+
+Working on u2783
+
+```{r, results="asis"}
+l("\u2783")
+```
+
+Working on u2784
+
+```{r, results="asis"}
+l("\u2784")
+```
+
+Working on u2785
+
+```{r, results="asis"}
+l("\u2785")
+```
+
+Working on u2786
+
+```{r, results="asis"}
+l("\u2786")
+```
+
+Working on u2787
+
+```{r, results="asis"}
+l("\u2787")
+```
+
+Working on u2788
+
+```{r, results="asis"}
+l("\u2788")
+```
+
+Working on u2789
+
+```{r, results="asis"}
+l("\u2789")
+```
+
+Working on u278A
+
+```{r, results="asis"}
+l("\u278A")
+```
+
+Working on u278B
+
+```{r, results="asis"}
+l("\u278B")
+```
+
+Working on u278C
+
+```{r, results="asis"}
+l("\u278C")
+```
+
+Working on u278D
+
+```{r, results="asis"}
+l("\u278D")
+```
+
+Working on u278E
+
+```{r, results="asis"}
+l("\u278E")
+```
+
+Working on u278F
+
+```{r, results="asis"}
+l("\u278F")
+```
+
+Working on u2790
+
+```{r, results="asis"}
+l("\u2790")
+```
+
+Working on u2791
+
+```{r, results="asis"}
+l("\u2791")
+```
+
+Working on u2792
+
+```{r, results="asis"}
+l("\u2792")
+```
+
+Working on u2793
+
+```{r, results="asis"}
+l("\u2793")
+```
+
+Working on u2794
+
+```{r, results="asis"}
+l("\u2794")
+```
+
+Working on u2798
+
+```{r, results="asis"}
+l("\u2798")
+```
+
+Working on u2799
+
+```{r, results="asis"}
+l("\u2799")
+```
+
+Working on u279A
+
+```{r, results="asis"}
+l("\u279A")
+```
+
+Working on u279B
+
+```{r, results="asis"}
+l("\u279B")
+```
+
+Working on u279C
+
+```{r, results="asis"}
+l("\u279C")
+```
+
+Working on u279D
+
+```{r, results="asis"}
+l("\u279D")
+```
+
+Working on u279E
+
+```{r, results="asis"}
+l("\u279E")
+```
+
+Working on u279F
+
+```{r, results="asis"}
+l("\u279F")
+```
+
+Working on u27A0
+
+```{r, results="asis"}
+l("\u27A0")
+```
+
+Working on u27A1
+
+```{r, results="asis"}
+l("\u27A1")
+```
+
+Working on u27A2
+
+```{r, results="asis"}
+l("\u27A2")
+```
+
+Working on u27A3
+
+```{r, results="asis"}
+l("\u27A3")
+```
+
+Working on u27A4
+
+```{r, results="asis"}
+l("\u27A4")
+```
+
+Working on u27A5
+
+```{r, results="asis"}
+l("\u27A5")
+```
+
+Working on u27A6
+
+```{r, results="asis"}
+l("\u27A6")
+```
+
+Working on u27A7
+
+```{r, results="asis"}
+l("\u27A7")
+```
+
+Working on u27A8
+
+```{r, results="asis"}
+l("\u27A8")
+```
+
+Working on u27A9
+
+```{r, results="asis"}
+l("\u27A9")
+```
+
+Working on u27AA
+
+```{r, results="asis"}
+l("\u27AA")
+```
+
+Working on u27AB
+
+```{r, results="asis"}
+l("\u27AB")
+```
+
+Working on u27AC
+
+```{r, results="asis"}
+l("\u27AC")
+```
+
+Working on u27AD
+
+```{r, results="asis"}
+l("\u27AD")
+```
+
+Working on u27AE
+
+```{r, results="asis"}
+l("\u27AE")
+```
+
+Working on u27AF
+
+```{r, results="asis"}
+l("\u27AF")
+```
+
+Working on u27B1
+
+```{r, results="asis"}
+l("\u27B1")
+```
+
+Working on u27B2
+
+```{r, results="asis"}
+l("\u27B2")
+```
+
+Working on u27B3
+
+```{r, results="asis"}
+l("\u27B3")
+```
+
+Working on u27B4
+
+```{r, results="asis"}
+l("\u27B4")
+```
+
+Working on u27B5
+
+```{r, results="asis"}
+l("\u27B5")
+```
+
+Working on u27B6
+
+```{r, results="asis"}
+l("\u27B6")
+```
+
+Working on u27B7
+
+```{r, results="asis"}
+l("\u27B7")
+```
+
+Working on u27B8
+
+```{r, results="asis"}
+l("\u27B8")
+```
+
+Working on u27B9
+
+```{r, results="asis"}
+l("\u27B9")
+```
+
+Working on u27BA
+
+```{r, results="asis"}
+l("\u27BA")
+```
+
+Working on u27BB
+
+```{r, results="asis"}
+l("\u27BB")
+```
+
+Working on u27BC
+
+```{r, results="asis"}
+l("\u27BC")
+```
+
+Working on u27BD
+
+```{r, results="asis"}
+l("\u27BD")
+```
+
+Working on u27BE
+
+```{r, results="asis"}
+l("\u27BE")
+```
+
+Working on u27F5
+
+```{r, results="asis"}
+l("\u27F5")
+```
+
+Working on u27F6
+
+```{r, results="asis"}
+l("\u27F6")
+```
+
+Working on u27F7
+
+```{r, results="asis"}
+l("\u27F7")
+```
+
+Working on u27F8
+
+```{r, results="asis"}
+l("\u27F8")
+```
+
+Working on u27F9
+
+```{r, results="asis"}
+l("\u27F9")
+```
+
+Working on u27FA
+
+```{r, results="asis"}
+l("\u27FA")
+```
+
+Working on u27FC
+
+```{r, results="asis"}
+l("\u27FC")
+```
+
+Working on u27FF
+
+```{r, results="asis"}
+l("\u27FF")
+```
+
+Working on u2905
+
+```{r, results="asis"}
+l("\u2905")
+```
+
+Working on u2912
+
+```{r, results="asis"}
+l("\u2912")
+```
+
+Working on u2913
+
+```{r, results="asis"}
+l("\u2913")
+```
+
+Working on u2923
+
+```{r, results="asis"}
+l("\u2923")
+```
+
+Working on u2924
+
+```{r, results="asis"}
+l("\u2924")
+```
+
+Working on u2925
+
+```{r, results="asis"}
+l("\u2925")
+```
+
+Working on u2926
+
+```{r, results="asis"}
+l("\u2926")
+```
+
+Working on u2927
+
+```{r, results="asis"}
+l("\u2927")
+```
+
+Working on u2928
+
+```{r, results="asis"}
+l("\u2928")
+```
+
+Working on u2929
+
+```{r, results="asis"}
+l("\u2929")
+```
+
+Working on u292A
+
+```{r, results="asis"}
+l("\u292A")
+```
+
+Working on u2933
+
+```{r, results="asis"}
+l("\u2933")
+```
+
+Working on u2936
+
+```{r, results="asis"}
+l("\u2936")
+```
+
+Working on u2937
+
+```{r, results="asis"}
+l("\u2937")
+```
+
+Working on u2940
+
+```{r, results="asis"}
+l("\u2940")
+```
+
+Working on u2941
+
+```{r, results="asis"}
+l("\u2941")
+```
+
+Working on u2942
+
+```{r, results="asis"}
+l("\u2942")
+```
+
+Working on u2944
+
+```{r, results="asis"}
+l("\u2944")
+```
+
+Working on u2947
+
+```{r, results="asis"}
+l("\u2947")
+```
+
+Working on u294E
+
+```{r, results="asis"}
+l("\u294E")
+```
+
+Working on u294F
+
+```{r, results="asis"}
+l("\u294F")
+```
+
+Working on u2950
+
+```{r, results="asis"}
+l("\u2950")
+```
+
+Working on u2951
+
+```{r, results="asis"}
+l("\u2951")
+```
+
+Working on u2952
+
+```{r, results="asis"}
+l("\u2952")
+```
+
+Working on u2953
+
+```{r, results="asis"}
+l("\u2953")
+```
+
+Working on u2954
+
+```{r, results="asis"}
+l("\u2954")
+```
+
+Working on u2955
+
+```{r, results="asis"}
+l("\u2955")
+```
+
+Working on u2956
+
+```{r, results="asis"}
+l("\u2956")
+```
+
+Working on u2957
+
+```{r, results="asis"}
+l("\u2957")
+```
+
+Working on u2958
+
+```{r, results="asis"}
+l("\u2958")
+```
+
+Working on u2959
+
+```{r, results="asis"}
+l("\u2959")
+```
+
+Working on u295A
+
+```{r, results="asis"}
+l("\u295A")
+```
+
+Working on u295B
+
+```{r, results="asis"}
+l("\u295B")
+```
+
+Working on u295C
+
+```{r, results="asis"}
+l("\u295C")
+```
+
+Working on u295D
+
+```{r, results="asis"}
+l("\u295D")
+```
+
+Working on u295E
+
+```{r, results="asis"}
+l("\u295E")
+```
+
+Working on u295F
+
+```{r, results="asis"}
+l("\u295F")
+```
+
+Working on u2960
+
+```{r, results="asis"}
+l("\u2960")
+```
+
+Working on u2961
+
+```{r, results="asis"}
+l("\u2961")
+```
+
+Working on u296E
+
+```{r, results="asis"}
+l("\u296E")
+```
+
+Working on u296F
+
+```{r, results="asis"}
+l("\u296F")
+```
+
+Working on u2970
+
+```{r, results="asis"}
+l("\u2970")
+```
+
+Working on u297C
+
+```{r, results="asis"}
+l("\u297C")
+```
+
+Working on u297D
+
+```{r, results="asis"}
+l("\u297D")
+```
+
+Working on u2980
+
+```{r, results="asis"}
+l("\u2980")
+```
+
+Working on u2985
+
+```{r, results="asis"}
+l("\u2985")
+```
+
+Working on u2986
+
+```{r, results="asis"}
+l("\u2986")
+```
+
+Working on u2993
+
+```{r, results="asis"}
+l("\u2993")
+```
+
+Working on u2994
+
+```{r, results="asis"}
+l("\u2994")
+```
+
+Working on u2999
+
+```{r, results="asis"}
+l("\u2999")
+```
+
+Working on u299C
+
+```{r, results="asis"}
+l("\u299C")
+```
+
+Working on u29A0
+
+```{r, results="asis"}
+l("\u29A0")
+```
+
+Working on u29B5
+
+```{r, results="asis"}
+l("\u29B5")
+```
+
+Working on u29B6
+
+```{r, results="asis"}
+l("\u29B6")
+```
+
+Working on u29CA
+
+```{r, results="asis"}
+l("\u29CA")
+```
+
+Working on u29CB
+
+```{r, results="asis"}
+l("\u29CB")
+```
+
+Working on u29CF
+
+```{r, results="asis"}
+l("\u29CF")
+```
+
+Working on u29D0
+
+```{r, results="asis"}
+l("\u29D0")
+```
+
+Working on u29DC
+
+```{r, results="asis"}
+l("\u29DC")
+```
+
+Working on u29EB
+
+```{r, results="asis"}
+l("\u29EB")
+```
+
+Working on u29F4
+
+```{r, results="asis"}
+l("\u29F4")
+```
+
+Working on u2A04
+
+```{r, results="asis"}
+l("\u2A04")
+```
+
+Working on u2A05
+
+```{r, results="asis"}
+l("\u2A05")
+```
+
+Working on u2A06
+
+```{r, results="asis"}
+l("\u2A06")
+```
+
+Working on u2A07
+
+```{r, results="asis"}
+l("\u2A07")
+```
+
+Working on u2A08
+
+```{r, results="asis"}
+l("\u2A08")
+```
+
+Working on u2A0D
+
+```{r, results="asis"}
+l("\u2A0D")
+```
+
+Working on u2A0F
+
+```{r, results="asis"}
+l("\u2A0F")
+```
+
+Working on u2A10
+
+```{r, results="asis"}
+l("\u2A10")
+```
+
+Working on u2A16
+
+```{r, results="asis"}
+l("\u2A16")
+```
+
+Working on u2A25
+
+```{r, results="asis"}
+l("\u2A25")
+```
+
+Working on u2A2A
+
+```{r, results="asis"}
+l("\u2A2A")
+```
+
+Working on u2A2D
+
+```{r, results="asis"}
+l("\u2A2D")
+```
+
+Working on u2A2E
+
+```{r, results="asis"}
+l("\u2A2E")
+```
+
+Working on u2A2F
+
+```{r, results="asis"}
+l("\u2A2F")
+```
+
+Working on u2A34
+
+```{r, results="asis"}
+l("\u2A34")
+```
+
+Working on u2A35
+
+```{r, results="asis"}
+l("\u2A35")
+```
+
+Working on u2A3C
+
+```{r, results="asis"}
+l("\u2A3C")
+```
+
+Working on u2A3F
+
+```{r, results="asis"}
+l("\u2A3F")
+```
+
+Working on u2A53
+
+```{r, results="asis"}
+l("\u2A53")
+```
+
+Working on u2A54
+
+```{r, results="asis"}
+l("\u2A54")
+```
+
+Working on u2A55
+
+```{r, results="asis"}
+l("\u2A55")
+```
+
+Working on u2A56
+
+```{r, results="asis"}
+l("\u2A56")
+```
+
+Working on u2A5E
+
+```{r, results="asis"}
+l("\u2A5E")
+```
+
+Working on u2A5F
+
+```{r, results="asis"}
+l("\u2A5F")
+```
+
+Working on u2A63
+
+```{r, results="asis"}
+l("\u2A63")
+```
+
+Working on u2A6E
+
+```{r, results="asis"}
+l("\u2A6E")
+```
+
+Working on u2A75
+
+```{r, results="asis"}
+l("\u2A75")
+```
+
+Working on u2A7D
+
+```{r, results="asis"}
+l("\u2A7D")
+```
+
+Working on u2A7E
+
+```{r, results="asis"}
+l("\u2A7E")
+```
+
+Working on u2A85
+
+```{r, results="asis"}
+l("\u2A85")
+```
+
+Working on u2A86
+
+```{r, results="asis"}
+l("\u2A86")
+```
+
+Working on u2A87
+
+```{r, results="asis"}
+l("\u2A87")
+```
+
+Working on u2A88
+
+```{r, results="asis"}
+l("\u2A88")
+```
+
+Working on u2A89
+
+```{r, results="asis"}
+l("\u2A89")
+```
+
+Working on u2A8A
+
+```{r, results="asis"}
+l("\u2A8A")
+```
+
+Working on u2A8B
+
+```{r, results="asis"}
+l("\u2A8B")
+```
+
+Working on u2A8C
+
+```{r, results="asis"}
+l("\u2A8C")
+```
+
+Working on u2A95
+
+```{r, results="asis"}
+l("\u2A95")
+```
+
+Working on u2A96
+
+```{r, results="asis"}
+l("\u2A96")
+```
+
+Working on u2A9D
+
+```{r, results="asis"}
+l("\u2A9D")
+```
+
+Working on u2A9E
+
+```{r, results="asis"}
+l("\u2A9E")
+```
+
+Working on u2AA1
+
+```{r, results="asis"}
+l("\u2AA1")
+```
+
+Working on u2AA2
+
+```{r, results="asis"}
+l("\u2AA2")
+```
+
+Working on u2AAF
+
+```{r, results="asis"}
+l("\u2AAF")
+```
+
+Working on u2AB0
+
+```{r, results="asis"}
+l("\u2AB0")
+```
+
+Working on u2AB5
+
+```{r, results="asis"}
+l("\u2AB5")
+```
+
+Working on u2AB6
+
+```{r, results="asis"}
+l("\u2AB6")
+```
+
+Working on u2AB7
+
+```{r, results="asis"}
+l("\u2AB7")
+```
+
+Working on u2AB8
+
+```{r, results="asis"}
+l("\u2AB8")
+```
+
+Working on u2AB9
+
+```{r, results="asis"}
+l("\u2AB9")
+```
+
+Working on u2ABA
+
+```{r, results="asis"}
+l("\u2ABA")
+```
+
+Working on u2AC5
+
+```{r, results="asis"}
+l("\u2AC5")
+```
+
+Working on u2AC6
+
+```{r, results="asis"}
+l("\u2AC6")
+```
+
+Working on u2ACB
+
+```{r, results="asis"}
+l("\u2ACB")
+```
+
+Working on u2ACC
+
+```{r, results="asis"}
+l("\u2ACC")
+```
+
+Working on u2AEB
+
+```{r, results="asis"}
+l("\u2AEB")
+```
+
+Working on u2AF6
+
+```{r, results="asis"}
+l("\u2AF6")
+```
+
+Working on u2AFD
+
+```{r, results="asis"}
+l("\u2AFD")
+```
+
+Working on u2E18
+
+```{r, results="asis"}
+l("\u2E18")
+```
+
+Working on u3008
+
+```{r, results="asis"}
+l("\u3008")
+```
+
+Working on u3009
+
+```{r, results="asis"}
+l("\u3009")
+```
+
+Working on u300A
+
+```{r, results="asis"}
+l("\u300A")
+```
+
+Working on u300B
+
+```{r, results="asis"}
+l("\u300B")
+```
+
+Working on u3018
+
+```{r, results="asis"}
+l("\u3018")
+```
+
+Working on u3019
+
+```{r, results="asis"}
+l("\u3019")
+```
+
+Working on u301A
+
+```{r, results="asis"}
+l("\u301A")
+```
+
+Working on u301B
+
+```{r, results="asis"}
+l("\u301B")
+```
+
+Working on uD400
+
+```{r, results="asis"}
+l("\uD400")
+```
+
+Working on uD401
+
+```{r, results="asis"}
+l("\uD401")
+```
+
+Working on uD402
+
+```{r, results="asis"}
+l("\uD402")
+```
+
+Working on uD403
+
+```{r, results="asis"}
+l("\uD403")
+```
+
+Working on uD404
+
+```{r, results="asis"}
+l("\uD404")
+```
+
+Working on uD405
+
+```{r, results="asis"}
+l("\uD405")
+```
+
+Working on uD406
+
+```{r, results="asis"}
+l("\uD406")
+```
+
+Working on uD407
+
+```{r, results="asis"}
+l("\uD407")
+```
+
+Working on uD408
+
+```{r, results="asis"}
+l("\uD408")
+```
+
+Working on uD409
+
+```{r, results="asis"}
+l("\uD409")
+```
+
+Working on uD40A
+
+```{r, results="asis"}
+l("\uD40A")
+```
+
+Working on uD40B
+
+```{r, results="asis"}
+l("\uD40B")
+```
+
+Working on uD40C
+
+```{r, results="asis"}
+l("\uD40C")
+```
+
+Working on uD40D
+
+```{r, results="asis"}
+l("\uD40D")
+```
+
+Working on uD40E
+
+```{r, results="asis"}
+l("\uD40E")
+```
+
+Working on uD40F
+
+```{r, results="asis"}
+l("\uD40F")
+```
+
+Working on uD410
+
+```{r, results="asis"}
+l("\uD410")
+```
+
+Working on uD411
+
+```{r, results="asis"}
+l("\uD411")
+```
+
+Working on uD412
+
+```{r, results="asis"}
+l("\uD412")
+```
+
+Working on uD413
+
+```{r, results="asis"}
+l("\uD413")
+```
+
+Working on uD414
+
+```{r, results="asis"}
+l("\uD414")
+```
+
+Working on uD415
+
+```{r, results="asis"}
+l("\uD415")
+```
+
+Working on uD416
+
+```{r, results="asis"}
+l("\uD416")
+```
+
+Working on uD417
+
+```{r, results="asis"}
+l("\uD417")
+```
+
+Working on uD418
+
+```{r, results="asis"}
+l("\uD418")
+```
+
+Working on uD419
+
+```{r, results="asis"}
+l("\uD419")
+```
+
+Working on uD41A
+
+```{r, results="asis"}
+l("\uD41A")
+```
+
+Working on uD41B
+
+```{r, results="asis"}
+l("\uD41B")
+```
+
+Working on uD41C
+
+```{r, results="asis"}
+l("\uD41C")
+```
+
+Working on uD41D
+
+```{r, results="asis"}
+l("\uD41D")
+```
+
+Working on uD41E
+
+```{r, results="asis"}
+l("\uD41E")
+```
+
+Working on uD41F
+
+```{r, results="asis"}
+l("\uD41F")
+```
+
+Working on uD420
+
+```{r, results="asis"}
+l("\uD420")
+```
+
+Working on uD421
+
+```{r, results="asis"}
+l("\uD421")
+```
+
+Working on uD422
+
+```{r, results="asis"}
+l("\uD422")
+```
+
+Working on uD423
+
+```{r, results="asis"}
+l("\uD423")
+```
+
+Working on uD424
+
+```{r, results="asis"}
+l("\uD424")
+```
+
+Working on uD425
+
+```{r, results="asis"}
+l("\uD425")
+```
+
+Working on uD426
+
+```{r, results="asis"}
+l("\uD426")
+```
+
+Working on uD427
+
+```{r, results="asis"}
+l("\uD427")
+```
+
+Working on uD428
+
+```{r, results="asis"}
+l("\uD428")
+```
+
+Working on uD429
+
+```{r, results="asis"}
+l("\uD429")
+```
+
+Working on uD42A
+
+```{r, results="asis"}
+l("\uD42A")
+```
+
+Working on uD42B
+
+```{r, results="asis"}
+l("\uD42B")
+```
+
+Working on uD42C
+
+```{r, results="asis"}
+l("\uD42C")
+```
+
+Working on uD42D
+
+```{r, results="asis"}
+l("\uD42D")
+```
+
+Working on uD42E
+
+```{r, results="asis"}
+l("\uD42E")
+```
+
+Working on uD42F
+
+```{r, results="asis"}
+l("\uD42F")
+```
+
+Working on uD430
+
+```{r, results="asis"}
+l("\uD430")
+```
+
+Working on uD431
+
+```{r, results="asis"}
+l("\uD431")
+```
+
+Working on uD432
+
+```{r, results="asis"}
+l("\uD432")
+```
+
+Working on uD433
+
+```{r, results="asis"}
+l("\uD433")
+```
+
+Working on uD434
+
+```{r, results="asis"}
+l("\uD434")
+```
+
+Working on uD435
+
+```{r, results="asis"}
+l("\uD435")
+```
+
+Working on uD436
+
+```{r, results="asis"}
+l("\uD436")
+```
+
+Working on uD437
+
+```{r, results="asis"}
+l("\uD437")
+```
+
+Working on uD438
+
+```{r, results="asis"}
+l("\uD438")
+```
+
+Working on uD439
+
+```{r, results="asis"}
+l("\uD439")
+```
+
+Working on uD43A
+
+```{r, results="asis"}
+l("\uD43A")
+```
+
+Working on uD43B
+
+```{r, results="asis"}
+l("\uD43B")
+```
+
+Working on uD43C
+
+```{r, results="asis"}
+l("\uD43C")
+```
+
+Working on uD43D
+
+```{r, results="asis"}
+l("\uD43D")
+```
+
+Working on uD43E
+
+```{r, results="asis"}
+l("\uD43E")
+```
+
+Working on uD43F
+
+```{r, results="asis"}
+l("\uD43F")
+```
+
+Working on uD440
+
+```{r, results="asis"}
+l("\uD440")
+```
+
+Working on uD441
+
+```{r, results="asis"}
+l("\uD441")
+```
+
+Working on uD442
+
+```{r, results="asis"}
+l("\uD442")
+```
+
+Working on uD443
+
+```{r, results="asis"}
+l("\uD443")
+```
+
+Working on uD444
+
+```{r, results="asis"}
+l("\uD444")
+```
+
+Working on uD445
+
+```{r, results="asis"}
+l("\uD445")
+```
+
+Working on uD446
+
+```{r, results="asis"}
+l("\uD446")
+```
+
+Working on uD447
+
+```{r, results="asis"}
+l("\uD447")
+```
+
+Working on uD448
+
+```{r, results="asis"}
+l("\uD448")
+```
+
+Working on uD449
+
+```{r, results="asis"}
+l("\uD449")
+```
+
+Working on uD44A
+
+```{r, results="asis"}
+l("\uD44A")
+```
+
+Working on uD44B
+
+```{r, results="asis"}
+l("\uD44B")
+```
+
+Working on uD44C
+
+```{r, results="asis"}
+l("\uD44C")
+```
+
+Working on uD44D
+
+```{r, results="asis"}
+l("\uD44D")
+```
+
+Working on uD44E
+
+```{r, results="asis"}
+l("\uD44E")
+```
+
+Working on uD44F
+
+```{r, results="asis"}
+l("\uD44F")
+```
+
+Working on uD450
+
+```{r, results="asis"}
+l("\uD450")
+```
+
+Working on uD451
+
+```{r, results="asis"}
+l("\uD451")
+```
+
+Working on uD452
+
+```{r, results="asis"}
+l("\uD452")
+```
+
+Working on uD453
+
+```{r, results="asis"}
+l("\uD453")
+```
+
+Working on uD454
+
+```{r, results="asis"}
+l("\uD454")
+```
+
+Working on uD456
+
+```{r, results="asis"}
+l("\uD456")
+```
+
+Working on uD457
+
+```{r, results="asis"}
+l("\uD457")
+```
+
+Working on uD458
+
+```{r, results="asis"}
+l("\uD458")
+```
+
+Working on uD459
+
+```{r, results="asis"}
+l("\uD459")
+```
+
+Working on uD45A
+
+```{r, results="asis"}
+l("\uD45A")
+```
+
+Working on uD45B
+
+```{r, results="asis"}
+l("\uD45B")
+```
+
+Working on uD45C
+
+```{r, results="asis"}
+l("\uD45C")
+```
+
+Working on uD45D
+
+```{r, results="asis"}
+l("\uD45D")
+```
+
+Working on uD45E
+
+```{r, results="asis"}
+l("\uD45E")
+```
+
+Working on uD45F
+
+```{r, results="asis"}
+l("\uD45F")
+```
+
+Working on uD460
+
+```{r, results="asis"}
+l("\uD460")
+```
+
+Working on uD461
+
+```{r, results="asis"}
+l("\uD461")
+```
+
+Working on uD462
+
+```{r, results="asis"}
+l("\uD462")
+```
+
+Working on uD463
+
+```{r, results="asis"}
+l("\uD463")
+```
+
+Working on uD464
+
+```{r, results="asis"}
+l("\uD464")
+```
+
+Working on uD465
+
+```{r, results="asis"}
+l("\uD465")
+```
+
+Working on uD466
+
+```{r, results="asis"}
+l("\uD466")
+```
+
+Working on uD467
+
+```{r, results="asis"}
+l("\uD467")
+```
+
+Working on uD468
+
+```{r, results="asis"}
+l("\uD468")
+```
+
+Working on uD469
+
+```{r, results="asis"}
+l("\uD469")
+```
+
+Working on uD46A
+
+```{r, results="asis"}
+l("\uD46A")
+```
+
+Working on uD46B
+
+```{r, results="asis"}
+l("\uD46B")
+```
+
+Working on uD46C
+
+```{r, results="asis"}
+l("\uD46C")
+```
+
+Working on uD46D
+
+```{r, results="asis"}
+l("\uD46D")
+```
+
+Working on uD46E
+
+```{r, results="asis"}
+l("\uD46E")
+```
+
+Working on uD46F
+
+```{r, results="asis"}
+l("\uD46F")
+```
+
+Working on uD470
+
+```{r, results="asis"}
+l("\uD470")
+```
+
+Working on uD471
+
+```{r, results="asis"}
+l("\uD471")
+```
+
+Working on uD472
+
+```{r, results="asis"}
+l("\uD472")
+```
+
+Working on uD473
+
+```{r, results="asis"}
+l("\uD473")
+```
+
+Working on uD474
+
+```{r, results="asis"}
+l("\uD474")
+```
+
+Working on uD475
+
+```{r, results="asis"}
+l("\uD475")
+```
+
+Working on uD476
+
+```{r, results="asis"}
+l("\uD476")
+```
+
+Working on uD477
+
+```{r, results="asis"}
+l("\uD477")
+```
+
+Working on uD478
+
+```{r, results="asis"}
+l("\uD478")
+```
+
+Working on uD479
+
+```{r, results="asis"}
+l("\uD479")
+```
+
+Working on uD47A
+
+```{r, results="asis"}
+l("\uD47A")
+```
+
+Working on uD47B
+
+```{r, results="asis"}
+l("\uD47B")
+```
+
+Working on uD47C
+
+```{r, results="asis"}
+l("\uD47C")
+```
+
+Working on uD47D
+
+```{r, results="asis"}
+l("\uD47D")
+```
+
+Working on uD47E
+
+```{r, results="asis"}
+l("\uD47E")
+```
+
+Working on uD47F
+
+```{r, results="asis"}
+l("\uD47F")
+```
+
+Working on uD480
+
+```{r, results="asis"}
+l("\uD480")
+```
+
+Working on uD481
+
+```{r, results="asis"}
+l("\uD481")
+```
+
+Working on uD482
+
+```{r, results="asis"}
+l("\uD482")
+```
+
+Working on uD483
+
+```{r, results="asis"}
+l("\uD483")
+```
+
+Working on uD484
+
+```{r, results="asis"}
+l("\uD484")
+```
+
+Working on uD485
+
+```{r, results="asis"}
+l("\uD485")
+```
+
+Working on uD486
+
+```{r, results="asis"}
+l("\uD486")
+```
+
+Working on uD487
+
+```{r, results="asis"}
+l("\uD487")
+```
+
+Working on uD488
+
+```{r, results="asis"}
+l("\uD488")
+```
+
+Working on uD489
+
+```{r, results="asis"}
+l("\uD489")
+```
+
+Working on uD48A
+
+```{r, results="asis"}
+l("\uD48A")
+```
+
+Working on uD48B
+
+```{r, results="asis"}
+l("\uD48B")
+```
+
+Working on uD48C
+
+```{r, results="asis"}
+l("\uD48C")
+```
+
+Working on uD48D
+
+```{r, results="asis"}
+l("\uD48D")
+```
+
+Working on uD48E
+
+```{r, results="asis"}
+l("\uD48E")
+```
+
+Working on uD48F
+
+```{r, results="asis"}
+l("\uD48F")
+```
+
+Working on uD490
+
+```{r, results="asis"}
+l("\uD490")
+```
+
+Working on uD491
+
+```{r, results="asis"}
+l("\uD491")
+```
+
+Working on uD492
+
+```{r, results="asis"}
+l("\uD492")
+```
+
+Working on uD493
+
+```{r, results="asis"}
+l("\uD493")
+```
+
+Working on uD494
+
+```{r, results="asis"}
+l("\uD494")
+```
+
+Working on uD495
+
+```{r, results="asis"}
+l("\uD495")
+```
+
+Working on uD496
+
+```{r, results="asis"}
+l("\uD496")
+```
+
+Working on uD497
+
+```{r, results="asis"}
+l("\uD497")
+```
+
+Working on uD498
+
+```{r, results="asis"}
+l("\uD498")
+```
+
+Working on uD499
+
+```{r, results="asis"}
+l("\uD499")
+```
+
+Working on uD49A
+
+```{r, results="asis"}
+l("\uD49A")
+```
+
+Working on uD49B
+
+```{r, results="asis"}
+l("\uD49B")
+```
+
+Working on uD49C
+
+```{r, results="asis"}
+l("\uD49C")
+```
+
+Working on uD49E
+
+```{r, results="asis"}
+l("\uD49E")
+```
+
+Working on uD49F
+
+```{r, results="asis"}
+l("\uD49F")
+```
+
+Working on uD4A2
+
+```{r, results="asis"}
+l("\uD4A2")
+```
+
+Working on uD4A5
+
+```{r, results="asis"}
+l("\uD4A5")
+```
+
+Working on uD4A6
+
+```{r, results="asis"}
+l("\uD4A6")
+```
+
+Working on uD4A9
+
+```{r, results="asis"}
+l("\uD4A9")
+```
+
+Working on uD4AA
+
+```{r, results="asis"}
+l("\uD4AA")
+```
+
+Working on uD4AB
+
+```{r, results="asis"}
+l("\uD4AB")
+```
+
+Working on uD4AC
+
+```{r, results="asis"}
+l("\uD4AC")
+```
+
+Working on uD4AE
+
+```{r, results="asis"}
+l("\uD4AE")
+```
+
+Working on uD4AF
+
+```{r, results="asis"}
+l("\uD4AF")
+```
+
+Working on uD4B0
+
+```{r, results="asis"}
+l("\uD4B0")
+```
+
+Working on uD4B1
+
+```{r, results="asis"}
+l("\uD4B1")
+```
+
+Working on uD4B2
+
+```{r, results="asis"}
+l("\uD4B2")
+```
+
+Working on uD4B3
+
+```{r, results="asis"}
+l("\uD4B3")
+```
+
+Working on uD4B4
+
+```{r, results="asis"}
+l("\uD4B4")
+```
+
+Working on uD4B5
+
+```{r, results="asis"}
+l("\uD4B5")
+```
+
+Working on uD4B6
+
+```{r, results="asis"}
+l("\uD4B6")
+```
+
+Working on uD4B7
+
+```{r, results="asis"}
+l("\uD4B7")
+```
+
+Working on uD4B8
+
+```{r, results="asis"}
+l("\uD4B8")
+```
+
+Working on uD4B9
+
+```{r, results="asis"}
+l("\uD4B9")
+```
+
+Working on uD4BB
+
+```{r, results="asis"}
+l("\uD4BB")
+```
+
+Working on uD4BD
+
+```{r, results="asis"}
+l("\uD4BD")
+```
+
+Working on uD4BE
+
+```{r, results="asis"}
+l("\uD4BE")
+```
+
+Working on uD4BF
+
+```{r, results="asis"}
+l("\uD4BF")
+```
+
+Working on uD4C0
+
+```{r, results="asis"}
+l("\uD4C0")
+```
+
+Working on uD4C1
+
+```{r, results="asis"}
+l("\uD4C1")
+```
+
+Working on uD4C2
+
+```{r, results="asis"}
+l("\uD4C2")
+```
+
+Working on uD4C3
+
+```{r, results="asis"}
+l("\uD4C3")
+```
+
+Working on uD4C5
+
+```{r, results="asis"}
+l("\uD4C5")
+```
+
+Working on uD4C6
+
+```{r, results="asis"}
+l("\uD4C6")
+```
+
+Working on uD4C7
+
+```{r, results="asis"}
+l("\uD4C7")
+```
+
+Working on uD4C8
+
+```{r, results="asis"}
+l("\uD4C8")
+```
+
+Working on uD4C9
+
+```{r, results="asis"}
+l("\uD4C9")
+```
+
+Working on uD4CA
+
+```{r, results="asis"}
+l("\uD4CA")
+```
+
+Working on uD4CB
+
+```{r, results="asis"}
+l("\uD4CB")
+```
+
+Working on uD4CC
+
+```{r, results="asis"}
+l("\uD4CC")
+```
+
+Working on uD4CD
+
+```{r, results="asis"}
+l("\uD4CD")
+```
+
+Working on uD4CE
+
+```{r, results="asis"}
+l("\uD4CE")
+```
+
+Working on uD4CF
+
+```{r, results="asis"}
+l("\uD4CF")
+```
+
+Working on uD4D0
+
+```{r, results="asis"}
+l("\uD4D0")
+```
+
+Working on uD4D1
+
+```{r, results="asis"}
+l("\uD4D1")
+```
+
+Working on uD4D2
+
+```{r, results="asis"}
+l("\uD4D2")
+```
+
+Working on uD4D3
+
+```{r, results="asis"}
+l("\uD4D3")
+```
+
+Working on uD4D4
+
+```{r, results="asis"}
+l("\uD4D4")
+```
+
+Working on uD4D5
+
+```{r, results="asis"}
+l("\uD4D5")
+```
+
+Working on uD4D6
+
+```{r, results="asis"}
+l("\uD4D6")
+```
+
+Working on uD4D7
+
+```{r, results="asis"}
+l("\uD4D7")
+```
+
+Working on uD4D8
+
+```{r, results="asis"}
+l("\uD4D8")
+```
+
+Working on uD4D9
+
+```{r, results="asis"}
+l("\uD4D9")
+```
+
+Working on uD4DA
+
+```{r, results="asis"}
+l("\uD4DA")
+```
+
+Working on uD4DB
+
+```{r, results="asis"}
+l("\uD4DB")
+```
+
+Working on uD4DC
+
+```{r, results="asis"}
+l("\uD4DC")
+```
+
+Working on uD4DD
+
+```{r, results="asis"}
+l("\uD4DD")
+```
+
+Working on uD4DE
+
+```{r, results="asis"}
+l("\uD4DE")
+```
+
+Working on uD4DF
+
+```{r, results="asis"}
+l("\uD4DF")
+```
+
+Working on uD4E0
+
+```{r, results="asis"}
+l("\uD4E0")
+```
+
+Working on uD4E1
+
+```{r, results="asis"}
+l("\uD4E1")
+```
+
+Working on uD4E2
+
+```{r, results="asis"}
+l("\uD4E2")
+```
+
+Working on uD4E3
+
+```{r, results="asis"}
+l("\uD4E3")
+```
+
+Working on uD4E4
+
+```{r, results="asis"}
+l("\uD4E4")
+```
+
+Working on uD4E5
+
+```{r, results="asis"}
+l("\uD4E5")
+```
+
+Working on uD4E6
+
+```{r, results="asis"}
+l("\uD4E6")
+```
+
+Working on uD4E7
+
+```{r, results="asis"}
+l("\uD4E7")
+```
+
+Working on uD4E8
+
+```{r, results="asis"}
+l("\uD4E8")
+```
+
+Working on uD4E9
+
+```{r, results="asis"}
+l("\uD4E9")
+```
+
+Working on uD4EA
+
+```{r, results="asis"}
+l("\uD4EA")
+```
+
+Working on uD4EB
+
+```{r, results="asis"}
+l("\uD4EB")
+```
+
+Working on uD4EC
+
+```{r, results="asis"}
+l("\uD4EC")
+```
+
+Working on uD4ED
+
+```{r, results="asis"}
+l("\uD4ED")
+```
+
+Working on uD4EE
+
+```{r, results="asis"}
+l("\uD4EE")
+```
+
+Working on uD4EF
+
+```{r, results="asis"}
+l("\uD4EF")
+```
+
+Working on uD4F0
+
+```{r, results="asis"}
+l("\uD4F0")
+```
+
+Working on uD4F1
+
+```{r, results="asis"}
+l("\uD4F1")
+```
+
+Working on uD4F2
+
+```{r, results="asis"}
+l("\uD4F2")
+```
+
+Working on uD4F3
+
+```{r, results="asis"}
+l("\uD4F3")
+```
+
+Working on uD4F4
+
+```{r, results="asis"}
+l("\uD4F4")
+```
+
+Working on uD4F5
+
+```{r, results="asis"}
+l("\uD4F5")
+```
+
+Working on uD4F6
+
+```{r, results="asis"}
+l("\uD4F6")
+```
+
+Working on uD4F7
+
+```{r, results="asis"}
+l("\uD4F7")
+```
+
+Working on uD4F8
+
+```{r, results="asis"}
+l("\uD4F8")
+```
+
+Working on uD4F9
+
+```{r, results="asis"}
+l("\uD4F9")
+```
+
+Working on uD4FA
+
+```{r, results="asis"}
+l("\uD4FA")
+```
+
+Working on uD4FB
+
+```{r, results="asis"}
+l("\uD4FB")
+```
+
+Working on uD4FC
+
+```{r, results="asis"}
+l("\uD4FC")
+```
+
+Working on uD4FD
+
+```{r, results="asis"}
+l("\uD4FD")
+```
+
+Working on uD4FE
+
+```{r, results="asis"}
+l("\uD4FE")
+```
+
+Working on uD4FF
+
+```{r, results="asis"}
+l("\uD4FF")
+```
+
+Working on uD500
+
+```{r, results="asis"}
+l("\uD500")
+```
+
+Working on uD501
+
+```{r, results="asis"}
+l("\uD501")
+```
+
+Working on uD502
+
+```{r, results="asis"}
+l("\uD502")
+```
+
+Working on uD503
+
+```{r, results="asis"}
+l("\uD503")
+```
+
+Working on uD504
+
+```{r, results="asis"}
+l("\uD504")
+```
+
+Working on uD505
+
+```{r, results="asis"}
+l("\uD505")
+```
+
+Working on uD507
+
+```{r, results="asis"}
+l("\uD507")
+```
+
+Working on uD508
+
+```{r, results="asis"}
+l("\uD508")
+```
+
+Working on uD509
+
+```{r, results="asis"}
+l("\uD509")
+```
+
+Working on uD50A
+
+```{r, results="asis"}
+l("\uD50A")
+```
+
+Working on uD50D
+
+```{r, results="asis"}
+l("\uD50D")
+```
+
+Working on uD50E
+
+```{r, results="asis"}
+l("\uD50E")
+```
+
+Working on uD50F
+
+```{r, results="asis"}
+l("\uD50F")
+```
+
+Working on uD510
+
+```{r, results="asis"}
+l("\uD510")
+```
+
+Working on uD511
+
+```{r, results="asis"}
+l("\uD511")
+```
+
+Working on uD512
+
+```{r, results="asis"}
+l("\uD512")
+```
+
+Working on uD513
+
+```{r, results="asis"}
+l("\uD513")
+```
+
+Working on uD514
+
+```{r, results="asis"}
+l("\uD514")
+```
+
+Working on uD516
+
+```{r, results="asis"}
+l("\uD516")
+```
+
+Working on uD517
+
+```{r, results="asis"}
+l("\uD517")
+```
+
+Working on uD518
+
+```{r, results="asis"}
+l("\uD518")
+```
+
+Working on uD519
+
+```{r, results="asis"}
+l("\uD519")
+```
+
+Working on uD51A
+
+```{r, results="asis"}
+l("\uD51A")
+```
+
+Working on uD51B
+
+```{r, results="asis"}
+l("\uD51B")
+```
+
+Working on uD51C
+
+```{r, results="asis"}
+l("\uD51C")
+```
+
+Working on uD51E
+
+```{r, results="asis"}
+l("\uD51E")
+```
+
+Working on uD51F
+
+```{r, results="asis"}
+l("\uD51F")
+```
+
+Working on uD520
+
+```{r, results="asis"}
+l("\uD520")
+```
+
+Working on uD521
+
+```{r, results="asis"}
+l("\uD521")
+```
+
+Working on uD522
+
+```{r, results="asis"}
+l("\uD522")
+```
+
+Working on uD523
+
+```{r, results="asis"}
+l("\uD523")
+```
+
+Working on uD524
+
+```{r, results="asis"}
+l("\uD524")
+```
+
+Working on uD525
+
+```{r, results="asis"}
+l("\uD525")
+```
+
+Working on uD526
+
+```{r, results="asis"}
+l("\uD526")
+```
+
+Working on uD527
+
+```{r, results="asis"}
+l("\uD527")
+```
+
+Working on uD528
+
+```{r, results="asis"}
+l("\uD528")
+```
+
+Working on uD529
+
+```{r, results="asis"}
+l("\uD529")
+```
+
+Working on uD52A
+
+```{r, results="asis"}
+l("\uD52A")
+```
+
+Working on uD52B
+
+```{r, results="asis"}
+l("\uD52B")
+```
+
+Working on uD52C
+
+```{r, results="asis"}
+l("\uD52C")
+```
+
+Working on uD52D
+
+```{r, results="asis"}
+l("\uD52D")
+```
+
+Working on uD52E
+
+```{r, results="asis"}
+l("\uD52E")
+```
+
+Working on uD52F
+
+```{r, results="asis"}
+l("\uD52F")
+```
+
+Working on uD530
+
+```{r, results="asis"}
+l("\uD530")
+```
+
+Working on uD531
+
+```{r, results="asis"}
+l("\uD531")
+```
+
+Working on uD532
+
+```{r, results="asis"}
+l("\uD532")
+```
+
+Working on uD533
+
+```{r, results="asis"}
+l("\uD533")
+```
+
+Working on uD534
+
+```{r, results="asis"}
+l("\uD534")
+```
+
+Working on uD535
+
+```{r, results="asis"}
+l("\uD535")
+```
+
+Working on uD536
+
+```{r, results="asis"}
+l("\uD536")
+```
+
+Working on uD537
+
+```{r, results="asis"}
+l("\uD537")
+```
+
+Working on uD538
+
+```{r, results="asis"}
+l("\uD538")
+```
+
+Working on uD539
+
+```{r, results="asis"}
+l("\uD539")
+```
+
+Working on uD53B
+
+```{r, results="asis"}
+l("\uD53B")
+```
+
+Working on uD53C
+
+```{r, results="asis"}
+l("\uD53C")
+```
+
+Working on uD53D
+
+```{r, results="asis"}
+l("\uD53D")
+```
+
+Working on uD53E
+
+```{r, results="asis"}
+l("\uD53E")
+```
+
+Working on uD540
+
+```{r, results="asis"}
+l("\uD540")
+```
+
+Working on uD541
+
+```{r, results="asis"}
+l("\uD541")
+```
+
+Working on uD542
+
+```{r, results="asis"}
+l("\uD542")
+```
+
+Working on uD543
+
+```{r, results="asis"}
+l("\uD543")
+```
+
+Working on uD544
+
+```{r, results="asis"}
+l("\uD544")
+```
+
+Working on uD546
+
+```{r, results="asis"}
+l("\uD546")
+```
+
+Working on uD54A
+
+```{r, results="asis"}
+l("\uD54A")
+```
+
+Working on uD54B
+
+```{r, results="asis"}
+l("\uD54B")
+```
+
+Working on uD54C
+
+```{r, results="asis"}
+l("\uD54C")
+```
+
+Working on uD54D
+
+```{r, results="asis"}
+l("\uD54D")
+```
+
+Working on uD54E
+
+```{r, results="asis"}
+l("\uD54E")
+```
+
+Working on uD54F
+
+```{r, results="asis"}
+l("\uD54F")
+```
+
+Working on uD550
+
+```{r, results="asis"}
+l("\uD550")
+```
+
+Working on uD552
+
+```{r, results="asis"}
+l("\uD552")
+```
+
+Working on uD553
+
+```{r, results="asis"}
+l("\uD553")
+```
+
+Working on uD554
+
+```{r, results="asis"}
+l("\uD554")
+```
+
+Working on uD555
+
+```{r, results="asis"}
+l("\uD555")
+```
+
+Working on uD556
+
+```{r, results="asis"}
+l("\uD556")
+```
+
+Working on uD557
+
+```{r, results="asis"}
+l("\uD557")
+```
+
+Working on uD558
+
+```{r, results="asis"}
+l("\uD558")
+```
+
+Working on uD559
+
+```{r, results="asis"}
+l("\uD559")
+```
+
+Working on uD55A
+
+```{r, results="asis"}
+l("\uD55A")
+```
+
+Working on uD55B
+
+```{r, results="asis"}
+l("\uD55B")
+```
+
+Working on uD55C
+
+```{r, results="asis"}
+l("\uD55C")
+```
+
+Working on uD55D
+
+```{r, results="asis"}
+l("\uD55D")
+```
+
+Working on uD55E
+
+```{r, results="asis"}
+l("\uD55E")
+```
+
+Working on uD55F
+
+```{r, results="asis"}
+l("\uD55F")
+```
+
+Working on uD560
+
+```{r, results="asis"}
+l("\uD560")
+```
+
+Working on uD561
+
+```{r, results="asis"}
+l("\uD561")
+```
+
+Working on uD562
+
+```{r, results="asis"}
+l("\uD562")
+```
+
+Working on uD563
+
+```{r, results="asis"}
+l("\uD563")
+```
+
+Working on uD564
+
+```{r, results="asis"}
+l("\uD564")
+```
+
+Working on uD565
+
+```{r, results="asis"}
+l("\uD565")
+```
+
+Working on uD566
+
+```{r, results="asis"}
+l("\uD566")
+```
+
+Working on uD567
+
+```{r, results="asis"}
+l("\uD567")
+```
+
+Working on uD568
+
+```{r, results="asis"}
+l("\uD568")
+```
+
+Working on uD569
+
+```{r, results="asis"}
+l("\uD569")
+```
+
+Working on uD56A
+
+```{r, results="asis"}
+l("\uD56A")
+```
+
+Working on uD56B
+
+```{r, results="asis"}
+l("\uD56B")
+```
+
+Working on uD56C
+
+```{r, results="asis"}
+l("\uD56C")
+```
+
+Working on uD56D
+
+```{r, results="asis"}
+l("\uD56D")
+```
+
+Working on uD56E
+
+```{r, results="asis"}
+l("\uD56E")
+```
+
+Working on uD56F
+
+```{r, results="asis"}
+l("\uD56F")
+```
+
+Working on uD570
+
+```{r, results="asis"}
+l("\uD570")
+```
+
+Working on uD571
+
+```{r, results="asis"}
+l("\uD571")
+```
+
+Working on uD572
+
+```{r, results="asis"}
+l("\uD572")
+```
+
+Working on uD573
+
+```{r, results="asis"}
+l("\uD573")
+```
+
+Working on uD574
+
+```{r, results="asis"}
+l("\uD574")
+```
+
+Working on uD575
+
+```{r, results="asis"}
+l("\uD575")
+```
+
+Working on uD576
+
+```{r, results="asis"}
+l("\uD576")
+```
+
+Working on uD577
+
+```{r, results="asis"}
+l("\uD577")
+```
+
+Working on uD578
+
+```{r, results="asis"}
+l("\uD578")
+```
+
+Working on uD579
+
+```{r, results="asis"}
+l("\uD579")
+```
+
+Working on uD57A
+
+```{r, results="asis"}
+l("\uD57A")
+```
+
+Working on uD57B
+
+```{r, results="asis"}
+l("\uD57B")
+```
+
+Working on uD57C
+
+```{r, results="asis"}
+l("\uD57C")
+```
+
+Working on uD57D
+
+```{r, results="asis"}
+l("\uD57D")
+```
+
+Working on uD57E
+
+```{r, results="asis"}
+l("\uD57E")
+```
+
+Working on uD57F
+
+```{r, results="asis"}
+l("\uD57F")
+```
+
+Working on uD580
+
+```{r, results="asis"}
+l("\uD580")
+```
+
+Working on uD581
+
+```{r, results="asis"}
+l("\uD581")
+```
+
+Working on uD582
+
+```{r, results="asis"}
+l("\uD582")
+```
+
+Working on uD583
+
+```{r, results="asis"}
+l("\uD583")
+```
+
+Working on uD584
+
+```{r, results="asis"}
+l("\uD584")
+```
+
+Working on uD585
+
+```{r, results="asis"}
+l("\uD585")
+```
+
+Working on uD586
+
+```{r, results="asis"}
+l("\uD586")
+```
+
+Working on uD587
+
+```{r, results="asis"}
+l("\uD587")
+```
+
+Working on uD588
+
+```{r, results="asis"}
+l("\uD588")
+```
+
+Working on uD589
+
+```{r, results="asis"}
+l("\uD589")
+```
+
+Working on uD58A
+
+```{r, results="asis"}
+l("\uD58A")
+```
+
+Working on uD58B
+
+```{r, results="asis"}
+l("\uD58B")
+```
+
+Working on uD58C
+
+```{r, results="asis"}
+l("\uD58C")
+```
+
+Working on uD58D
+
+```{r, results="asis"}
+l("\uD58D")
+```
+
+Working on uD58E
+
+```{r, results="asis"}
+l("\uD58E")
+```
+
+Working on uD58F
+
+```{r, results="asis"}
+l("\uD58F")
+```
+
+Working on uD590
+
+```{r, results="asis"}
+l("\uD590")
+```
+
+Working on uD591
+
+```{r, results="asis"}
+l("\uD591")
+```
+
+Working on uD592
+
+```{r, results="asis"}
+l("\uD592")
+```
+
+Working on uD593
+
+```{r, results="asis"}
+l("\uD593")
+```
+
+Working on uD594
+
+```{r, results="asis"}
+l("\uD594")
+```
+
+Working on uD595
+
+```{r, results="asis"}
+l("\uD595")
+```
+
+Working on uD596
+
+```{r, results="asis"}
+l("\uD596")
+```
+
+Working on uD597
+
+```{r, results="asis"}
+l("\uD597")
+```
+
+Working on uD598
+
+```{r, results="asis"}
+l("\uD598")
+```
+
+Working on uD599
+
+```{r, results="asis"}
+l("\uD599")
+```
+
+Working on uD59A
+
+```{r, results="asis"}
+l("\uD59A")
+```
+
+Working on uD59B
+
+```{r, results="asis"}
+l("\uD59B")
+```
+
+Working on uD59C
+
+```{r, results="asis"}
+l("\uD59C")
+```
+
+Working on uD59D
+
+```{r, results="asis"}
+l("\uD59D")
+```
+
+Working on uD59E
+
+```{r, results="asis"}
+l("\uD59E")
+```
+
+Working on uD59F
+
+```{r, results="asis"}
+l("\uD59F")
+```
+
+Working on uD5A0
+
+```{r, results="asis"}
+l("\uD5A0")
+```
+
+Working on uD5A1
+
+```{r, results="asis"}
+l("\uD5A1")
+```
+
+Working on uD5A2
+
+```{r, results="asis"}
+l("\uD5A2")
+```
+
+Working on uD5A3
+
+```{r, results="asis"}
+l("\uD5A3")
+```
+
+Working on uD5A4
+
+```{r, results="asis"}
+l("\uD5A4")
+```
+
+Working on uD5A5
+
+```{r, results="asis"}
+l("\uD5A5")
+```
+
+Working on uD5A6
+
+```{r, results="asis"}
+l("\uD5A6")
+```
+
+Working on uD5A7
+
+```{r, results="asis"}
+l("\uD5A7")
+```
+
+Working on uD5A8
+
+```{r, results="asis"}
+l("\uD5A8")
+```
+
+Working on uD5A9
+
+```{r, results="asis"}
+l("\uD5A9")
+```
+
+Working on uD5AA
+
+```{r, results="asis"}
+l("\uD5AA")
+```
+
+Working on uD5AB
+
+```{r, results="asis"}
+l("\uD5AB")
+```
+
+Working on uD5AC
+
+```{r, results="asis"}
+l("\uD5AC")
+```
+
+Working on uD5AD
+
+```{r, results="asis"}
+l("\uD5AD")
+```
+
+Working on uD5AE
+
+```{r, results="asis"}
+l("\uD5AE")
+```
+
+Working on uD5AF
+
+```{r, results="asis"}
+l("\uD5AF")
+```
+
+Working on uD5B0
+
+```{r, results="asis"}
+l("\uD5B0")
+```
+
+Working on uD5B1
+
+```{r, results="asis"}
+l("\uD5B1")
+```
+
+Working on uD5B2
+
+```{r, results="asis"}
+l("\uD5B2")
+```
+
+Working on uD5B3
+
+```{r, results="asis"}
+l("\uD5B3")
+```
+
+Working on uD5B4
+
+```{r, results="asis"}
+l("\uD5B4")
+```
+
+Working on uD5B5
+
+```{r, results="asis"}
+l("\uD5B5")
+```
+
+Working on uD5B6
+
+```{r, results="asis"}
+l("\uD5B6")
+```
+
+Working on uD5B7
+
+```{r, results="asis"}
+l("\uD5B7")
+```
+
+Working on uD5B8
+
+```{r, results="asis"}
+l("\uD5B8")
+```
+
+Working on uD5B9
+
+```{r, results="asis"}
+l("\uD5B9")
+```
+
+Working on uD5BA
+
+```{r, results="asis"}
+l("\uD5BA")
+```
+
+Working on uD5BB
+
+```{r, results="asis"}
+l("\uD5BB")
+```
+
+Working on uD5BC
+
+```{r, results="asis"}
+l("\uD5BC")
+```
+
+Working on uD5BD
+
+```{r, results="asis"}
+l("\uD5BD")
+```
+
+Working on uD5BE
+
+```{r, results="asis"}
+l("\uD5BE")
+```
+
+Working on uD5BF
+
+```{r, results="asis"}
+l("\uD5BF")
+```
+
+Working on uD5C0
+
+```{r, results="asis"}
+l("\uD5C0")
+```
+
+Working on uD5C1
+
+```{r, results="asis"}
+l("\uD5C1")
+```
+
+Working on uD5C2
+
+```{r, results="asis"}
+l("\uD5C2")
+```
+
+Working on uD5C3
+
+```{r, results="asis"}
+l("\uD5C3")
+```
+
+Working on uD5C4
+
+```{r, results="asis"}
+l("\uD5C4")
+```
+
+Working on uD5C5
+
+```{r, results="asis"}
+l("\uD5C5")
+```
+
+Working on uD5C6
+
+```{r, results="asis"}
+l("\uD5C6")
+```
+
+Working on uD5C7
+
+```{r, results="asis"}
+l("\uD5C7")
+```
+
+Working on uD5C8
+
+```{r, results="asis"}
+l("\uD5C8")
+```
+
+Working on uD5C9
+
+```{r, results="asis"}
+l("\uD5C9")
+```
+
+Working on uD5CA
+
+```{r, results="asis"}
+l("\uD5CA")
+```
+
+Working on uD5CB
+
+```{r, results="asis"}
+l("\uD5CB")
+```
+
+Working on uD5CC
+
+```{r, results="asis"}
+l("\uD5CC")
+```
+
+Working on uD5CD
+
+```{r, results="asis"}
+l("\uD5CD")
+```
+
+Working on uD5CE
+
+```{r, results="asis"}
+l("\uD5CE")
+```
+
+Working on uD5CF
+
+```{r, results="asis"}
+l("\uD5CF")
+```
+
+Working on uD5D0
+
+```{r, results="asis"}
+l("\uD5D0")
+```
+
+Working on uD5D1
+
+```{r, results="asis"}
+l("\uD5D1")
+```
+
+Working on uD5D2
+
+```{r, results="asis"}
+l("\uD5D2")
+```
+
+Working on uD5D3
+
+```{r, results="asis"}
+l("\uD5D3")
+```
+
+Working on uD5D4
+
+```{r, results="asis"}
+l("\uD5D4")
+```
+
+Working on uD5D5
+
+```{r, results="asis"}
+l("\uD5D5")
+```
+
+Working on uD5D6
+
+```{r, results="asis"}
+l("\uD5D6")
+```
+
+Working on uD5D7
+
+```{r, results="asis"}
+l("\uD5D7")
+```
+
+Working on uD5D8
+
+```{r, results="asis"}
+l("\uD5D8")
+```
+
+Working on uD5D9
+
+```{r, results="asis"}
+l("\uD5D9")
+```
+
+Working on uD5DA
+
+```{r, results="asis"}
+l("\uD5DA")
+```
+
+Working on uD5DB
+
+```{r, results="asis"}
+l("\uD5DB")
+```
+
+Working on uD5DC
+
+```{r, results="asis"}
+l("\uD5DC")
+```
+
+Working on uD5DD
+
+```{r, results="asis"}
+l("\uD5DD")
+```
+
+Working on uD5DE
+
+```{r, results="asis"}
+l("\uD5DE")
+```
+
+Working on uD5DF
+
+```{r, results="asis"}
+l("\uD5DF")
+```
+
+Working on uD5E0
+
+```{r, results="asis"}
+l("\uD5E0")
+```
+
+Working on uD5E1
+
+```{r, results="asis"}
+l("\uD5E1")
+```
+
+Working on uD5E2
+
+```{r, results="asis"}
+l("\uD5E2")
+```
+
+Working on uD5E3
+
+```{r, results="asis"}
+l("\uD5E3")
+```
+
+Working on uD5E4
+
+```{r, results="asis"}
+l("\uD5E4")
+```
+
+Working on uD5E5
+
+```{r, results="asis"}
+l("\uD5E5")
+```
+
+Working on uD5E6
+
+```{r, results="asis"}
+l("\uD5E6")
+```
+
+Working on uD5E7
+
+```{r, results="asis"}
+l("\uD5E7")
+```
+
+Working on uD5E8
+
+```{r, results="asis"}
+l("\uD5E8")
+```
+
+Working on uD5E9
+
+```{r, results="asis"}
+l("\uD5E9")
+```
+
+Working on uD5EA
+
+```{r, results="asis"}
+l("\uD5EA")
+```
+
+Working on uD5EB
+
+```{r, results="asis"}
+l("\uD5EB")
+```
+
+Working on uD5EC
+
+```{r, results="asis"}
+l("\uD5EC")
+```
+
+Working on uD5ED
+
+```{r, results="asis"}
+l("\uD5ED")
+```
+
+Working on uD5EE
+
+```{r, results="asis"}
+l("\uD5EE")
+```
+
+Working on uD5EF
+
+```{r, results="asis"}
+l("\uD5EF")
+```
+
+Working on uD5F0
+
+```{r, results="asis"}
+l("\uD5F0")
+```
+
+Working on uD5F1
+
+```{r, results="asis"}
+l("\uD5F1")
+```
+
+Working on uD5F2
+
+```{r, results="asis"}
+l("\uD5F2")
+```
+
+Working on uD5F3
+
+```{r, results="asis"}
+l("\uD5F3")
+```
+
+Working on uD5F4
+
+```{r, results="asis"}
+l("\uD5F4")
+```
+
+Working on uD5F5
+
+```{r, results="asis"}
+l("\uD5F5")
+```
+
+Working on uD5F6
+
+```{r, results="asis"}
+l("\uD5F6")
+```
+
+Working on uD5F7
+
+```{r, results="asis"}
+l("\uD5F7")
+```
+
+Working on uD5F8
+
+```{r, results="asis"}
+l("\uD5F8")
+```
+
+Working on uD5F9
+
+```{r, results="asis"}
+l("\uD5F9")
+```
+
+Working on uD5FA
+
+```{r, results="asis"}
+l("\uD5FA")
+```
+
+Working on uD5FB
+
+```{r, results="asis"}
+l("\uD5FB")
+```
+
+Working on uD5FC
+
+```{r, results="asis"}
+l("\uD5FC")
+```
+
+Working on uD5FD
+
+```{r, results="asis"}
+l("\uD5FD")
+```
+
+Working on uD5FE
+
+```{r, results="asis"}
+l("\uD5FE")
+```
+
+Working on uD5FF
+
+```{r, results="asis"}
+l("\uD5FF")
+```
+
+Working on uD600
+
+```{r, results="asis"}
+l("\uD600")
+```
+
+Working on uD601
+
+```{r, results="asis"}
+l("\uD601")
+```
+
+Working on uD602
+
+```{r, results="asis"}
+l("\uD602")
+```
+
+Working on uD603
+
+```{r, results="asis"}
+l("\uD603")
+```
+
+Working on uD604
+
+```{r, results="asis"}
+l("\uD604")
+```
+
+Working on uD605
+
+```{r, results="asis"}
+l("\uD605")
+```
+
+Working on uD606
+
+```{r, results="asis"}
+l("\uD606")
+```
+
+Working on uD607
+
+```{r, results="asis"}
+l("\uD607")
+```
+
+Working on uD608
+
+```{r, results="asis"}
+l("\uD608")
+```
+
+Working on uD609
+
+```{r, results="asis"}
+l("\uD609")
+```
+
+Working on uD60A
+
+```{r, results="asis"}
+l("\uD60A")
+```
+
+Working on uD60B
+
+```{r, results="asis"}
+l("\uD60B")
+```
+
+Working on uD60C
+
+```{r, results="asis"}
+l("\uD60C")
+```
+
+Working on uD60D
+
+```{r, results="asis"}
+l("\uD60D")
+```
+
+Working on uD60E
+
+```{r, results="asis"}
+l("\uD60E")
+```
+
+Working on uD60F
+
+```{r, results="asis"}
+l("\uD60F")
+```
+
+Working on uD610
+
+```{r, results="asis"}
+l("\uD610")
+```
+
+Working on uD611
+
+```{r, results="asis"}
+l("\uD611")
+```
+
+Working on uD612
+
+```{r, results="asis"}
+l("\uD612")
+```
+
+Working on uD613
+
+```{r, results="asis"}
+l("\uD613")
+```
+
+Working on uD614
+
+```{r, results="asis"}
+l("\uD614")
+```
+
+Working on uD615
+
+```{r, results="asis"}
+l("\uD615")
+```
+
+Working on uD616
+
+```{r, results="asis"}
+l("\uD616")
+```
+
+Working on uD617
+
+```{r, results="asis"}
+l("\uD617")
+```
+
+Working on uD618
+
+```{r, results="asis"}
+l("\uD618")
+```
+
+Working on uD619
+
+```{r, results="asis"}
+l("\uD619")
+```
+
+Working on uD61A
+
+```{r, results="asis"}
+l("\uD61A")
+```
+
+Working on uD61B
+
+```{r, results="asis"}
+l("\uD61B")
+```
+
+Working on uD61C
+
+```{r, results="asis"}
+l("\uD61C")
+```
+
+Working on uD61D
+
+```{r, results="asis"}
+l("\uD61D")
+```
+
+Working on uD61E
+
+```{r, results="asis"}
+l("\uD61E")
+```
+
+Working on uD61F
+
+```{r, results="asis"}
+l("\uD61F")
+```
+
+Working on uD620
+
+```{r, results="asis"}
+l("\uD620")
+```
+
+Working on uD621
+
+```{r, results="asis"}
+l("\uD621")
+```
+
+Working on uD622
+
+```{r, results="asis"}
+l("\uD622")
+```
+
+Working on uD623
+
+```{r, results="asis"}
+l("\uD623")
+```
+
+Working on uD624
+
+```{r, results="asis"}
+l("\uD624")
+```
+
+Working on uD625
+
+```{r, results="asis"}
+l("\uD625")
+```
+
+Working on uD626
+
+```{r, results="asis"}
+l("\uD626")
+```
+
+Working on uD627
+
+```{r, results="asis"}
+l("\uD627")
+```
+
+Working on uD628
+
+```{r, results="asis"}
+l("\uD628")
+```
+
+Working on uD629
+
+```{r, results="asis"}
+l("\uD629")
+```
+
+Working on uD62A
+
+```{r, results="asis"}
+l("\uD62A")
+```
+
+Working on uD62B
+
+```{r, results="asis"}
+l("\uD62B")
+```
+
+Working on uD62C
+
+```{r, results="asis"}
+l("\uD62C")
+```
+
+Working on uD62D
+
+```{r, results="asis"}
+l("\uD62D")
+```
+
+Working on uD62E
+
+```{r, results="asis"}
+l("\uD62E")
+```
+
+Working on uD62F
+
+```{r, results="asis"}
+l("\uD62F")
+```
+
+Working on uD630
+
+```{r, results="asis"}
+l("\uD630")
+```
+
+Working on uD631
+
+```{r, results="asis"}
+l("\uD631")
+```
+
+Working on uD632
+
+```{r, results="asis"}
+l("\uD632")
+```
+
+Working on uD633
+
+```{r, results="asis"}
+l("\uD633")
+```
+
+Working on uD634
+
+```{r, results="asis"}
+l("\uD634")
+```
+
+Working on uD635
+
+```{r, results="asis"}
+l("\uD635")
+```
+
+Working on uD636
+
+```{r, results="asis"}
+l("\uD636")
+```
+
+Working on uD637
+
+```{r, results="asis"}
+l("\uD637")
+```
+
+Working on uD638
+
+```{r, results="asis"}
+l("\uD638")
+```
+
+Working on uD639
+
+```{r, results="asis"}
+l("\uD639")
+```
+
+Working on uD63A
+
+```{r, results="asis"}
+l("\uD63A")
+```
+
+Working on uD63B
+
+```{r, results="asis"}
+l("\uD63B")
+```
+
+Working on uD63C
+
+```{r, results="asis"}
+l("\uD63C")
+```
+
+Working on uD63D
+
+```{r, results="asis"}
+l("\uD63D")
+```
+
+Working on uD63E
+
+```{r, results="asis"}
+l("\uD63E")
+```
+
+Working on uD63F
+
+```{r, results="asis"}
+l("\uD63F")
+```
+
+Working on uD640
+
+```{r, results="asis"}
+l("\uD640")
+```
+
+Working on uD641
+
+```{r, results="asis"}
+l("\uD641")
+```
+
+Working on uD642
+
+```{r, results="asis"}
+l("\uD642")
+```
+
+Working on uD643
+
+```{r, results="asis"}
+l("\uD643")
+```
+
+Working on uD644
+
+```{r, results="asis"}
+l("\uD644")
+```
+
+Working on uD645
+
+```{r, results="asis"}
+l("\uD645")
+```
+
+Working on uD646
+
+```{r, results="asis"}
+l("\uD646")
+```
+
+Working on uD647
+
+```{r, results="asis"}
+l("\uD647")
+```
+
+Working on uD648
+
+```{r, results="asis"}
+l("\uD648")
+```
+
+Working on uD649
+
+```{r, results="asis"}
+l("\uD649")
+```
+
+Working on uD64A
+
+```{r, results="asis"}
+l("\uD64A")
+```
+
+Working on uD64B
+
+```{r, results="asis"}
+l("\uD64B")
+```
+
+Working on uD64C
+
+```{r, results="asis"}
+l("\uD64C")
+```
+
+Working on uD64D
+
+```{r, results="asis"}
+l("\uD64D")
+```
+
+Working on uD64E
+
+```{r, results="asis"}
+l("\uD64E")
+```
+
+Working on uD64F
+
+```{r, results="asis"}
+l("\uD64F")
+```
+
+Working on uD650
+
+```{r, results="asis"}
+l("\uD650")
+```
+
+Working on uD651
+
+```{r, results="asis"}
+l("\uD651")
+```
+
+Working on uD652
+
+```{r, results="asis"}
+l("\uD652")
+```
+
+Working on uD653
+
+```{r, results="asis"}
+l("\uD653")
+```
+
+Working on uD654
+
+```{r, results="asis"}
+l("\uD654")
+```
+
+Working on uD655
+
+```{r, results="asis"}
+l("\uD655")
+```
+
+Working on uD656
+
+```{r, results="asis"}
+l("\uD656")
+```
+
+Working on uD657
+
+```{r, results="asis"}
+l("\uD657")
+```
+
+Working on uD658
+
+```{r, results="asis"}
+l("\uD658")
+```
+
+Working on uD659
+
+```{r, results="asis"}
+l("\uD659")
+```
+
+Working on uD65A
+
+```{r, results="asis"}
+l("\uD65A")
+```
+
+Working on uD65B
+
+```{r, results="asis"}
+l("\uD65B")
+```
+
+Working on uD65C
+
+```{r, results="asis"}
+l("\uD65C")
+```
+
+Working on uD65D
+
+```{r, results="asis"}
+l("\uD65D")
+```
+
+Working on uD65E
+
+```{r, results="asis"}
+l("\uD65E")
+```
+
+Working on uD65F
+
+```{r, results="asis"}
+l("\uD65F")
+```
+
+Working on uD660
+
+```{r, results="asis"}
+l("\uD660")
+```
+
+Working on uD661
+
+```{r, results="asis"}
+l("\uD661")
+```
+
+Working on uD662
+
+```{r, results="asis"}
+l("\uD662")
+```
+
+Working on uD663
+
+```{r, results="asis"}
+l("\uD663")
+```
+
+Working on uD664
+
+```{r, results="asis"}
+l("\uD664")
+```
+
+Working on uD665
+
+```{r, results="asis"}
+l("\uD665")
+```
+
+Working on uD666
+
+```{r, results="asis"}
+l("\uD666")
+```
+
+Working on uD667
+
+```{r, results="asis"}
+l("\uD667")
+```
+
+Working on uD668
+
+```{r, results="asis"}
+l("\uD668")
+```
+
+Working on uD669
+
+```{r, results="asis"}
+l("\uD669")
+```
+
+Working on uD66A
+
+```{r, results="asis"}
+l("\uD66A")
+```
+
+Working on uD66B
+
+```{r, results="asis"}
+l("\uD66B")
+```
+
+Working on uD66C
+
+```{r, results="asis"}
+l("\uD66C")
+```
+
+Working on uD66D
+
+```{r, results="asis"}
+l("\uD66D")
+```
+
+Working on uD66E
+
+```{r, results="asis"}
+l("\uD66E")
+```
+
+Working on uD66F
+
+```{r, results="asis"}
+l("\uD66F")
+```
+
+Working on uD670
+
+```{r, results="asis"}
+l("\uD670")
+```
+
+Working on uD671
+
+```{r, results="asis"}
+l("\uD671")
+```
+
+Working on uD672
+
+```{r, results="asis"}
+l("\uD672")
+```
+
+Working on uD673
+
+```{r, results="asis"}
+l("\uD673")
+```
+
+Working on uD674
+
+```{r, results="asis"}
+l("\uD674")
+```
+
+Working on uD675
+
+```{r, results="asis"}
+l("\uD675")
+```
+
+Working on uD676
+
+```{r, results="asis"}
+l("\uD676")
+```
+
+Working on uD677
+
+```{r, results="asis"}
+l("\uD677")
+```
+
+Working on uD678
+
+```{r, results="asis"}
+l("\uD678")
+```
+
+Working on uD679
+
+```{r, results="asis"}
+l("\uD679")
+```
+
+Working on uD67A
+
+```{r, results="asis"}
+l("\uD67A")
+```
+
+Working on uD67B
+
+```{r, results="asis"}
+l("\uD67B")
+```
+
+Working on uD67C
+
+```{r, results="asis"}
+l("\uD67C")
+```
+
+Working on uD67D
+
+```{r, results="asis"}
+l("\uD67D")
+```
+
+Working on uD67E
+
+```{r, results="asis"}
+l("\uD67E")
+```
+
+Working on uD67F
+
+```{r, results="asis"}
+l("\uD67F")
+```
+
+Working on uD680
+
+```{r, results="asis"}
+l("\uD680")
+```
+
+Working on uD681
+
+```{r, results="asis"}
+l("\uD681")
+```
+
+Working on uD682
+
+```{r, results="asis"}
+l("\uD682")
+```
+
+Working on uD683
+
+```{r, results="asis"}
+l("\uD683")
+```
+
+Working on uD684
+
+```{r, results="asis"}
+l("\uD684")
+```
+
+Working on uD685
+
+```{r, results="asis"}
+l("\uD685")
+```
+
+Working on uD686
+
+```{r, results="asis"}
+l("\uD686")
+```
+
+Working on uD687
+
+```{r, results="asis"}
+l("\uD687")
+```
+
+Working on uD688
+
+```{r, results="asis"}
+l("\uD688")
+```
+
+Working on uD689
+
+```{r, results="asis"}
+l("\uD689")
+```
+
+Working on uD68A
+
+```{r, results="asis"}
+l("\uD68A")
+```
+
+Working on uD68B
+
+```{r, results="asis"}
+l("\uD68B")
+```
+
+Working on uD68C
+
+```{r, results="asis"}
+l("\uD68C")
+```
+
+Working on uD68D
+
+```{r, results="asis"}
+l("\uD68D")
+```
+
+Working on uD68E
+
+```{r, results="asis"}
+l("\uD68E")
+```
+
+Working on uD68F
+
+```{r, results="asis"}
+l("\uD68F")
+```
+
+Working on uD690
+
+```{r, results="asis"}
+l("\uD690")
+```
+
+Working on uD691
+
+```{r, results="asis"}
+l("\uD691")
+```
+
+Working on uD692
+
+```{r, results="asis"}
+l("\uD692")
+```
+
+Working on uD693
+
+```{r, results="asis"}
+l("\uD693")
+```
+
+Working on uD694
+
+```{r, results="asis"}
+l("\uD694")
+```
+
+Working on uD695
+
+```{r, results="asis"}
+l("\uD695")
+```
+
+Working on uD696
+
+```{r, results="asis"}
+l("\uD696")
+```
+
+Working on uD697
+
+```{r, results="asis"}
+l("\uD697")
+```
+
+Working on uD698
+
+```{r, results="asis"}
+l("\uD698")
+```
+
+Working on uD699
+
+```{r, results="asis"}
+l("\uD699")
+```
+
+Working on uD69A
+
+```{r, results="asis"}
+l("\uD69A")
+```
+
+Working on uD69B
+
+```{r, results="asis"}
+l("\uD69B")
+```
+
+Working on uD69C
+
+```{r, results="asis"}
+l("\uD69C")
+```
+
+Working on uD69D
+
+```{r, results="asis"}
+l("\uD69D")
+```
+
+Working on uD69E
+
+```{r, results="asis"}
+l("\uD69E")
+```
+
+Working on uD69F
+
+```{r, results="asis"}
+l("\uD69F")
+```
+
+Working on uD6A0
+
+```{r, results="asis"}
+l("\uD6A0")
+```
+
+Working on uD6A1
+
+```{r, results="asis"}
+l("\uD6A1")
+```
+
+Working on uD6A2
+
+```{r, results="asis"}
+l("\uD6A2")
+```
+
+Working on uD6A3
+
+```{r, results="asis"}
+l("\uD6A3")
+```
+
+Working on uD6A8
+
+```{r, results="asis"}
+l("\uD6A8")
+```
+
+Working on uD6A9
+
+```{r, results="asis"}
+l("\uD6A9")
+```
+
+Working on uD6AA
+
+```{r, results="asis"}
+l("\uD6AA")
+```
+
+Working on uD6AB
+
+```{r, results="asis"}
+l("\uD6AB")
+```
+
+Working on uD6AC
+
+```{r, results="asis"}
+l("\uD6AC")
+```
+
+Working on uD6AD
+
+```{r, results="asis"}
+l("\uD6AD")
+```
+
+Working on uD6AE
+
+```{r, results="asis"}
+l("\uD6AE")
+```
+
+Working on uD6AF
+
+```{r, results="asis"}
+l("\uD6AF")
+```
+
+Working on uD6B0
+
+```{r, results="asis"}
+l("\uD6B0")
+```
+
+Working on uD6B1
+
+```{r, results="asis"}
+l("\uD6B1")
+```
+
+Working on uD6B2
+
+```{r, results="asis"}
+l("\uD6B2")
+```
+
+Working on uD6B5
+
+```{r, results="asis"}
+l("\uD6B5")
+```
+
+Working on uD6B7
+
+```{r, results="asis"}
+l("\uD6B7")
+```
+
+Working on uD6B8
+
+```{r, results="asis"}
+l("\uD6B8")
+```
+
+Working on uD6B9
+
+```{r, results="asis"}
+l("\uD6B9")
+```
+
+Working on uD6BA
+
+```{r, results="asis"}
+l("\uD6BA")
+```
+
+Working on uD6BB
+
+```{r, results="asis"}
+l("\uD6BB")
+```
+
+Working on uD6BC
+
+```{r, results="asis"}
+l("\uD6BC")
+```
+
+Working on uD6BD
+
+```{r, results="asis"}
+l("\uD6BD")
+```
+
+Working on uD6BE
+
+```{r, results="asis"}
+l("\uD6BE")
+```
+
+Working on uD6BF
+
+```{r, results="asis"}
+l("\uD6BF")
+```
+
+Working on uD6C0
+
+```{r, results="asis"}
+l("\uD6C0")
+```
+
+Working on uD6C1
+
+```{r, results="asis"}
+l("\uD6C1")
+```
+
+Working on uD6C2
+
+```{r, results="asis"}
+l("\uD6C2")
+```
+
+Working on uD6C3
+
+```{r, results="asis"}
+l("\uD6C3")
+```
+
+Working on uD6C4
+
+```{r, results="asis"}
+l("\uD6C4")
+```
+
+Working on uD6C5
+
+```{r, results="asis"}
+l("\uD6C5")
+```
+
+Working on uD6C6
+
+```{r, results="asis"}
+l("\uD6C6")
+```
+
+Working on uD6C7
+
+```{r, results="asis"}
+l("\uD6C7")
+```
+
+Working on uD6C8
+
+```{r, results="asis"}
+l("\uD6C8")
+```
+
+Working on uD6C9
+
+```{r, results="asis"}
+l("\uD6C9")
+```
+
+Working on uD6CA
+
+```{r, results="asis"}
+l("\uD6CA")
+```
+
+Working on uD6CB
+
+```{r, results="asis"}
+l("\uD6CB")
+```
+
+Working on uD6CC
+
+```{r, results="asis"}
+l("\uD6CC")
+```
+
+Working on uD6CF
+
+```{r, results="asis"}
+l("\uD6CF")
+```
+
+Working on uD6D1
+
+```{r, results="asis"}
+l("\uD6D1")
+```
+
+Working on uD6D2
+
+```{r, results="asis"}
+l("\uD6D2")
+```
+
+Working on uD6D3
+
+```{r, results="asis"}
+l("\uD6D3")
+```
+
+Working on uD6D4
+
+```{r, results="asis"}
+l("\uD6D4")
+```
+
+Working on uD6D5
+
+```{r, results="asis"}
+l("\uD6D5")
+```
+
+Working on uD6D6
+
+```{r, results="asis"}
+l("\uD6D6")
+```
+
+Working on uD6D7
+
+```{r, results="asis"}
+l("\uD6D7")
+```
+
+Working on uD6D8
+
+```{r, results="asis"}
+l("\uD6D8")
+```
+
+Working on uD6D9
+
+```{r, results="asis"}
+l("\uD6D9")
+```
+
+Working on uD6DA
+
+```{r, results="asis"}
+l("\uD6DA")
+```
+
+Working on uD6DB
+
+```{r, results="asis"}
+l("\uD6DB")
+```
+
+Working on uD6DC
+
+```{r, results="asis"}
+l("\uD6DC")
+```
+
+Working on uD6DD
+
+```{r, results="asis"}
+l("\uD6DD")
+```
+
+Working on uD6DE
+
+```{r, results="asis"}
+l("\uD6DE")
+```
+
+Working on uD6DF
+
+```{r, results="asis"}
+l("\uD6DF")
+```
+
+Working on uD6E0
+
+```{r, results="asis"}
+l("\uD6E0")
+```
+
+Working on uD6E1
+
+```{r, results="asis"}
+l("\uD6E1")
+```
+
+Working on uD6E2
+
+```{r, results="asis"}
+l("\uD6E2")
+```
+
+Working on uD6E3
+
+```{r, results="asis"}
+l("\uD6E3")
+```
+
+Working on uD6E4
+
+```{r, results="asis"}
+l("\uD6E4")
+```
+
+Working on uD6E5
+
+```{r, results="asis"}
+l("\uD6E5")
+```
+
+Working on uD6E6
+
+```{r, results="asis"}
+l("\uD6E6")
+```
+
+Working on uD6E7
+
+```{r, results="asis"}
+l("\uD6E7")
+```
+
+Working on uD6E8
+
+```{r, results="asis"}
+l("\uD6E8")
+```
+
+Working on uD6E9
+
+```{r, results="asis"}
+l("\uD6E9")
+```
+
+Working on uD6EA
+
+```{r, results="asis"}
+l("\uD6EA")
+```
+
+Working on uD6EB
+
+```{r, results="asis"}
+l("\uD6EB")
+```
+
+Working on uD6EC
+
+```{r, results="asis"}
+l("\uD6EC")
+```
+
+Working on uD6EF
+
+```{r, results="asis"}
+l("\uD6EF")
+```
+
+Working on uD6F1
+
+```{r, results="asis"}
+l("\uD6F1")
+```
+
+Working on uD6F2
+
+```{r, results="asis"}
+l("\uD6F2")
+```
+
+Working on uD6F3
+
+```{r, results="asis"}
+l("\uD6F3")
+```
+
+Working on uD6F4
+
+```{r, results="asis"}
+l("\uD6F4")
+```
+
+Working on uD6F5
+
+```{r, results="asis"}
+l("\uD6F5")
+```
+
+Working on uD6F6
+
+```{r, results="asis"}
+l("\uD6F6")
+```
+
+Working on uD6F7
+
+```{r, results="asis"}
+l("\uD6F7")
+```
+
+Working on uD6F8
+
+```{r, results="asis"}
+l("\uD6F8")
+```
+
+Working on uD6F9
+
+```{r, results="asis"}
+l("\uD6F9")
+```
+
+Working on uD6FA
+
+```{r, results="asis"}
+l("\uD6FA")
+```
+
+Working on uD6FB
+
+```{r, results="asis"}
+l("\uD6FB")
+```
+
+Working on uD6FC
+
+```{r, results="asis"}
+l("\uD6FC")
+```
+
+Working on uD6FD
+
+```{r, results="asis"}
+l("\uD6FD")
+```
+
+Working on uD6FE
+
+```{r, results="asis"}
+l("\uD6FE")
+```
+
+Working on uD6FF
+
+```{r, results="asis"}
+l("\uD6FF")
+```
+
+Working on uD700
+
+```{r, results="asis"}
+l("\uD700")
+```
+
+Working on uD701
+
+```{r, results="asis"}
+l("\uD701")
+```
+
+Working on uD702
+
+```{r, results="asis"}
+l("\uD702")
+```
+
+Working on uD703
+
+```{r, results="asis"}
+l("\uD703")
+```
+
+Working on uD704
+
+```{r, results="asis"}
+l("\uD704")
+```
+
+Working on uD705
+
+```{r, results="asis"}
+l("\uD705")
+```
+
+Working on uD706
+
+```{r, results="asis"}
+l("\uD706")
+```
+
+Working on uD709
+
+```{r, results="asis"}
+l("\uD709")
+```
+
+Working on uD70B
+
+```{r, results="asis"}
+l("\uD70B")
+```
+
+Working on uD70C
+
+```{r, results="asis"}
+l("\uD70C")
+```
+
+Working on uD70D
+
+```{r, results="asis"}
+l("\uD70D")
+```
+
+Working on uD70E
+
+```{r, results="asis"}
+l("\uD70E")
+```
+
+Working on uD70F
+
+```{r, results="asis"}
+l("\uD70F")
+```
+
+Working on uD710
+
+```{r, results="asis"}
+l("\uD710")
+```
+
+Working on uD711
+
+```{r, results="asis"}
+l("\uD711")
+```
+
+Working on uD712
+
+```{r, results="asis"}
+l("\uD712")
+```
+
+Working on uD713
+
+```{r, results="asis"}
+l("\uD713")
+```
+
+Working on uD714
+
+```{r, results="asis"}
+l("\uD714")
+```
+
+Working on uD715
+
+```{r, results="asis"}
+l("\uD715")
+```
+
+Working on uD716
+
+```{r, results="asis"}
+l("\uD716")
+```
+
+Working on uD717
+
+```{r, results="asis"}
+l("\uD717")
+```
+
+Working on uD718
+
+```{r, results="asis"}
+l("\uD718")
+```
+
+Working on uD719
+
+```{r, results="asis"}
+l("\uD719")
+```
+
+Working on uD71A
+
+```{r, results="asis"}
+l("\uD71A")
+```
+
+Working on uD71B
+
+```{r, results="asis"}
+l("\uD71B")
+```
+
+Working on uD71C
+
+```{r, results="asis"}
+l("\uD71C")
+```
+
+Working on uD71D
+
+```{r, results="asis"}
+l("\uD71D")
+```
+
+Working on uD71E
+
+```{r, results="asis"}
+l("\uD71E")
+```
+
+Working on uD71F
+
+```{r, results="asis"}
+l("\uD71F")
+```
+
+Working on uD720
+
+```{r, results="asis"}
+l("\uD720")
+```
+
+Working on uD721
+
+```{r, results="asis"}
+l("\uD721")
+```
+
+Working on uD722
+
+```{r, results="asis"}
+l("\uD722")
+```
+
+Working on uD723
+
+```{r, results="asis"}
+l("\uD723")
+```
+
+Working on uD724
+
+```{r, results="asis"}
+l("\uD724")
+```
+
+Working on uD725
+
+```{r, results="asis"}
+l("\uD725")
+```
+
+Working on uD726
+
+```{r, results="asis"}
+l("\uD726")
+```
+
+Working on uD729
+
+```{r, results="asis"}
+l("\uD729")
+```
+
+Working on uD72B
+
+```{r, results="asis"}
+l("\uD72B")
+```
+
+Working on uD72C
+
+```{r, results="asis"}
+l("\uD72C")
+```
+
+Working on uD72D
+
+```{r, results="asis"}
+l("\uD72D")
+```
+
+Working on uD72E
+
+```{r, results="asis"}
+l("\uD72E")
+```
+
+Working on uD72F
+
+```{r, results="asis"}
+l("\uD72F")
+```
+
+Working on uD730
+
+```{r, results="asis"}
+l("\uD730")
+```
+
+Working on uD731
+
+```{r, results="asis"}
+l("\uD731")
+```
+
+Working on uD732
+
+```{r, results="asis"}
+l("\uD732")
+```
+
+Working on uD733
+
+```{r, results="asis"}
+l("\uD733")
+```
+
+Working on uD734
+
+```{r, results="asis"}
+l("\uD734")
+```
+
+Working on uD735
+
+```{r, results="asis"}
+l("\uD735")
+```
+
+Working on uD736
+
+```{r, results="asis"}
+l("\uD736")
+```
+
+Working on uD737
+
+```{r, results="asis"}
+l("\uD737")
+```
+
+Working on uD738
+
+```{r, results="asis"}
+l("\uD738")
+```
+
+Working on uD739
+
+```{r, results="asis"}
+l("\uD739")
+```
+
+Working on uD73A
+
+```{r, results="asis"}
+l("\uD73A")
+```
+
+Working on uD73B
+
+```{r, results="asis"}
+l("\uD73B")
+```
+
+Working on uD73C
+
+```{r, results="asis"}
+l("\uD73C")
+```
+
+Working on uD73D
+
+```{r, results="asis"}
+l("\uD73D")
+```
+
+Working on uD73E
+
+```{r, results="asis"}
+l("\uD73E")
+```
+
+Working on uD73F
+
+```{r, results="asis"}
+l("\uD73F")
+```
+
+Working on uD740
+
+```{r, results="asis"}
+l("\uD740")
+```
+
+Working on uD743
+
+```{r, results="asis"}
+l("\uD743")
+```
+
+Working on uD745
+
+```{r, results="asis"}
+l("\uD745")
+```
+
+Working on uD746
+
+```{r, results="asis"}
+l("\uD746")
+```
+
+Working on uD747
+
+```{r, results="asis"}
+l("\uD747")
+```
+
+Working on uD748
+
+```{r, results="asis"}
+l("\uD748")
+```
+
+Working on uD749
+
+```{r, results="asis"}
+l("\uD749")
+```
+
+Working on uD74A
+
+```{r, results="asis"}
+l("\uD74A")
+```
+
+Working on uD74B
+
+```{r, results="asis"}
+l("\uD74B")
+```
+
+Working on uD74C
+
+```{r, results="asis"}
+l("\uD74C")
+```
+
+Working on uD74D
+
+```{r, results="asis"}
+l("\uD74D")
+```
+
+Working on uD74E
+
+```{r, results="asis"}
+l("\uD74E")
+```
+
+Working on uD74F
+
+```{r, results="asis"}
+l("\uD74F")
+```
+
+Working on uD750
+
+```{r, results="asis"}
+l("\uD750")
+```
+
+Working on uD751
+
+```{r, results="asis"}
+l("\uD751")
+```
+
+Working on uD752
+
+```{r, results="asis"}
+l("\uD752")
+```
+
+Working on uD753
+
+```{r, results="asis"}
+l("\uD753")
+```
+
+Working on uD754
+
+```{r, results="asis"}
+l("\uD754")
+```
+
+Working on uD755
+
+```{r, results="asis"}
+l("\uD755")
+```
+
+Working on uD756
+
+```{r, results="asis"}
+l("\uD756")
+```
+
+Working on uD757
+
+```{r, results="asis"}
+l("\uD757")
+```
+
+Working on uD758
+
+```{r, results="asis"}
+l("\uD758")
+```
+
+Working on uD759
+
+```{r, results="asis"}
+l("\uD759")
+```
+
+Working on uD75A
+
+```{r, results="asis"}
+l("\uD75A")
+```
+
+Working on uD75B
+
+```{r, results="asis"}
+l("\uD75B")
+```
+
+Working on uD75C
+
+```{r, results="asis"}
+l("\uD75C")
+```
+
+Working on uD75D
+
+```{r, results="asis"}
+l("\uD75D")
+```
+
+Working on uD75E
+
+```{r, results="asis"}
+l("\uD75E")
+```
+
+Working on uD75F
+
+```{r, results="asis"}
+l("\uD75F")
+```
+
+Working on uD760
+
+```{r, results="asis"}
+l("\uD760")
+```
+
+Working on uD763
+
+```{r, results="asis"}
+l("\uD763")
+```
+
+Working on uD765
+
+```{r, results="asis"}
+l("\uD765")
+```
+
+Working on uD766
+
+```{r, results="asis"}
+l("\uD766")
+```
+
+Working on uD767
+
+```{r, results="asis"}
+l("\uD767")
+```
+
+Working on uD768
+
+```{r, results="asis"}
+l("\uD768")
+```
+
+Working on uD769
+
+```{r, results="asis"}
+l("\uD769")
+```
+
+Working on uD76A
+
+```{r, results="asis"}
+l("\uD76A")
+```
+
+Working on uD76B
+
+```{r, results="asis"}
+l("\uD76B")
+```
+
+Working on uD76C
+
+```{r, results="asis"}
+l("\uD76C")
+```
+
+Working on uD76D
+
+```{r, results="asis"}
+l("\uD76D")
+```
+
+Working on uD76E
+
+```{r, results="asis"}
+l("\uD76E")
+```
+
+Working on uD76F
+
+```{r, results="asis"}
+l("\uD76F")
+```
+
+Working on uD770
+
+```{r, results="asis"}
+l("\uD770")
+```
+
+Working on uD771
+
+```{r, results="asis"}
+l("\uD771")
+```
+
+Working on uD772
+
+```{r, results="asis"}
+l("\uD772")
+```
+
+Working on uD773
+
+```{r, results="asis"}
+l("\uD773")
+```
+
+Working on uD774
+
+```{r, results="asis"}
+l("\uD774")
+```
+
+Working on uD775
+
+```{r, results="asis"}
+l("\uD775")
+```
+
+Working on uD776
+
+```{r, results="asis"}
+l("\uD776")
+```
+
+Working on uD777
+
+```{r, results="asis"}
+l("\uD777")
+```
+
+Working on uD778
+
+```{r, results="asis"}
+l("\uD778")
+```
+
+Working on uD779
+
+```{r, results="asis"}
+l("\uD779")
+```
+
+Working on uD77A
+
+```{r, results="asis"}
+l("\uD77A")
+```
+
+Working on uD77D
+
+```{r, results="asis"}
+l("\uD77D")
+```
+
+Working on uD77F
+
+```{r, results="asis"}
+l("\uD77F")
+```
+
+Working on uD780
+
+```{r, results="asis"}
+l("\uD780")
+```
+
+Working on uD781
+
+```{r, results="asis"}
+l("\uD781")
+```
+
+Working on uD782
+
+```{r, results="asis"}
+l("\uD782")
+```
+
+Working on uD783
+
+```{r, results="asis"}
+l("\uD783")
+```
+
+Working on uD784
+
+```{r, results="asis"}
+l("\uD784")
+```
+
+Working on uD785
+
+```{r, results="asis"}
+l("\uD785")
+```
+
+Working on uD786
+
+```{r, results="asis"}
+l("\uD786")
+```
+
+Working on uD787
+
+```{r, results="asis"}
+l("\uD787")
+```
+
+Working on uD788
+
+```{r, results="asis"}
+l("\uD788")
+```
+
+Working on uD789
+
+```{r, results="asis"}
+l("\uD789")
+```
+
+Working on uD78A
+
+```{r, results="asis"}
+l("\uD78A")
+```
+
+Working on uD78B
+
+```{r, results="asis"}
+l("\uD78B")
+```
+
+Working on uD78C
+
+```{r, results="asis"}
+l("\uD78C")
+```
+
+Working on uD78D
+
+```{r, results="asis"}
+l("\uD78D")
+```
+
+Working on uD78E
+
+```{r, results="asis"}
+l("\uD78E")
+```
+
+Working on uD78F
+
+```{r, results="asis"}
+l("\uD78F")
+```
+
+Working on uD790
+
+```{r, results="asis"}
+l("\uD790")
+```
+
+Working on uD791
+
+```{r, results="asis"}
+l("\uD791")
+```
+
+Working on uD792
+
+```{r, results="asis"}
+l("\uD792")
+```
+
+Working on uD793
+
+```{r, results="asis"}
+l("\uD793")
+```
+
+Working on uD794
+
+```{r, results="asis"}
+l("\uD794")
+```
+
+Working on uD795
+
+```{r, results="asis"}
+l("\uD795")
+```
+
+Working on uD796
+
+```{r, results="asis"}
+l("\uD796")
+```
+
+Working on uD797
+
+```{r, results="asis"}
+l("\uD797")
+```
+
+Working on uD798
+
+```{r, results="asis"}
+l("\uD798")
+```
+
+Working on uD799
+
+```{r, results="asis"}
+l("\uD799")
+```
+
+Working on uD79A
+
+```{r, results="asis"}
+l("\uD79A")
+```
+
+Working on uD79D
+
+```{r, results="asis"}
+l("\uD79D")
+```
+
+Working on uD79F
+
+```{r, results="asis"}
+l("\uD79F")
+```
+
+Working on uD7A0
+
+```{r, results="asis"}
+l("\uD7A0")
+```
+
+Working on uD7A1
+
+```{r, results="asis"}
+l("\uD7A1")
+```
+
+Working on uD7A2
+
+```{r, results="asis"}
+l("\uD7A2")
+```
+
+Working on uD7A3
+
+```{r, results="asis"}
+l("\uD7A3")
+```
+
+Working on uD7A4
+
+```{r, results="asis"}
+l("\uD7A4")
+```
+
+Working on uD7A5
+
+```{r, results="asis"}
+l("\uD7A5")
+```
+
+Working on uD7A6
+
+```{r, results="asis"}
+l("\uD7A6")
+```
+
+Working on uD7A7
+
+```{r, results="asis"}
+l("\uD7A7")
+```
+
+Working on uD7A8
+
+```{r, results="asis"}
+l("\uD7A8")
+```
+
+Working on uD7A9
+
+```{r, results="asis"}
+l("\uD7A9")
+```
+
+Working on uD7AA
+
+```{r, results="asis"}
+l("\uD7AA")
+```
+
+Working on uD7AB
+
+```{r, results="asis"}
+l("\uD7AB")
+```
+
+Working on uD7AC
+
+```{r, results="asis"}
+l("\uD7AC")
+```
+
+Working on uD7AD
+
+```{r, results="asis"}
+l("\uD7AD")
+```
+
+Working on uD7AE
+
+```{r, results="asis"}
+l("\uD7AE")
+```
+
+Working on uD7AF
+
+```{r, results="asis"}
+l("\uD7AF")
+```
+
+Working on uD7B0
+
+```{r, results="asis"}
+l("\uD7B0")
+```
+
+Working on uD7B1
+
+```{r, results="asis"}
+l("\uD7B1")
+```
+
+Working on uD7B2
+
+```{r, results="asis"}
+l("\uD7B2")
+```
+
+Working on uD7B3
+
+```{r, results="asis"}
+l("\uD7B3")
+```
+
+Working on uD7B4
+
+```{r, results="asis"}
+l("\uD7B4")
+```
+
+Working on uD7B7
+
+```{r, results="asis"}
+l("\uD7B7")
+```
+
+Working on uD7B9
+
+```{r, results="asis"}
+l("\uD7B9")
+```
+
+Working on uD7BA
+
+```{r, results="asis"}
+l("\uD7BA")
+```
+
+Working on uD7BB
+
+```{r, results="asis"}
+l("\uD7BB")
+```
+
+Working on uD7BC
+
+```{r, results="asis"}
+l("\uD7BC")
+```
+
+Working on uD7BD
+
+```{r, results="asis"}
+l("\uD7BD")
+```
+
+Working on uD7BE
+
+```{r, results="asis"}
+l("\uD7BE")
+```
+
+Working on uD7BF
+
+```{r, results="asis"}
+l("\uD7BF")
+```
+
+Working on uD7C0
+
+```{r, results="asis"}
+l("\uD7C0")
+```
+
+Working on uD7C1
+
+```{r, results="asis"}
+l("\uD7C1")
+```
+
+Working on uD7C2
+
+```{r, results="asis"}
+l("\uD7C2")
+```
+
+Working on uD7C3
+
+```{r, results="asis"}
+l("\uD7C3")
+```
+
+Working on uD7C4
+
+```{r, results="asis"}
+l("\uD7C4")
+```
+
+Working on uD7C5
+
+```{r, results="asis"}
+l("\uD7C5")
+```
+
+Working on uD7C6
+
+```{r, results="asis"}
+l("\uD7C6")
+```
+
+Working on uD7C7
+
+```{r, results="asis"}
+l("\uD7C7")
+```
+
+Working on uD7C8
+
+```{r, results="asis"}
+l("\uD7C8")
+```
+
+Working on uD7C9
+
+```{r, results="asis"}
+l("\uD7C9")
+```
+
+Working on uD7CE
+
+```{r, results="asis"}
+l("\uD7CE")
+```
+
+Working on uD7CF
+
+```{r, results="asis"}
+l("\uD7CF")
+```
+
+Working on uD7D0
+
+```{r, results="asis"}
+l("\uD7D0")
+```
+
+Working on uD7D1
+
+```{r, results="asis"}
+l("\uD7D1")
+```
+
+Working on uD7D2
+
+```{r, results="asis"}
+l("\uD7D2")
+```
+
+Working on uD7D3
+
+```{r, results="asis"}
+l("\uD7D3")
+```
+
+Working on uD7D4
+
+```{r, results="asis"}
+l("\uD7D4")
+```
+
+Working on uD7D5
+
+```{r, results="asis"}
+l("\uD7D5")
+```
+
+Working on uD7D6
+
+```{r, results="asis"}
+l("\uD7D6")
+```
+
+Working on uD7D7
+
+```{r, results="asis"}
+l("\uD7D7")
+```
+
+Working on uD7D8
+
+```{r, results="asis"}
+l("\uD7D8")
+```
+
+Working on uD7D9
+
+```{r, results="asis"}
+l("\uD7D9")
+```
+
+Working on uD7DA
+
+```{r, results="asis"}
+l("\uD7DA")
+```
+
+Working on uD7DB
+
+```{r, results="asis"}
+l("\uD7DB")
+```
+
+Working on uD7DC
+
+```{r, results="asis"}
+l("\uD7DC")
+```
+
+Working on uD7DD
+
+```{r, results="asis"}
+l("\uD7DD")
+```
+
+Working on uD7DE
+
+```{r, results="asis"}
+l("\uD7DE")
+```
+
+Working on uD7DF
+
+```{r, results="asis"}
+l("\uD7DF")
+```
+
+Working on uD7E0
+
+```{r, results="asis"}
+l("\uD7E0")
+```
+
+Working on uD7E1
+
+```{r, results="asis"}
+l("\uD7E1")
+```
+
+Working on uD7E2
+
+```{r, results="asis"}
+l("\uD7E2")
+```
+
+Working on uD7E3
+
+```{r, results="asis"}
+l("\uD7E3")
+```
+
+Working on uD7E4
+
+```{r, results="asis"}
+l("\uD7E4")
+```
+
+Working on uD7E5
+
+```{r, results="asis"}
+l("\uD7E5")
+```
+
+Working on uD7E6
+
+```{r, results="asis"}
+l("\uD7E6")
+```
+
+Working on uD7E7
+
+```{r, results="asis"}
+l("\uD7E7")
+```
+
+Working on uD7E8
+
+```{r, results="asis"}
+l("\uD7E8")
+```
+
+Working on uD7E9
+
+```{r, results="asis"}
+l("\uD7E9")
+```
+
+Working on uD7EA
+
+```{r, results="asis"}
+l("\uD7EA")
+```
+
+Working on uD7EB
+
+```{r, results="asis"}
+l("\uD7EB")
+```
+
+Working on uD7EC
+
+```{r, results="asis"}
+l("\uD7EC")
+```
+
+Working on uD7ED
+
+```{r, results="asis"}
+l("\uD7ED")
+```
+
+Working on uD7EE
+
+```{r, results="asis"}
+l("\uD7EE")
+```
+
+Working on uD7EF
+
+```{r, results="asis"}
+l("\uD7EF")
+```
+
+Working on uD7F0
+
+```{r, results="asis"}
+l("\uD7F0")
+```
+
+Working on uD7F1
+
+```{r, results="asis"}
+l("\uD7F1")
+```
+
+Working on uD7F2
+
+```{r, results="asis"}
+l("\uD7F2")
+```
+
+Working on uD7F3
+
+```{r, results="asis"}
+l("\uD7F3")
+```
+
+Working on uD7F4
+
+```{r, results="asis"}
+l("\uD7F4")
+```
+
+Working on uD7F5
+
+```{r, results="asis"}
+l("\uD7F5")
+```
+
+Working on uD7F6
+
+```{r, results="asis"}
+l("\uD7F6")
+```
+
+Working on uD7F7
+
+```{r, results="asis"}
+l("\uD7F7")
+```
+
+Working on uD7F8
+
+```{r, results="asis"}
+l("\uD7F8")
+```
+
+Working on uD7F9
+
+```{r, results="asis"}
+l("\uD7F9")
+```
+
+Working on uD7FA
+
+```{r, results="asis"}
+l("\uD7FA")
+```
+
+Working on uD7FB
+
+```{r, results="asis"}
+l("\uD7FB")
+```
+
+Working on uD7FC
+
+```{r, results="asis"}
+l("\uD7FC")
+```
+
+Working on uD7FD
+
+```{r, results="asis"}
+l("\uD7FD")
+```
+
+Working on uD7FE
+
+```{r, results="asis"}
+l("\uD7FE")
+```
+
+Working on uD7FF
+
+```{r, results="asis"}
+l("\uD7FF")
+```
+
+Working on uFB00
+
+```{r, results="asis"}
+l("\uFB00")
+```
+
+Working on uFB01
+
+```{r, results="asis"}
+l("\uFB01")
+```
+
+Working on uFB02
+
+```{r, results="asis"}
+l("\uFB02")
+```
+
+Working on uFB03
+
+```{r, results="asis"}
+l("\uFB03")
+```
+
+Working on uFB04
+
+```{r, results="asis"}
+l("\uFB04")
+```
+
+Working on uFB05
+
+```{r, results="asis"}
+l("\uFB05")
+```
+
+Working on u017f
+
+```{r, results="asis"}
+l("\u017f")
+```
+
+Working on uFB06
+
+```{r, results="asis"}
+l("\uFB06")
+```
+
+Working on u00A0
+
+```{r, results="asis"}
+l("\u00A0")
+```
+

@@ -11,6 +11,7 @@ header-includes:
 - \usepackage{textcomp}
 - \usepackage{tipx}
 - \usepackage{ipa}
+- \usepackage{slashed}
 ---
 
 ```{r setup, include=FALSE}
@@ -185,10 +186,318 @@ Working on u021F
 l('\u021F')
 ```
 
+Working on u0220
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u0220') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u0221
+
+```{r, results='asis'}
+l('\u0221')
+```
+
+Working on u0222
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u0222') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u0223
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u0223') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u0224
+
+```{r, results='asis'}
+l('\u0224')
+```
+
+Working on u0225
+
+```{r, results='asis'}
+l('\u0225')
+```
+
+Working on u0226
+
+```{r, results='asis'}
+l('\u0226')
+```
+
+Working on u0227
+
+```{r, results='asis'}
+l('\u0227')
+```
+
+Working on u0228
+
+```{r, results='asis'}
+l('\u0228')
+```
+
+Working on u0229
+
+```{r, results='asis'}
+l('\u0229')
+```
+
+Working on u022A
+
+```{r, results='asis'}
+l('\u022A')
+```
+
+Working on u022B
+
+```{r, results='asis'}
+l('\u022B')
+```
+
+Working on u022C
+
+```{r, results='asis'}
+l('\u022C')
+```
+
+Working on u022D
+
+```{r, results='asis'}
+l('\u022D')
+```
+
+Working on u022E
+
+```{r, results='asis'}
+l('\u022E')
+```
+
+Working on u022F
+
+```{r, results='asis'}
+l('\u022F')
+```
+
+Working on u0230
+
+```{r, results='asis'}
+l('\u0230')
+```
+
+Working on u0231
+
+```{r, results='asis'}
+l('\u0231')
+```
+
+Working on u0232
+
+```{r, results='asis'}
+l('\u0232')
+```
+
+Working on u0233
+
+```{r, results='asis'}
+l('\u0233')
+```
+
+Working on u0234
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u0234') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u0235
+
+```{r, results='asis'}
+l('\u0235')
+```
+
+Working on u0236
+
+```{r, results='asis'}
+l('\u0236')
+```
+
+Working on u0237
+
+```{r, results='asis'}
+l('\u0237')
+```
+
+Working on u0238
+
+```{r, results='asis'}
+l('\u0238')
+```
+
+Working on u0239
+
+```{r, results='asis'}
+l('\u0239')
+```
+
+Working on u023A
+
+```{r, results='asis'}
+l('\u023A')
+```
+
+Working on u023B
+
+```{r, results='asis'}
+l('\u023B')
+```
+
+Working on u023C
+
+```{r, results='asis'}
+l('\u023C')
+```
+
+Working on u023D
+
+```{r, results='asis'}
+l('\u023D')
+```
+
+Working on u023E
+
+```{r, results='asis'}
+l('\u023E')
+```
+
+Working on u023F
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u023F') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u0240
+
+```{r, results='asis'}
+l('\u0240')
+```
+
+Working on u0241
+
+```{r, results='asis'}
+l('\u0241')
+```
+
+Working on u0242
+
+```{r, results='asis'}
+l('\u0242')
+```
+
+Working on u0243
+
+```{r, results='asis'}
+l('\u0243')
+```
+
+Working on u0244
+
+```{r, results='asis'}
+l('\u0244')
+```
+
+Working on u0245
+
+```{r, results='asis'}
+l('\u0245')
+```
+
+Working on u0246
+
+```{r, results='asis'}
+l('\u0246')
+```
+
+Working on u0247
+
+```{r, results='asis'}
+l('\u0247')
+```
+
+Working on u0248
+
+```{r, results='asis'}
+l('\u0248')
+```
+
+Working on u0249
+
+```{r, results='asis'}
+l('\u0249')
+```
+
+Working on u024A
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u024A') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u024B
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u024B') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u024C
+
+```{r, results='asis'}
+l('\u024C')
+```
+
+Working on u024D
+
+```{r, results='asis'}
+l('\u024D')
+```
+
+Working on u024E
+
+```{r, results='asis'}
+l('\u024E')
+```
+
+Working on u024F
+
+```{r, results='asis'}
+l('\u024F')
+```
+
 Working on u0250
 
 ```{r, results="asis"}
 l("\u0250")
+```
+
+Working on u0251
+
+```{r, results="asis"}
+l("\u0251")
 ```
 
 Working on u0252
@@ -197,16 +506,34 @@ Working on u0252
 l("\u0252")
 ```
 
+Working on u0253
+
+```{r, results="asis"}
+l("\u0253")
+```
+
 Working on u0254
 
 ```{r, results="asis"}
 l("\u0254")
 ```
 
+Working on u0255
+
+```{r, results="asis"}
+l("\u0255")
+```
+
 Working on u0256
 
 ```{r, results="asis"}
 l("\u0256")
+```
+
+Working on u0257
+
+```{r, results="asis"}
+l("\u0257")
 ```
 
 Working on u0258
@@ -221,10 +548,58 @@ Working on u0259
 l("\u0259")
 ```
 
+Working on u025A
+
+```{r, results='asis'}
+l('\u025A')
+```
+
 Working on u025B
 
-```{r, results="asis"}
-l("\u025B")
+```{r, results='asis'}
+l('\u025B')
+```
+
+Working on u025C
+
+```{r, results='asis'}
+l('\u025C')
+```
+
+Working on u025D
+
+```{r, results='asis'}
+l('\u025D')
+```
+
+Working on u025E
+
+```{r, results='asis'}
+l('\u025E')
+```
+
+Working on u025F
+
+```{r, results='asis'}
+l('\u025F')
+```
+
+Working on u0260
+
+```{r, results='asis'}
+l('\u0260')
+```
+
+Working on u0261
+
+```{r, results='asis'}
+l('\u0261')
+```
+
+Working on u0262
+
+```{r, results='asis'}
+l('\u0262')
 ```
 
 
@@ -246,6 +621,42 @@ Working on u0265
 l("\u0265")
 ```
 
+Working on u0266
+
+```{r, results='asis'}
+l('\u0266')
+```
+
+Working on u0267
+
+```{r, results='asis'}
+l('\u0267')
+```
+
+Working on u0268
+
+```{r, results='asis'}
+l('\u0268')
+```
+
+Working on u0269
+
+```{r, results='asis'}
+l('\u0269')
+```
+
+Working on u026A
+
+```{r, results='asis'}
+l('\u026A')
+```
+
+Working on u026B
+
+```{r, results='asis'}
+l('\u026B')
+```
+
 Working on u026C
 
 ```{r, results="asis"}
@@ -263,7 +674,6 @@ Working on u026F
 ```{r, results="asis"}
 l("\u026F")
 ```
-
 
 Working on u0270
 
@@ -288,6 +698,25 @@ Working on u0273
 ```{r, results="asis"}
 l("\u0273")
 ```
+
+Working on u0274
+
+```{r, results="asis"}
+l("\u0274")
+```
+
+Working on u0275
+
+```{r, results="asis"}
+l("\u0275")
+```
+
+Working on u0276
+
+```{r, results="asis"}
+l("\u0276")
+```
+
 
 Working on u0277
 
@@ -343,59 +772,100 @@ Working on u027F
 l("\u027F")
 ```
 
+Working on u0280
+
+```{r, results='asis'}
+l('\u0280')
+```
+
+Working on u0281
+
+```{r, results='asis'}
+l('\u0281')
+```
 
 Working on u0282
 
-```{r, results="asis"}
-l("\u0282")
+```{r, results='asis'}
+l('\u0282')
 ```
 
 Working on u0283
 
-```{r, results="asis"}
-l("\u0283")
+```{r, results='asis'}
+l('\u0283')
+```
+
+Working on u0284
+
+```{r, results='asis'}
+l('\u0284')
+```
+
+Working on u0285
+
+```{r, results='asis'}
+l('\u0285')
+```
+
+Working on u0286
+
+```{r, results='asis'}
+l('\u0286')
 ```
 
 Working on u0287
 
-```{r, results="asis"}
-l("\u0287")
+```{r, results='asis'}
+l('\u0287')
 ```
 
 Working on u0288
 
-```{r, results="asis"}
-l("\u0288")
+```{r, results='asis'}
+l('\u0288')
+```
+
+Working on u0289
+
+```{r, results='asis'}
+l('\u0289')
 ```
 
 Working on u028A
 
-```{r, results="asis"}
-l("\u028A")
+```{r, results='asis'}
+l('\u028A')
 ```
 
 Working on u028B
 
-```{r, results="asis"}
-l("\u028B")
+```{r, results='asis'}
+l('\u028B')
 ```
 
 Working on u028C
 
-```{r, results="asis"}
-l("\u028C")
+```{r, results='asis'}
+l('\u028C')
 ```
 
 Working on u028D
 
-```{r, results="asis"}
-l("\u028D")
+```{r, results='asis'}
+l('\u028D')
 ```
 
 Working on u028E
 
-```{r, results="asis"}
-l("\u028E")
+```{r, results='asis'}
+l('\u028E')
+```
+
+Working on u028F
+
+```{r, results='asis'}
+l('\u028F')
 ```
 
 Working on u0290
@@ -458,33 +928,138 @@ Working on u0299
 l("\u0299")
 ```
 
-Working on u029a
+Working on u029A
 
 ```{r, results="asis"}
 l("\u029a")
 ```
 
-Working on u029b
+Working on u029B
 
 ```{r, results="asis"}
 l("\u029b")
 ```
 
-Working on u029c
+Working on u029C
 
 ```{r, results="asis"}
 l("\u029c")
 ```
 
-Working on u029d
+Working on u029D
 
 ```{r, results="asis"}
 l("\u029d")
 ```
 
-
 Working on u029E
 
 ```{r, results="asis"}
 l("\u029E")
+```
+
+Working on u029F
+
+```{r, results="asis"}
+l("\u029F")
+```
+
+Working on u02A0
+
+```{r, results='asis'}
+l('\u02A0')
+```
+
+Working on u02A1
+
+```{r, results='asis'}
+l('\u02A1')
+```
+
+Working on u02A2
+
+```{r, results='asis'}
+l('\u02A2')
+```
+
+Working on u02A3
+
+```{r, results='asis'}
+l('\u02A3')
+```
+
+Working on u02A4
+
+```{r, results='asis'}
+l('\u02A4')
+```
+
+Working on u02A5
+
+```{r, results='asis'}
+l('\u02A5')
+```
+
+Working on u02A6
+
+```{r, results='asis'}
+l('\u02A6')
+```
+
+Working on u02A7
+
+```{r, results='asis'}
+l('\u02A7')
+```
+
+Working on u02A8
+
+```{r, results='asis'}
+l('\u02A8')
+```
+
+Working on u02A9
+
+```{r, results='asis'}
+l('\u02A9')
+```
+
+Working on u02AA
+
+```{r, results='asis'}
+l('\u02AA')
+```
+
+Working on u02AB
+
+```{r, results='asis'}
+l('\u02AB')
+```
+
+Working on u02AC
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u02AC') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u02AD
+
+<!-- ```{r, results='asis'} -->
+<!-- l('\u02AD') -->
+<!-- ``` -->
+
+*UNSUPPORTED*
+
+Working on u02AE
+
+```{r, results='asis'}
+l('\u02AE')
+```
+
+Working on u02AF
+
+```{r, results='asis'}
+l('\u02AF')
 ```

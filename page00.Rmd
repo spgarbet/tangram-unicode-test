@@ -117,6 +117,12 @@ Working on u007c
 l("|")
 ```
 
+Working on u007d
+
+```{r, results="asis"}
+l("}")
+```
+
 Working on u007e
 
 ```{r, results="asis"}

@@ -13,7 +13,6 @@ header-includes:
 - \usepackage{textcomp}
 - \usepackage{tipx}
 - \usepackage{ipa}
-- \usepackage{combelow}
 ---
 
 ```{r setup, include=FALSE}

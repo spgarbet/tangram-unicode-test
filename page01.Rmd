@@ -1,0 +1,1458 @@
+---
+title: "LaTeX Raw Page 01"
+author: "Shawn Garbett"
+date: "July 13, 2018"
+output:
+  pdf_document:
+    keep_tex: yes
+header-includes:
+- \usepackage[LGR,T1,T4]{fontenc}
+- \usepackage[utf8]{inputenc}
+- \usepackage{textgreek}
+- \usepackage{amsmath,mathtools}
+- \usepackage{textcomp}
+- \usepackage{tipx}
+- \usepackage{ipa}
+- \usepackage{combelow}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tangram)
+library(stringi)
+```
+
+```{r}
+p <- function(...) { cat(paste0(...)); invisible(NULL) }
+l <- function(...) { cat(tangram:::latexify(...)); invisible(NULL) }
+```
+
+## R Markdown
+```{r, results='asis'}
+p("\\textbf{This is a test of LaTeX}")
+```
+
+Working on u0100
+
+```{r, results="asis"}
+l("\u0100")
+```
+
+Working on u0101
+
+```{r, results="asis"}
+l("\u0101")
+```
+
+
+Working on u0102
+
+```{r, results="asis"}
+l("\u0102")
+```
+
+Working on u0103
+
+```{r, results="asis"}
+l("\u0103")
+```
+
+Working on u0104
+
+```{r, results="asis"}
+l("\u0104")
+```
+
+Working on u0105
+
+```{r, results="asis"}
+l("\u0105")
+```
+
+Working on u0106
+
+```{r, results="asis"}
+l("\u0106")
+```
+
+Working on u0107
+
+```{r, results="asis"}
+l("\u0107")
+```
+
+Working on u0108
+
+```{r, results="asis"}
+l("\u0108")
+```
+
+Working on u0109
+
+```{r, results="asis"}
+l("\u0109")
+```
+
+Working on u010A
+
+```{r, results="asis"}
+l("\u010A")
+```
+
+Working on u010B
+
+```{r, results="asis"}
+l("\u010B")
+```
+
+Working on u010C
+
+```{r, results="asis"}
+l("\u010C")
+```
+
+Working on u010D
+
+```{r, results="asis"}
+l("\u010D")
+```
+
+Working on u010E
+
+```{r, results="asis"}
+l("\u010E")
+```
+
+Working on u010F
+
+```{r, results="asis"}
+l("\u010F")
+```
+
+
+Working on u0110
+
+```{r, results="asis"}
+l("\u0110")
+```
+
+Working on u0111
+
+```{r, results="asis"}
+l("\u0111")
+```
+
+Working on u0112
+
+```{r, results="asis"}
+l("\u0112")
+```
+
+Working on u0113
+
+```{r, results="asis"}
+l("\u0113")
+```
+
+Working on u0114
+
+```{r, results="asis"}
+l("\u0114")
+```
+
+Working on u0115
+
+```{r, results="asis"}
+l("\u0115")
+```
+
+Working on u0116
+
+```{r, results="asis"}
+l("\u0116")
+```
+
+Working on u0117
+
+```{r, results="asis"}
+l("\u0117")
+```
+
+Working on u0118
+
+```{r, results="asis"}
+l("\u0118")
+```
+
+Working on u0119
+
+```{r, results="asis"}
+l("\u0119")
+```
+
+Working on u011A
+
+```{r, results="asis"}
+l("\u011A")
+```
+
+Working on u011B
+
+```{r, results="asis"}
+l("\u011B")
+```
+
+Working on u011C
+
+```{r, results="asis"}
+l("\u011C")
+```
+
+Working on u011D
+
+```{r, results="asis"}
+l("\u011D")
+```
+
+Working on u011E
+
+```{r, results="asis"}
+l("\u011E")
+```
+
+Working on u011F
+
+```{r, results="asis"}
+l("\u011F")
+```
+
+
+Working on u0120
+
+```{r, results="asis"}
+l("\u0120")
+```
+
+Working on u0121
+
+```{r, results="asis"}
+l("\u0121")
+```
+
+Working on u0122
+
+```{r, results="asis"}
+l("\u0122")
+```
+
+Working on u0123
+
+```{r, results="asis"}
+l("\u0123")
+```
+
+Working on u0124
+
+```{r, results="asis"}
+l("\u0124")
+```
+
+Working on u0125
+
+```{r, results="asis"}
+l("\u0125")
+```
+
+Working on u0126
+
+```{r, results="asis"}
+l("\u0126")
+```
+
+Working on u0127
+
+```{r, results="asis"}
+l("\u0127")
+```
+
+Working on u0128
+
+```{r, results="asis"}
+l("\u0128")
+```
+
+Working on u0129
+
+```{r, results="asis"}
+l("\u0129")
+```
+
+Working on u012A
+
+```{r, results="asis"}
+l("\u012A")
+```
+
+Working on u012B
+
+```{r, results="asis"}
+l("\u012B")
+```
+
+Working on u012C
+
+```{r, results="asis"}
+l("\u012C")
+```
+
+Working on u012D
+
+```{r, results="asis"}
+l("\u012D")
+```
+
+Working on u012E
+
+```{r, results="asis"}
+l("\u012E")
+```
+
+Working on u012F
+
+```{r, results="asis"}
+l("\u012F")
+```
+
+
+Working on u0130
+
+```{r, results="asis"}
+l("\u0130")
+```
+
+Working on u0131
+
+```{r, results="asis"}
+l("\u0131")
+```
+
+Working on u0132
+
+```{r, results="asis"}
+l("\u0132")
+```
+
+Working on u0133
+
+```{r, results="asis"}
+l("\u0133")
+```
+
+Working on u0134
+
+```{r, results="asis"}
+l("\u0134")
+```
+
+Working on u0135
+
+```{r, results="asis"}
+l("\u0135")
+```
+
+Working on u0136
+
+```{r, results="asis"}
+l("\u0136")
+```
+
+Working on u0137
+
+```{r, results="asis"}
+l("\u0137")
+```
+
+Working on u0138
+
+```{r, results="asis"}
+l("\u0138")
+```
+
+
+Working on u0139
+
+```{r, results="asis"}
+l("\u0139")
+```
+
+Working on u013A
+
+```{r, results="asis"}
+l("\u013A")
+```
+
+Working on u013B
+
+```{r, results="asis"}
+l("\u013B")
+```
+
+Working on u013C
+
+```{r, results="asis"}
+l("\u013C")
+```
+
+Working on u013D
+
+```{r, results="asis"}
+l("\u013D")
+```
+
+Working on u013E
+
+```{r, results="asis"}
+l("\u013E")
+```
+
+Working on u013F
+
+```{r, results="asis"}
+l("\u013F")
+```
+
+Working on u0140
+
+```{r, results="asis"}
+l("\u0140")
+```
+
+Working on u0141
+
+```{r, results="asis"}
+l("\u0141")
+```
+
+Working on u0142
+
+```{r, results="asis"}
+l("\u0142")
+```
+
+Working on u0143
+
+```{r, results="asis"}
+l("\u0143")
+```
+
+Working on u0144
+
+```{r, results="asis"}
+l("\u0144")
+```
+
+Working on u0145
+
+```{r, results="asis"}
+l("\u0145")
+```
+
+Working on u0146
+
+```{r, results="asis"}
+l("\u0146")
+```
+
+Working on u0147
+
+```{r, results="asis"}
+l("\u0147")
+```
+
+Working on u0148
+
+```{r, results="asis"}
+l("\u0148")
+```
+
+Working on u0149
+
+```{r, results="asis"}
+l("\u0149")
+```
+
+Working on u014A
+
+```{r, results="asis"}
+l("\u014A")
+```
+
+Working on u014B
+
+```{r, results="asis"}
+l("\u014B")
+```
+
+Working on u014C
+
+```{r, results="asis"}
+l("\u014C")
+```
+
+Working on u014D
+
+```{r, results="asis"}
+l("\u014D")
+```
+
+Working on u014E
+
+```{r, results="asis"}
+l("\u014E")
+```
+
+Working on u014F
+
+```{r, results="asis"}
+l("\u014F")
+```
+
+
+Working on u0150
+
+```{r, results="asis"}
+l("\u0150")
+```
+
+Working on u0151
+
+```{r, results="asis"}
+l("\u0151")
+```
+
+Working on u0152
+
+```{r, results="asis"}
+l("\u0152")
+```
+
+Working on u0153
+
+```{r, results="asis"}
+l("\u0153")
+```
+
+Working on u0154
+
+```{r, results="asis"}
+l("\u0154")
+```
+
+Working on u0155
+
+```{r, results="asis"}
+l("\u0155")
+```
+
+Working on u0156
+
+```{r, results="asis"}
+l("\u0156")
+```
+
+Working on u0157
+
+```{r, results="asis"}
+l("\u0157")
+```
+
+Working on u0158
+
+```{r, results="asis"}
+l("\u0158")
+```
+
+Working on u0159
+
+```{r, results="asis"}
+l("\u0159")
+```
+
+Working on u015A
+
+```{r, results="asis"}
+l("\u015A")
+```
+
+Working on u015B
+
+```{r, results="asis"}
+l("\u015B")
+```
+
+Working on u015C
+
+```{r, results="asis"}
+l("\u015C")
+```
+
+Working on u015D
+
+```{r, results="asis"}
+l("\u015D")
+```
+
+Working on u015E
+
+```{r, results="asis"}
+l("\u015E")
+```
+
+Working on u015F
+
+```{r, results="asis"}
+l("\u015F")
+```
+
+
+Working on u0160
+
+```{r, results="asis"}
+l("\u0160")
+```
+
+Working on u0161
+
+```{r, results="asis"}
+l("\u0161")
+```
+
+Working on u0162
+
+```{r, results="asis"}
+l("\u0162")
+```
+
+Working on u0163
+
+```{r, results="asis"}
+l("\u0163")
+```
+
+Working on u0164
+
+```{r, results="asis"}
+l("\u0164")
+```
+
+Working on u0165
+
+```{r, results="asis"}
+l("\u0165")
+```
+
+Working on u0166
+
+```{r, results="asis"}
+l("\u0166")
+```
+
+Working on u0167
+
+
+```{r, results="asis"}
+l("\u0167")
+```
+
+Working on u0168
+
+```{r, results="asis"}
+l("\u0168")
+```
+
+Working on u0169
+
+```{r, results="asis"}
+l("\u0169")
+```
+
+Working on u016A
+
+```{r, results="asis"}
+l("\u016A")
+```
+
+Working on u016B
+
+```{r, results="asis"}
+l("\u016B")
+```
+
+Working on u016C
+
+```{r, results="asis"}
+l("\u016C")
+```
+
+Working on u016D
+
+```{r, results="asis"}
+l("\u016D")
+```
+
+Working on u016E
+
+```{r, results="asis"}
+l("\u016E")
+```
+
+Working on u016F
+
+```{r, results="asis"}
+l("\u016F")
+```
+
+Working on u0170
+
+```{r, results="asis"}
+l("\u0170")
+```
+
+Working on u0171
+
+```{r, results="asis"}
+l("\u0171")
+```
+
+Working on u0172
+
+```{r, results="asis"}
+l("\u0172")
+```
+
+Working on u0173
+
+```{r, results="asis"}
+l("\u0173")
+```
+
+Working on u0174
+
+```{r, results="asis"}
+l("\u0174")
+```
+
+Working on u0175
+
+```{r, results="asis"}
+l("\u0175")
+```
+
+Working on u0176
+
+```{r, results="asis"}
+l("\u0176")
+```
+
+Working on u0177
+
+```{r, results="asis"}
+l("\u0177")
+```
+
+Working on u0178
+
+```{r, results="asis"}
+l("\u0178")
+```
+
+Working on u0179
+
+```{r, results="asis"}
+l("\u0179")
+```
+
+Working on u017A
+
+```{r, results="asis"}
+l("\u017A")
+```
+
+Working on u017B
+
+```{r, results="asis"}
+l("\u017B")
+```
+
+Working on u017C
+
+```{r, results="asis"}
+l("\u017C")
+```
+
+Working on u017D
+
+```{r, results="asis"}
+l("\u017D")
+```
+
+Working on u017E
+
+```{r, results="asis"}
+l("\u017E")
+```
+
+Working on u017F
+
+```{r, results="asis"}
+l("\u017F")
+```
+
+
+Working on u0180
+
+```{r, results='asis'}
+l('\u0180')
+```
+
+Working on u0181
+
+```{r, results='asis'}
+l('\u0181')
+```
+
+Working on u0182
+
+```{r, results='asis'}
+l('\u0182')
+```
+
+Working on u0183
+
+```{r, results='asis'}
+l('\u0183')
+```
+
+Working on u0184
+
+```{r, results='asis'}
+l('\u0184')
+```
+
+Working on u0185
+
+```{r, results='asis'}
+l('\u0185')
+```
+
+Working on u0186
+
+```{r, results='asis'}
+l('\u0186')
+```
+
+Working on u0187
+
+```{r, results='asis'}
+l('\u0187')
+```
+
+Working on u0188
+
+```{r, results='asis'}
+l('\u0188')
+```
+
+Working on u0189
+
+```{r, results='asis'}
+l('\u0189')
+```
+
+Working on u018A
+
+```{r, results='asis'}
+l('\u018A')
+```
+
+Working on u018B
+
+```{r, results='asis'}
+l('\u018B')
+```
+
+Working on u018C
+
+```{r, results='asis'}
+l('\u018C')
+```
+
+Working on u018D
+
+```{r, results='asis'}
+l('\u018D')
+```
+
+Working on u018E
+
+```{r, results='asis'}
+l('\u018E')
+```
+
+Working on u018F
+
+```{r, results='asis'}
+l('\u018F')
+```
+
+Working on u0190
+
+```{r, results='asis'}
+l('\u0190')
+```
+
+Working on u0191
+
+```{r, results='asis'}
+l('\u0191')
+```
+
+Working on u0192
+
+```{r, results='asis'}
+l('\u0192')
+```
+
+Working on u0193
+
+```{r, results='asis'}
+l('\u0193')
+```
+
+Working on u0194
+
+```{r, results='asis'}
+l('\u0194')
+```
+
+Working on u0195
+
+```{r, results="asis"}
+l("\u0195")
+```
+
+Working on u0196
+
+```{r, results='asis'}
+l('\u0196')
+```
+
+Working on u0197
+
+```{r, results='asis'}
+l('\u0197')
+```
+
+Working on u0198
+
+```{r, results='asis'}
+l('\u0198')
+```
+
+Working on u0199
+
+```{r, results='asis'}
+l('\u0199')
+```
+
+
+Working on u019E
+
+```{r, results="asis"}
+l("\u019E")
+```
+
+Working on u019F
+
+```{r, results="asis"}
+l("\u019F")
+```
+
+Working on u01A0
+
+```{r, results="asis"}
+l("\u01A0")
+```
+
+Working on u01A1
+
+```{r, results="asis"}
+l("\u01A1")
+```
+
+Working on u01A2
+
+```{r, results="asis"}
+l("\u01A2")
+```
+
+Working on u01A3
+
+```{r, results="asis"}
+l("\u01A3")
+```
+
+Working on u01A4
+
+```{r, results="asis"}
+l("\u01A4")
+```
+
+Working on u01A5
+
+```{r, results="asis"}
+l("\u01A5")
+```
+
+Working on u01A6
+
+*UNSUPPORTED*
+
+Working on u01A7
+
+```{r, results="asis"}
+l("\u01A7")
+```
+
+Working on u01A8
+
+```{r, results="asis"}
+l("\u01A8")
+```
+
+Working on u01A9
+
+```{r, results="asis"}
+l("\u01A9")
+```
+
+Working on u01AA
+
+```{r, results="asis"}
+l("\u01AA")
+```
+
+Working on u01AB
+
+```{r, results="asis"}
+l("\u01AB")
+```
+
+Working on u01AC
+
+```{r, results="asis"}
+l("\u01AC")
+```
+
+Working on u01AD
+
+```{r, results="asis"}
+l("\u01AD")
+```
+
+Working on u01AE
+
+```{r, results="asis"}
+l("\u01AE")
+```
+
+Working on u01AF
+
+```{r, results="asis"}
+l("\u01AF")
+```
+
+Working on u01B0
+
+```{r, results="asis"}
+l("\u01B0")
+```
+
+Working on u01B1
+
+```{r, results="asis"}
+l("\u01B1")
+```
+
+Working on u01B2
+
+```{r, results="asis"}
+l("\u01B2")
+```
+
+Working on u01B3
+
+```{r, results="asis"}
+l("\u01B3")
+```
+
+Working on u01B4
+
+```{r, results="asis"}
+l("\u01B4")
+```
+
+Working on u01B5
+
+```{r, results="asis"}
+l("\u01B5")
+```
+
+Working on u01B6
+
+```{r, results="asis"}
+l("\u01B6")
+```
+
+Working on u01B7
+
+```{r, results="asis"}
+l("\u01B7")
+```
+
+Working on u01B8
+
+```{r, results="asis"}
+l("\u01B8")
+```
+
+Working on u01B9
+
+```{r, results="asis"}
+l("\u01B9")
+```
+
+Working on u01BA
+
+```{r, results="asis"}
+l("\u01BA")
+```
+
+Working on u01BB
+
+```{r, results="asis"}
+l("\u01BB")
+```
+
+
+Working on u01BC
+
+```{r, results='asis'}
+l('\u01BC')
+```
+
+Working on u01BD
+
+```{r, results='asis'}
+l('\u01BD')
+```
+
+Working on u01BE
+
+```{r, results='asis'}
+l('\u01BE')
+```
+
+Working on u01BF
+
+```{r, results='asis'}
+l('\u01BF')
+```
+
+Working on u01C0
+
+```{r, results='asis'}
+l('\u01C0')
+```
+
+Working on u01C1
+
+```{r, results='asis'}
+l('\u01C1')
+```
+
+Working on u01C2
+
+```{r, results='asis'}
+l('\u01C2')
+```
+
+Working on u01C3
+
+```{r, results='asis'}
+l('\u01C3')
+```
+
+Working on u01C4
+
+```{r, results='asis'}
+l('\u01C4')
+```
+
+Working on u01C5
+
+```{r, results='asis'}
+l('\u01C5')
+```
+
+Working on u01C6
+
+```{r, results='asis'}
+l('\u01C6')
+```
+
+Working on u01C7
+
+```{r, results='asis'}
+l('\u01C7')
+```
+
+Working on u01C8
+
+```{r, results='asis'}
+l('\u01C8')
+```
+
+Working on u01C9
+
+```{r, results='asis'}
+l('\u01C9')
+```
+
+Working on u01CA
+
+```{r, results='asis'}
+l('\u01CA')
+```
+
+Working on u01CB
+
+```{r, results='asis'}
+l('\u01CB')
+```
+
+Working on u01CC
+
+```{r, results='asis'}
+l('\u01CC')
+```
+
+Working on u01CD
+
+```{r, results='asis'}
+l('\u01CD')
+```
+
+Working on u01CE
+
+```{r, results='asis'}
+l('\u01CE')
+```
+
+Working on u01CF
+
+```{r, results='asis'}
+l('\u01CF')
+```
+
+Working on u01D0
+
+```{r, results='asis'}
+l('\u01D0')
+```
+
+Working on u01D1
+
+```{r, results='asis'}
+l('\u01D1')
+```
+
+Working on u01D2
+
+```{r, results='asis'}
+l('\u01D2')
+```
+
+Working on u01D3
+
+```{r, results='asis'}
+l('\u01D3')
+```
+
+Working on u01D4
+
+```{r, results='asis'}
+l('\u01D4')
+```
+
+Working on u01D5
+
+```{r, results='asis'}
+l('\u01D5')
+```
+
+Working on u01D6
+
+```{r, results='asis'}
+l('\u01D6')
+```
+
+Working on u01D7
+
+```{r, results='asis'}
+l('\u01D7')
+```
+
+Working on u01D8
+
+```{r, results='asis'}
+l('\u01D8')
+```
+
+Working on u01D9
+
+```{r, results='asis'}
+l('\u01D9')
+```
+
+Working on u01DA
+
+```{r, results='asis'}
+l('\u01DA')
+```
+
+Working on u01DB
+
+```{r, results='asis'}
+l('\u01DB')
+```
+
+Working on u01DC
+
+```{r, results='asis'}
+l('\u01DC')
+```
+
+Working on u01DD
+
+```{r, results='asis'}
+l('\u01DD')
+```
+
+Working on u01DE
+
+```{r, results='asis'}
+l('\u01DE')
+```
+
+Working on u01DF
+
+```{r, results='asis'}
+l('\u01DF')
+```
+
+Working on u01F0
+
+```{r, results='asis'}
+l('\u01F0')
+```
+
+Working on u01F1
+
+```{r, results="asis"}
+l("\u01F1")
+```
+
+Working on u01F2
+
+```{r, results="asis"}
+l("\u01F2")
+```
+
+Working on u01F3
+
+```{r, results="asis"}
+l("\u01F3")
+```
+
+Working on u01F4
+
+```{r, results="asis"}
+l("\u01F4")
+```
+
+Working on u01F5
+
+```{r, results="asis"}
+l("\u01F5")
+```
+
+Working on u01F6
+
+```{r, results='asis'}
+l('\u01F6')
+```
+
+Working on u01F7
+
+```{r, results='asis'}
+l('\u01F7')
+```
+
+Working on u01F8
+
+```{r, results='asis'}
+l('\u01F8')
+```
+
+Working on u01F9
+
+```{r, results='asis'}
+l('\u01F9')
+```
+
+Working on u01FA
+
+```{r, results='asis'}
+l('\u01FA')
+```
+
+Working on u01FB
+
+```{r, results='asis'}
+l('\u01FB')
+```
+
+Working on u01FC
+
+```{r, results='asis'}
+l('\u01FC')
+```
+
+Working on u01FD
+
+```{r, results='asis'}
+l('\u01FD')
+```
+
+Working on u01FE
+
+```{r, results='asis'}
+l('\u01FE')
+```
+
+Working on u01FF
+
+```{r, results='asis'}
+l('\u01FF')
+```

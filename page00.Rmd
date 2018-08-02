@@ -15,7 +15,7 @@ library(stringi)
 
 ```{r}
 p <- function(...) { cat(paste0(...)); invisible(NULL) }
-l <- function(...) { cat(latexify(...)); invisible(NULL) }
+l <- function(...) { cat(tangram:::latexify(...)); invisible(NULL) }
 ```
 
 ## R Markdown
